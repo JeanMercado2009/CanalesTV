@@ -1,0 +1,1243 @@
+#EXTM3U url-tvg="https://www.open-epg.com/files/romania1.xml,https://www.open-epg.com/files/bulgaria1.xml,https://www.open-epg.com/files/colombia1.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina5.xml,https://www.open-epg.com/files/argentina6.xml,https://www.open-epg.com/files/argentina7.xml,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/venezuela1.xml,https://www.open-epg.com/files/unitedstates1.xml,https://www.open-epg.com/files/unitedstates2.xml,https://www.open-epg.com/files/unitedstates3.xml,https://www.open-epg.com/files/unitedstates4.xml,https://www.open-epg.com/files/unitedstates6.xml,https://www.open-epg.com/files/unitedstates7.xml,https://www.open-epg.com/files/unitedstates8.xml,https://www.open-epg.com/files/unitedstates9.xml,https://www.open-epg.com/files/unitedstates10.xml,https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil2.xml,https://www.open-epg.com/files/brazil3.xml,https://www.open-epg.com/files/brazil4.xml,https://www.open-epg.com/files/brazil5.xml,https://www.open-epg.com/files/chile1.xml,https://www.open-epg.com/files/chile2.xml,https://www.open-epg.com/files/spain1.xml,https://www.open-epg.com/files/italy1.xml,https://www.open-epg.com/files/peru1.xml"
+
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a009
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://190.83.9.222:8000/play/ca065
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN Brazil Viejo
+#EXTVLCOPT:network-caching=1000
+http://15.235.9.200:14951/
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN Brazil Viejo 2
+#EXTVLCOPT:network-caching=1000
+http://15.235.9.200:14950/
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (Brazil)
+#EXTVLCOPT:network-caching=1000
+http://168.205.55.2:8000/play/a023
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Panregional) Opción 2
+#EXTVLCOPT:network-caching=1000
+http://200.115.96.66:4000/play/a0dd
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", CN (Colombia) SAP
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a037
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", CN (Colombia Opcion 2)
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a032
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a049
+#EXTINF:0 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (México)
+http://45.189.62.33:8002/play/a0c0
+#EXTINF:-1 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (México)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"85d06ba283f3b18bb14f9f8d59b8fb82":"6659fed472544289adee986c1d33fa79"}
+https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (Claro tv)
+http://tr.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://190.60.42.86:8000/play/a02q
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a04b
+#EXTINF:24 tvg-id="Cartoon Network (East).us" group-title="Infantil" tvg-logo="https://github.com/JeanMercado2009/tv-logos/blob/main/misc/vod/cartoon-network-adult-swim-vod-us.png?raw=true", CN / Adult Swim (USA)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CARTOON HD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://190.60.39.195:8000/play/a0w9
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil"tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Panregional) (H264)
+#EXTVLCOPT:network-caching=1000
+http://190.60.53.205:8000/play/a02b
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Panregional ORIGEN)
+#EXTVLCOPT:network-caching=1000
+http://200.4.244.29:8000/play/a012
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://45.190.187.183:8080/play/a1db
+#EXTINF:0 tvg-id="Tooncast.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tooncast-lam.png", Tooncast (Latinoamérica)
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a035
+#EXTINF:0 tvg-id="Discovery Kids.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a00o
+#EXTINF:0 tvg-id="Discovery Kids.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids HD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a00i
+#EXTINF:0 tvg-id="GOLDEN HD.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/golden-lam.png", GOLDEN HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a013
+#EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/golden-edge-lam.png", GOLDEN EDGE HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a014
+#EXTINF:0 group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/DNews.png", DNews
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a06z
+#EXTINF:0 tvg-id="TN.ar" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/TN_todo_noticias_logo.svg.png", TN HD (Argentina)
+#EXTVLCOPT:network-caching=1000
+http://181.198.105.69:8111/play/a1ei
+#EXTINF:0 group-title="Noticias", Chilevisión HD (Chile)
+#EXTVLCOPT:network-caching=1000
+http://38.250.127.17:9800/play/a05h
+#EXTINF:0 tvg-id=Zoom.co" group-title="Educación", Zoom TV
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a02p
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Radio
+#EXTVLCOPT:network-caching=1000
+https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports
+#EXTVLCOPT:network-caching=1000
+http://179.63.6.12:9000/play/a01k
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.198.105.69:8111/play/a279
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Chile
+#EXTVLCOPT:network-caching=1000
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYKBjmhZLY9NK7i8DUNUFZAn/m3u8
+#EXTINF:0 group-title="Deportes", Claro Sports
+#EXTVLCOPT:network-caching=1000
+http://179.63.6.12:9000/play/a02n
+#EXTINF:0 group-title="Deportes", Claro Sports 2
+#EXTVLCOPT:network-caching=1000
+http://181.78.192.238:8000/play/a2dk
+#EXTINF:0 group-title="Deportes", FOX México
+#EXTVLCOPT:network-caching=1000
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYLLQ0O2815Rrc5HgCSxohxS/m3u8
+#EXTINF:0 group-title="Deportes", FOX+ México
+#EXTVLCOPT:network-caching=1000
+http://199.127.63.143:9090/311886_.m3u8
+#EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win + Fútbol
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a02r
+#EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol HD
+#EXTVLCOPT:network-caching=1000
+http://190.61.40.187:45000/play/a024
+#EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol H264
+#EXTVLCOPT:network-caching=1000
+http://181.78.20.77:18000/play/a03e
+#EXTINF:0 tvg-id="Win Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a0ef
+#EXTINF:0 tvg-id="Win Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports HD
+#EXTVLCOPT:network-caching=1000
+http://45.238.146.131:8008/play/a00h/index.m3u8
+#EXTINF:0 tvg-id="Win Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports HD Backup
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a011
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/tnt-sports-premium-lam.png", TNT Sports Premium HD
+#EXTVLCOPT:network-caching=1000
+http://148.222.230.144:8000/play/a0d0
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/tnt-sports-lam.png", TNT Sports
+#EXTVLCOPT:network-caching=1000
+http://179.1.95.167:18000/play/a0az
+#EXTINF:0 tvg-id="Cablenoticias.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Cable_Noticias_logo.svg.webp", CABLE NOTICIAS HD
+#EXTVLCOPT:network-caching=1000
+http://190.0.247.38:8000/play/a028
+#EXTINF:0 tvg-id="Blu Radio" group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Logo%20Blu%20Radio.png", BLU RADIO NACIONAL (Internet)
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO_ADP.aac
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Logo%20Blu%20Radio.png", BLU BARRANQUILLA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_BARRANQUILLA_ADP.aac?dist= blu_web
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Logo%20Blu%20Radio.png", BLU BUCARAMANGA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_BUCARAMANGA_ADP.aac
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Logo%20Blu%20Radio.png", BLU CALI (Internet)
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_CALI_ADP.aac?dist= blu_web
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Logo%20Blu%20Radio.png", BLU MEDELLÍN (Internet)
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_MEDELLIN_ADP.aac?dist= blu_web
+#EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", CARACOL HD
+#EXTVLCOPT:network-caching=1000
+http://181.79.84.66:8000/play/a01w
+#EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", CARACOL SD
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a00q
+#EXTINF:0 group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/CaracolHD22025.svg/revision/latest/scale-to-width-down/200?cb=20250112231503&path-prefix=es", CARACOL HD2
+#EXTVLCOPT:network-caching=1000
+http://190.102.120.20:8000/play/a03j
+#EXTINF:0 tvg-id="Teleantioquia.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Teleantioquia-icon.png", TELEANTIOQUIA SD
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a01t
+#EXTINF:0 tvg-id="Teleantioquia HD.co" -title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Teleantioquia-icon.png", TELEANTIOQUIA HD
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a032
+#EXTINF:0 tvg-id="Telemedellín HD.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/telemedellin.png", TELEMEDELLÍN HD
+#EXTVLCOPT:network-caching=1000
+http://190.0.247.38:8000/play/a008
+#EXTINF:0 tvg-id="Telemedellín.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/telemedellin.png", TELEMEDELLÍN HD (60fps)
+#EXTVLCOPT:network-caching=1000
+http://181.79.84.66:8000/play/a01y
+#EXTINF:0 tvg-id="Telecaribe.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TelecaribeCol2025white.webp", TELECARIBE HD
+#EXTVLCOPT:network-caching=1000
+http://190.60.39.195:8000/play/a0rv
+#EXTINF:0 tvg-id="Telecaribe.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TelecaribeCol2025white.webp", TELECARIBE
+#EXTVLCOPT:network-caching=1000
+http://190.66.23.210:9003/play/a0ev
+#EXTINF:0 tvg-id="Telecaribe.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TelecaribeCol2025white.webp", TELECARIBE FHD
+#EXTVLCOPT:network-caching=1000
+http://190.60.48.149:8000/play/TELECARIBE
+#EXTINF:0 group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TelecaribePlus2023.webp", TELECARIBE PLUS
+#EXTVLCOPT:network-caching=1000
+http://190.66.23.210:9003/play/a0ab
+#EXTINF:0 tvg-id="Telecafe.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/telecafe-lam.png", TELECAFE
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0de
+#EXTINF:0 group-title="Televisión Regional", Canal 9 Local
+#EXTVLCOPT:network-caching=1000
+http://190.66.23.210:9003/play/a09w
+#EXTINF:0 tvg-id="Telepacifico.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Telepacifico.png", TELEPACIFICO (Streaming)
+#EXTVLCOPT:network-caching=1000
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:0 tvg-id="Telepacifico.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Telepacifico.png", TELEPACIFICO
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0d7
+#EXTINF:0 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv TDT (Inestable)
+#EXTVLCOPT:network-caching=1000
+http://190.14.248.42:8000/play/a00k
+#EXTINF:0 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv HD
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a00z
+#EXTINF:0 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv SD 
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a0e6
+#EXTINF:0 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv SD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.78.85.59:2500/play/a01z
+#EXTINF:0 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv SD TDT
+#EXTVLCOPT:network-caching=1000
+http://138.117.110.151:8000/play/a0gf
+#EXTINF:0 tvg-id="El Tiempo Television.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/ElTiempoTelevision.webp", EL TIEMPO TELEVISIÓN HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.71.71:18000/play/a003
+#EXTINF:0 tvg-id="TELEFE.ar" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png", Telefe SD (Argentina)
+#EXTVLCOPT:network-caching=1000
+http://190.60.44.98:9000/play/a04f
+#EXTINF:0 tvg-id="TELEFE.ar" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png", Telefe HD (Argentina)
+#EXTVLCOPT:network-caching=1000
+http://200.115.120.1:8000/play/ca016
+#EXTINF:0 tvg-id="TELEFE.ar" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png", Telefe Internacional
+#EXTVLCOPT:network-caching=1000
+http://107.152.39.199:8030/hls/canal13.m3u8
+#EXTINF:0 tvg-id="EWTN.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/EWTN.png", EWTN
+#EXTVLCOPT:network-caching=1000
+http://190.66.23.210:9003/play/a0ec
+#EXTINF:0 tvg-id="RCN HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", RCN HD
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a02n
+#EXTINF:0 tvg-id="RCN HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", RCN HD 720p
+#EXTVLCOPT:network-caching=1000
+http://cdn-content-cf2-us.latamlive.net/RCN_IP_ENC_LIVE/index.m3u8
+#EXTINF:0 group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", MUNDIAL RCN
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/6924e72e1c8279cc99155672.m3u8?uid=voLHow2e3TcSlvnLPXBjDIrWNH1LH6td&sid=kSMj9Sd5ysRHemzrwlE8ZB0wr11B2JRI&pid=r9qU2kWwy5IE5boUYUqMd6ACStiLIqYi&pid_dvr=OnIgtJl182ncjMs5YtS92AkGoDTQMfzW&an=player-video-ott-rcn&at=web-app&av=v6.0.267&c=69384e5f6f09ec23fc00b12e&ref=https%3A%2F%2Fwww.rcnradio.com%2F&res=976x543&without_cookies=false&listenerid=&dnt=true&access_token=2MakLbVDDwm2TfjvghF5IP3DX9uDSQrZNlTRZxMnWIV449h2LwkFh36I2OZ36iIJ78eyMtYS9D8&CMCD=cid%3D%226924e72e1c8279cc99155672%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22r9qU2kWwy5IE5boUYUqMd6ACStiLIqYi%22%2Csu
+#EXTINF:0 tvg-id="RCN HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", RCN SD
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a0ds
+#EXTINF:0 tvg-id="RCN.HDTV.2.(RCNHD2).co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/RCNHD2-NewLogo2023.png/revision/latest/scale-to-width-down/220?cb=20230623165814", RCN HD2
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a02o
+#EXTINF:0 tvg-id="RCN Novelas.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN-icon.png", RCN Novelas HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://38.156.13.106:8888/play/a057
+#EXTINF:0 tvg-id="RCN Novelas.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN-icon.png", RCN Novelas (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.156.46:8000/play/a057
+#EXTINF:0 tvg-id="RCN Nuestra Tele.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN-icon.png", RCN Nuestra Tele (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.156.46:8000/play/a059
+#EXTINF:0 tvg-id="RCN Nuestra Tele.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN-icon.png", RCN Nuestra Tele SD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a01i
+#EXTINF:0 tvg-id="RCN Nuestra Tele.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN-icon.png", RCN Nuestra Tele HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://38.156.13.106:8888/play/a06l
+#EXTINF:0 group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN-icon.png", RCN Nuestra Tele (Internacional)
+#EXTVLCOPT:network-caching=1000
+http://181.79.87.91:9500/play/a0b5
+#EXTINF:0 group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN-icon.png", RCN Nuestra Tele SD (Internacional)
+#EXTVLCOPT:network-caching=1000
+http://160.20.165.246:8000/play/a015
+#EXTINF:0 group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN-icon.png", RCN Más
+#EXTVLCOPT:network-caching=1000
+http://200.59.188.3:8000/play/a0ab
+#EXTINF:0 tvg-id="Canal 13.cl" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/chile/canal13-cl.png", Canal 13 (Chile)
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a006
+#EXTINF:0 tvg-id="Día TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/logo_redmas.png", RED+ COLOMBIA SD
+#EXTVLCOPT:network-caching=1000
+http://186.96.97.166:48001/play/a0al
+#EXTINF:0 tvg-id="Día TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/logo_redmas.png", RED+ COLOMBIA HD
+#EXTVLCOPT:network-caching=1000
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:0 tvg-id="Canal TR3CE.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TreceColombiaWhite.webp", CANAL TRECE COLOMBIA
+#EXTVLCOPT:network-caching=1000
+http://138.117.86.167:18000/play/a069
+#EXTINF:0 group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TreceM%253Fs.webp", CANAL TRECE+ COLOMBIA
+#EXTVLCOPT:network-caching=1000
+http://179.1.139.84:8000/play/a04b
+#EXTINF:0 tvg-id="VTV.ve" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Venezolana_de_Televisi%C3%B3n_2018.svg.webp", VTV HD
+#EXTVLCOPT:network-caching=1000
+http://38.41.8.1:8000/play/a0xq
+#EXTINF:0 tvg-id="TELEVID.co" group-title="Santa Misa" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/televid-logo-2025-1024x1002.png", TELEVID HD
+#EXTVLCOPT:network-caching=1000
+http://190.60.42.86:8000/play/a04b
+#EXTINF:-1 group-title="Televisión Abierta" tvg-id="CityTVCarlsbad.us@SD" tvg-logo="https://i.imgur.com/G6h8efT.png", Carlsbad City TV Channel (Carlsbad CA) (720p)
+https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM BUCARAMANGA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632cc765194ef808b9f59618/playlist.m3u8?listeningSessionID=696c5c821055f2b0_123605_sGiOxsh6_dXMtYjQtcC1lLXFnMTItYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_00000004IpN&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=APoYqCnTgTH9XPVwwZeypTqH0LPGrcml&sid=VN8lyBJF03upRswPR6dp9wrieZ0AnpVl&pid=HlpUUHIv8y5xxzRHrRWwIqBlmwkMR115&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cc765194ef808b9f59618%22%2Cmtp%3D13100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22HlpUUHIv8y5xxzRHrRWwIqBlmwkMR115%22&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1768919255867&ot=g4uIJ4Cn6WEGBK2P8wreVg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632cc765194ef808b9f59618&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=APoYqCnTgTH9XPVwwZeypTqH0LPGrcml
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM BOGOTÁ (Internet)
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/audio/632c9b23d1dcd7027f32f7fe/live.m3u8?_=1763581005153&dnt=true&player=6865fe1cb8f25d7257c85a93&uid=FBjtRjNO7aKBZAAioZcW1a7TKqjJPJ9L&sid=c4lBtlNuu7FHhVK7rBbZj6XbRJDI9aNl&pid=taI1YJEqPv11IcWFzpm8X5xKgW6kE80K&an=demo-rcn-app-web&at=web-app&av=v1.0.39&sc=0&ref=www.rcnradio.com&res=1680x1050&CMCD=cid%3D%22632c9b23d1dcd7027f32f7fe%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22taI1YJEqPv11IcWFzpm8X5xKgW6kE80K%22%2Csu
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM BARRANQUILLA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632cbdb5202d6801a31785b0/playlist.m3u8?listeningSessionID=68a8273978be54e5_12661439_xn6RNjIB_dXMtYjQtcC1lLXpzMTQtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000daw1r&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=sJ0tPqFdwfWl60fMuQVVNGkN4z2pVpbI&sid=PLxpofVAuMsk7lWKI7dn7DW1hrRpyXMf&pid=Ri6oOflyhsiri2ce05IHoL7U7q1Af5Nu&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cbdb5202d6801a31785b0%22%2Cmtp%3D9900%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22Ri6oOflyhsiri2ce05IHoL7U7q1Af5Nu%22&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1768598391906&ot=3P33kFhmKsToMiRIFTZrvw&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632cbdb5202d6801a31785b0&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=sJ0tPqFdwfWl60fMuQVVNGkN4z2pVpbI
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM MEDELLÍN (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632c9d81bc02c60329991f25/playlist.m3u8?listeningSessionID=6941574b117acc42_2943781_0Yc99loL_dXMtYjQtcC1lLWNnMTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000001PkEv&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=APoYqCnTgTH9XPVwwZeypTqH0LPGrcml&sid=VN8lyBJF03upRswPR6dp9wrieZ0AnpVl&pid=rSR5mEUYXFpfdSfYa57T6cVj2vWoGCWH&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632c9d81bc02c60329991f25%22%2Cmtp%3D12300%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22rSR5mEUYXFpfdSfYa57T6cVj2vWoGCWH%22&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1768920048313&ot=BT6PHrBsolcQ-AcGCuuiRA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632c9d81bc02c60329991f25&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=APoYqCnTgTH9XPVwwZeypTqH0LPGrcml
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM MANIZALES (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/633d8486439eba082ca32c5a/playlist.m3u8?listeningSessionID=68f41f8116a4f982_8122690_FOa5sKzq_dXMtYjQtcC1lLWphMTYtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000003jQ57&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=FCOoUM6Rdnitm1387b64wSKHp13sEf1c&sid=cdatqTwIn4OsZR0OkXTSbPTDSQKPtE5X&pid=yNuUhu0q3Zj9lJ3WIVnCQ0N8yPB7THKK&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22633d8486439eba082ca32c5a%22%2Cmtp%3D11100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22yNuUhu0q3Zj9lJ3WIVnCQ0N8yPB7THKK%22&es=us-b4-p-e-ja16-audio.cdn.mdstrm.com&ote=1769038402912&ot=QqwXTZSI2iE04_BeCZWEVQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=633d8486439eba082ca32c5a&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=FCOoUM6Rdnitm1387b64wSKHp13sEf1c
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM CALI (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/632cb714202d6801a3178462/playlist.m3u8?listeningSessionID=68a82d013dfbb56f_13100053_uEmAJa8t_dXMtYjQtcC1lLXBiMTMtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000dI22O&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=FCOoUM6Rdnitm1387b64wSKHp13sEf1c&sid=cdatqTwIn4OsZR0OkXTSbPTDSQKPtE5X&pid=yNwAMxzs0Pfl14pHPIqD0OXLVJpycyT8&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cb714202d6801a3178462%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22yNwAMxzs0Pfl14pHPIqD0OXLVJpycyT8%22%2Csu&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1769038485539&ot=Ex2oYCMNbVdIiHHi45BOlg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632cb714202d6801a3178462&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=FCOoUM6Rdnitm1387b64wSKHp13sEf1c
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM CARTAGENA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/632cca662f44cf6996467d6c/playlist.m3u8?listeningSessionID=68ece6a77ed7b596_8477862_tIsJexen_dXMtYjQtcC1lLW1sMTktYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000003KHBa&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=APoYqCnTgTH9XPVwwZeypTqH0LPGrcml&sid=VN8lyBJF03upRswPR6dp9wrieZ0AnpVl&pid=fe1b3FoPFKOLBTsTp5yjUoI20gVea9ij&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cca662f44cf6996467d6c%22%2Cmtp%3D10400%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22fe1b3FoPFKOLBTsTp5yjUoI20gVea9ij%22&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1768920268996&ot=_x5YRMRKqT3EDhfoTfBBxQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632cca662f44cf6996467d6c&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=APoYqCnTgTH9XPVwwZeypTqH0LPGrcml
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM CÚCUTA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/632cccdf9234f869e9a51995/playlist.m3u8?listeningSessionID=69126c736659af46_6019464_PV9zVlbl_dXMtYjQtcC1lLWpuMTgtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000002Kbwa&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=APoYqCnTgTH9XPVwwZeypTqH0LPGrcml&sid=VN8lyBJF03upRswPR6dp9wrieZ0AnpVl&pid=kawxaqC4wAKN7ewCKXrxDlRsIgLMKlx9&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cccdf9234f869e9a51995%22%2Cmtp%3D13100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22kawxaqC4wAKN7ewCKXrxDlRsIgLMKlx9%22&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1768920955377&ot=-y1TYGdiPqw0SzOJFml1ZA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632cccdf9234f869e9a51995&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=APoYqCnTgTH9XPVwwZeypTqH0LPGrcml
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM DUITAMA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-nq15-audio.cdn.mdstrm.com/live-audio-aw/632ccdce6efb0064821b278a/playlist.m3u8?listeningSessionID=68d473c5d29684c8_10198386_2dejTmEs_dXMtYjQtcC1lLW5xMTUtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_00000042GWG&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=FCOoUM6Rdnitm1387b64wSKHp13sEf1c&sid=cdatqTwIn4OsZR0OkXTSbPTDSQKPtE5X&pid=9wD233Q0V9EUOBWEFqNtrImhT0EJwXTr&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632ccdce6efb0064821b278a%22%2Cmtp%3D13100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%229wD233Q0V9EUOBWEFqNtrImhT0EJwXTr%22&es=us-b4-p-e-nq15-audio.cdn.mdstrm.com&ote=1769038519332&ot=bmpYbIUawE5yVDLp05-5mQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632ccdce6efb0064821b278a&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=FCOoUM6Rdnitm1387b64wSKHp13sEf1c
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM POPAYÁN (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/633d84eead5635087915cecc/playlist.m3u8?listeningSessionID=6941574b117acc42_4707658_BCx9NQLz_dXMtYjQtcC1lLWNnMTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000002YyfK&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=thNHk35eshhm7agJxbJTsHItP8AxlICj&sid=Nup4XH5al6hlcK87TuD5nEp0shSHagNb&pid=GuwA3GvAXm4W9JbUavodXh9P2d2721Jp&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22633d84eead5635087915cecc%22%2Cmtp%3D7200%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22GuwA3GvAXm4W9JbUavodXh9P2d2721Jp%22&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1770683924999&ot=K6ciEA5TV9uwKgPIlhy9CA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=633d84eead5635087915cecc&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.50&customerId=69384e5f6f09ec23fc00b12e&listenerId=thNHk35eshhm7agJxbJTsHItP8AxlICj
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM MONTERÍA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632cd834b0c9bf087068fba8/playlist.m3u8?listeningSessionID=6941574b117acc42_3062510_4Edzu5Ll_dXMtYjQtcC1lLWNnMTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000001TDPy&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=FCOoUM6Rdnitm1387b64wSKHp13sEf1c&sid=cdatqTwIn4OsZR0OkXTSbPTDSQKPtE5X&pid=8DsxgJIjeeH5d0HsQ1YJOfRFGBggNNql&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cd834b0c9bf087068fba8%22%2Cmtp%3D13100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%228DsxgJIjeeH5d0HsQ1YJOfRFGBggNNql%22&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769038777394&ot=-m5mDwyzC4ENMpvW-nFInQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632cd834b0c9bf087068fba8&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=FCOoUM6Rdnitm1387b64wSKHp13sEf1c
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM VILLAVICENCIO (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632ceae59234f869e9a525c5/playlist.m3u8?listeningSessionID=68123ac4c44f16b6_2243368_EhK8602Y_dXMtYjQtcC1lLWNnMTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000002kNr1&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=WR9AvVkCxOZRZ0R68IWYVX7Vfa2IXQwG&sid=tOmlsBgVLZSmvkdJwoHjALlJJ8joSkid&pid=cl8UQ718Va2YpAuN6EjnjM2ZzsUIe9Dc&ref=www.rcnradio.com&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1748354920451&ot=bOVvQSXas-9DMXaRzs6txA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=La%20basica&liveId=632ceae59234f869e9a525c5&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=La%20basica&propertyType=web-app&propertyVersion=v1.0.19&listenerId=WR9AvVkCxOZRZ0R68IWYVX7Vfa2IXQwG
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM TUNJA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio/6271a4d5d206c3172f3c9a9c/68e1a8a088b80341f274901f/chunks.m3u8?CMCD=cid%3D%2268e1a8a088b80341f274901f%22%2Cmtp%3D14400%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22kpSWBuoXawj9bqEpUsvUfnjv6S1PA6XF%22&aid=6271a4d5d206c3172f3c9a9c&c=69384e5f6f09ec23fc00b12e&cP=128000&dnt=true&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ot=W6AeU-kiXUF_vCmbcV1M1g&ote=1769038819573&pid=kpSWBuoXawj9bqEpUsvUfnjv6S1PA6XF&proto=https&pz=us&ref=www.rcnradio.com&sid=cdatqTwIn4OsZR0OkXTSbPTDSQKPtE5X&uid=FCOoUM6Rdnitm1387b64wSKHp13sEf1c
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM PASTO (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/632cdafcaa9ace684913c738/playlist.m3u8?listeningSessionID=68ece6a77ed7b596_8596468_wRvZ7tIe_dXMtYjQtcC1lLW1sMTktYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000003Oa95&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=FCOoUM6Rdnitm1387b64wSKHp13sEf1c&sid=cdatqTwIn4OsZR0OkXTSbPTDSQKPtE5X&pid=weNMD3EScAtoFWNKs5CH9XFdegbrxY92&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cdafcaa9ace684913c738%22%2Cmtp%3D9800%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22weNMD3EScAtoFWNKs5CH9XFdegbrxY92%22&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1769038875071&ot=S_EHbWWrZ20zmYw4FFqXiw&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632cdafcaa9ace684913c738&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=FCOoUM6Rdnitm1387b64wSKHp13sEf1c
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM NEIVA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632cd907d1dcd7027f3305e5/playlist.m3u8?listeningSessionID=68a8273978be54e5_13101977_iKLIf0GS_dXMtYjQtcC1lLXpzMTQtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000dAOej&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=FCOoUM6Rdnitm1387b64wSKHp13sEf1c&sid=cdatqTwIn4OsZR0OkXTSbPTDSQKPtE5X&pid=rC5Cwz52cZTvMaZcKc4vQsMLYd6Ogb9w&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cd907d1dcd7027f3305e5%22%2Cmtp%3D7600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22rC5Cwz52cZTvMaZcKc4vQsMLYd6Ogb9w%22&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769038930224&ot=A_yFcAlFdR0gSB65QnqS5w&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632cd907d1dcd7027f3305e5&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=FCOoUM6Rdnitm1387b64wSKHp13sEf1c
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM EJE CAFETERO (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/632ce162cf7ee90877c34d5c/playlist.m3u8?listeningSessionID=68a82d013dfbb56f_16788008_1FakO5WP_dXMtYjQtcC1lLXBiMTMtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000i8lL6&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=CFcOHM53ctTyTlRWTSfXjFi9qOq3oZAO&sid=VXLFlv4lEOkA6MeiTcGCHzhZXVB7gPho&pid=Ivald0VoljSLPXqdZPGKO0tAB6zB19l2&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632ce162cf7ee90877c34d5c%22%2Cmtp%3D13100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22Ivald0VoljSLPXqdZPGKO0tAB6zB19l2%22&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1772726440742&ot=osSA2Hv55RUGglHeGvjSnw&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-audio-ott-rcn&liveId=632ce162cf7ee90877c34d5c&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=player-audio-ott-rcn&propertyType=web-app&propertyVersion=v1.0.54&customerId=69384e5f6f09ec23fc00b12e&listenerId=CFcOHM53ctTyTlRWTSfXjFi9qOq3oZAO
+#EXTINF:60 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM (Visual Radio)
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/68d2d1969169232fee8270eb.m3u8?uid=FBjtRjNO7aKBZAAioZcW1a7TKqjJPJ9L&sid=c4lBtlNuu7FHhVK7rBbZj6XbRJDI9aNl&pid=uBlOkh1751Olv4j3iwMtnApi9LExHf8n&pid_dvr=0lNwqGpn00K1Lkf1UUmUsK17xWJl6dGL&an=demo-rcn-app-web&at=web-app&av=v6.0.230&ref=https%3A%2F%2Fwww.rcnradio.com%2F&res=1389x503&without_cookies=false&listenerid=&dnt=true&access_token=XFcPK5u6XmYBnxhZ0GBqbS40BqACY2E9anqcLuRVBFdszs1VjGV64sebX2zNMHj0mBXR0kZTq0t&CMCD=cid%3D%2268d2d1969169232fee8270eb%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22uBlOkh1751Olv4j3iwMtnApi9LExHf8n%22%2Csu
+#EXTINF:60 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCNRadioApp.webp", Capsula LCDLFC (RCN Radio)
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/6924e72e1c8279cc99155672.m3u8?uid=8BXywneRKIPdeKnKEhjw9XL1QOq6yYjl&sid=TSsbiYI36HP50zMXPk3FKYclf1WGUR98&pid=dtMt9ebdaJcxaY9EPkhJf8sOd82jziub&pid_dvr=EXzpQBiBwVUltmPHuEzPesmLCWkTH4nM&an=demo-rcn-app-web&at=web-app&av=v6.0.256&c=69384e5f6f09ec23fc00b12e&ref=https%3A%2F%2Fwww.rcnradio.com%2F&res=1380x474&without_cookies=false&listenerid=&dnt=true&access_token=rTpCYKbQfDAB4ix2tFm7S9KYjz247S0IrmBKg7HgUB5RkDMAUcH5PHnP5Q5uz5D2x1QNu2Gqszi&CMCD=cid%3D%226924e72e1c8279cc99155672%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22dtMt9ebdaJcxaY9EPkhJf8sOd82jziub%22%2Csu
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-fm.png", LA FM | #SomosRCN
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/68d2d1969169232fee8270eb.m3u8?uid=FG0IFKwUDAPFWHuVds8kuiOv2M3bQydZ&sid=30WcfKeTCPzQQZbuIv52qeXQgTUdRlFl&pid=PTJoLkuntXWZsQcquzBZhEFbLn0BXAEv&pid_dvr=JUx0AHJXjol8bd4Crvg72I7vjWsT7b33&an=demo-rcn-app-web&at=web-app&av=v6.0.230&ref=https%3A%2F%2Fwww.rcnradio.com%2F&res=1389x503&without_cookies=false&listenerid=&dnt=true&access_token=NOLMh06EPbRln9dgT391Dfpuz7VthYZWM4zQjwQr1UEHis6gHG6ZUEtU3E9yf0t9eBIqVQ7We3p&CMCD=cid%3D%2268d2d1969169232fee8270eb%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22PTJoLkuntXWZsQcquzBZhEFbLn0BXAEv%22%2Csu
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la_fm_plus.png", LA FM PLUS BOGOTÁ (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/627c1c39637d89088290f64d/playlist.m3u8?listeningSessionID=68a82d013dfbb56f_13100754_uGuWI4YK_dXMtYjQtcC1lLXBiMTMtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000dI48N&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=S1eOnEwJKUZeS9ZVkPKVYMWRKBXjSwYJ&sid=mRtcpwcpWdvytq02791Bg5LSWFvsf4Zk&pid=KaKiouV6oi464W1u1W6zDUzgWhIEvdSz&ref=lafmplus.com&CMCD=cid%3D%22627c1c39637d89088290f64d%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22KaKiouV6oi464W1u1W6zDUzgWhIEvdSz%22%2Csu&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1769039186975&ot=1yBmL6FUzKYBSkuXGBszeA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-la-fm-plus&liveId=627c1c39637d89088290f64d&referer=https%3A%2F%2Flafmplus.com%2F&propertyName=player-landing-la-fm-plus&propertyType=web-app&propertyVersion=v1.0.48&listenerId=S1eOnEwJKUZeS9ZVkPKVYMWRKBXjSwYJ
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la_fm_plus.png", LA FM PLUS BUCARAMANGA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/632cc62fbc02c60329992b93/playlist.m3u8?listeningSessionID=69126c736659af46_6137813_DQONJXBL_dXMtYjQtcC1lLWpuMTgtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000002NCyI&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=S1eOnEwJKUZeS9ZVkPKVYMWRKBXjSwYJ&sid=mRtcpwcpWdvytq02791Bg5LSWFvsf4Zk&pid=9qv9jhkMcwwQN5R9Ne8YtK2pO13gi1yg&ref=lafmplus.com&CMCD=cid%3D%22632cc62fbc02c60329992b93%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%229qv9jhkMcwwQN5R9Ne8YtK2pO13gi1yg%22%2Csu&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769039304375&ot=gwbPT6WScjOfXoarD5vOAQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-la-fm-plus&liveId=632cc62fbc02c60329992b93&referer=https%3A%2F%2Flafmplus.com%2F&propertyName=player-landing-la-fm-plus&propertyType=web-app&propertyVersion=v1.0.48&listenerId=S1eOnEwJKUZeS9ZVkPKVYMWRKBXjSwYJ
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la_fm_plus.png", LA FM PLUS CALI (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632cb854b70c350af5bc290b/playlist.m3u8?listeningSessionID=696c5c821055f2b0_243681_bDU3k0PM_dXMtYjQtcC1lLXFnMTItYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000000asDV&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=S1eOnEwJKUZeS9ZVkPKVYMWRKBXjSwYJ&sid=mRtcpwcpWdvytq02791Bg5LSWFvsf4Zk&pid=UTpduG5zbWSUkzkKzISJgQnub5C7BQDN&ref=lafmplus.com&CMCD=cid%3D%22632cb854b70c350af5bc290b%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22UTpduG5zbWSUkzkKzISJgQnub5C7BQDN%22%2Csu&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1769039331613&ot=0AD6NZZ0luem8cSec_qqbQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-la-fm-plus&liveId=632cb854b70c350af5bc290b&referer=https%3A%2F%2Flafmplus.com%2F&propertyName=player-landing-la-fm-plus&propertyType=web-app&propertyVersion=v1.0.48&listenerId=S1eOnEwJKUZeS9ZVkPKVYMWRKBXjSwYJ
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la_fm_plus.png", LA FM PLUS MEDELLÍN (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632cb5dd08346a0889655d9d/playlist.m3u8?listeningSessionID=68a8273978be54e5_14406774_eMpeB30W_dXMtYjQtcC1lLXpzMTQtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000f1mev&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=bReQppIf35OoxyObqXMxyeBTTfSoIcMr&sid=rkqnbLOsFiah4K1vbHpNCxKCkd43HLrK&pid=B1SVDaB6lRGQE1BQFDa1cKar7V3IY7NP&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cb5dd08346a0889655d9d%22%2Cmtp%3D13100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22B1SVDaB6lRGQE1BQFDa1cKar7V3IY7NP%22&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1770343727638&ot=BUSU51172IjB6WhLCr-olQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632cb5dd08346a0889655d9d&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.50&customerId=69384e5f6f09ec23fc00b12e&listenerId=bReQppIf35OoxyObqXMxyeBTTfSoIcMr
+#EXTINF:0 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/AlertaRCN.svg/revision/latest/scale-to-width-down/250?cb=20250722181847&path-prefix=es", ALERTA BOGOTÁ (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/632c9c1cbc02c60329991efa/playlist.m3u8?listeningSessionID=68a82d013dfbb56f_12981937_ItmT7D8k_dXMtYjQtcC1lLXBiMTMtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000dAbAK&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=usmkEtzOrVzROdFOqwssH3AdVckeqsRc&sid=sj4q676tvbmESOBvDNngMLSWG9Ro2XeV&pid=nBSZJk2ZT4ERyPWCQOPP4vLJqi8flmry&ref=bogota.alerta.com.co&CMCD=cid%3D%22632c9c1cbc02c60329991efa%22%2Cmtp%3D13100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22nBSZJk2ZT4ERyPWCQOPP4vLJqi8flmry%22&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1768920370419&ot=hLbNyys0J6WHGL5JVCFZDw&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=alerta&liveId=632c9c1cbc02c60329991efa&referer=https%3A%2F%2Fbogota.alerta.com.co%2F&propertyName=alerta&propertyType=web-app&propertyVersion=v1.0.48&listenerId=usmkEtzOrVzROdFOqwssH3AdVckeqsRc
+#EXTINF:0 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/AlertaRCN.svg/revision/latest/scale-to-width-down/250?cb=20250722181847&path-prefix=es", ALERTA PAISA (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/632cb4abaa9ace684913be97/playlist.m3u8?listeningSessionID=69126c736659af46_6837661_wi2Lqgq5_dXMtYjQtcC1lLWpuMTgtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000388VU&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF&sid=GiSu1gu3Y14eenQs9TeHUCvtfqgGDX3R&pid=4wchcDViXVqvuQYnIQRuBGbdI1sKUEJh&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cb4abaa9ace684913be97%22%2Cmtp%3D13100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224wchcDViXVqvuQYnIQRuBGbdI1sKUEJh%22&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769739151935&ot=lCUq85jsxZslj6iUUybpAg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632cb4abaa9ace684913be97&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF
+#EXTINF:0 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/AlertaRCN.svg/revision/latest/scale-to-width-down/250?cb=20250722181847&path-prefix=es", ALERTA CALIDAD (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/632cb78bd7882109c853f2af/playlist.m3u8?listeningSessionID=68ece6a77ed7b596_9296792_ExNDbm6v_dXMtYjQtcC1lLW1sMTktYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_00000048XYW&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF&sid=GiSu1gu3Y14eenQs9TeHUCvtfqgGDX3R&pid=qq7eUnEKJsKg2MTqQCZFiUb85F64qjxw&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cb78bd7882109c853f2af%22%2Cmtp%3D10400%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22qq7eUnEKJsKg2MTqQCZFiUb85F64qjxw%22&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1769739199471&ot=Dndw9Tos-1-C5A9WQnP3wQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632cb78bd7882109c853f2af&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF
+#EXTINF:0 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/AlertaRCN.svg/revision/latest/scale-to-width-down/250?cb=20250722181847&path-prefix=es", ALERTA ARMENIA (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/632cb885194ef808b9f594ad/playlist.m3u8?listeningSessionID=69126c736659af46_6837742_yqxNRv69_dXMtYjQtcC1lLWpuMTgtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000003892C&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF&sid=GiSu1gu3Y14eenQs9TeHUCvtfqgGDX3R&pid=OAYRXjcwoO6WeUayEbRqps784kk2Nnw7&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cb885194ef808b9f594ad%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22OAYRXjcwoO6WeUayEbRqps784kk2Nnw7%22%2Csu&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769739232633&ot=xuimfth7RCxbhEWNOwcz1g&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632cb885194ef808b9f594ad&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/alerta-barranquilla.png", ALERTA BARRANQUILLA (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632cbb54ebfe48089b0c504d/playlist.m3u8?listeningSessionID=6941574b117acc42_2944787_5Rwr19AJ_dXMtYjQtcC1lLWNnMTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000001Pnpt&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=usmkEtzOrVzROdFOqwssH3AdVckeqsRc&sid=sj4q676tvbmESOBvDNngMLSWG9Ro2XeV&pid=3n6GHky5MD9umtOvCImeoyMAg42KlFfz&ref=www.alerta.com.co&CMCD=cid%3D%22632cbb54ebfe48089b0c504d%22%2Cmtp%3D9900%2Cot%3Dm%2Csf%3Dh%2Csid%3D%223n6GHky5MD9umtOvCImeoyMAg42KlFfz%22&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1768921054243&ot=4nbMSoL47q0UnbDYMfwONg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=alerta&liveId=632cbb54ebfe48089b0c504d&referer=https%3A%2F%2Fwww.alerta.com.co%2F&propertyName=alerta&propertyType=web-app&propertyVersion=v1.0.48&listenerId=usmkEtzOrVzROdFOqwssH3AdVckeqsRc
+#EXTINF:0 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/AlertaRCN.svg/revision/latest/scale-to-width-down/250?cb=20250722181847&path-prefix=es", ALERTA BUCARAMANGA (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/632cc607bc02c60329992b8a/playlist.m3u8?listeningSessionID=68a82d013dfbb56f_13800828_DCCxxNhF_dXMtYjQtcC1lLXBiMTMtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000ewSQG&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF&sid=GiSu1gu3Y14eenQs9TeHUCvtfqgGDX3R&pid=9aDMY4pSLKwmtysSw7hK1tYx5xNRlBgZ&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cc607bc02c60329992b8a%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%229aDMY4pSLKwmtysSw7hK1tYx5xNRlBgZ%22%2Csu&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1769739261434&ot=YTT0VzQJ8xGzNoiIDk8eaA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632cc607bc02c60329992b8a&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF
+#EXTINF:0 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/AlertaRCN.svg/revision/latest/scale-to-width-down/250?cb=20250722181847&path-prefix=es", ALERTA CARTAGENA (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632cc8862f44cf6996467d24/playlist.m3u8?listeningSessionID=6941574b117acc42_3763026_AVxzF1J4_dXMtYjQtcC1lLWNnMTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000002jDIR&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF&sid=GiSu1gu3Y14eenQs9TeHUCvtfqgGDX3R&pid=D9U5H8c6J7dgn8zrrzbqHSMkYCIlokYK&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cc8862f44cf6996467d24%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22D9U5H8c6J7dgn8zrrzbqHSMkYCIlokYK%22%2Csu&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769739293006&ot=7ure8sGXNhqpz0qdi8dKFw&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632cc8862f44cf6996467d24&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF
+#EXTINF:0 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/AlertaRCN.svg/revision/latest/scale-to-width-down/250?cb=20250722181847&path-prefix=es", ALERTA CÚCUTA (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/633d8465c8af4e0898077982/playlist.m3u8?listeningSessionID=68a82d013dfbb56f_13800902_1rYI56DM_dXMtYjQtcC1lLXBiMTMtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000ewT48&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF&sid=GiSu1gu3Y14eenQs9TeHUCvtfqgGDX3R&pid=onaOadLVuw4gcjXNbBD2wmzewy4oOiLf&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22633d8465c8af4e0898077982%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22onaOadLVuw4gcjXNbBD2wmzewy4oOiLf%22%2Csu&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1769739334540&ot=ChRlzUceHm7bbWrhhI_AKQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=633d8465c8af4e0898077982&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF
+#EXTINF:0 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/AlertaRCN.svg/revision/latest/scale-to-width-down/250?cb=20250722181847&path-prefix=es", ALERTA TOLIMA (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/632cd0b4b0c9bf087068fb05/playlist.m3u8?listeningSessionID=68ece6a77ed7b596_9296956_IuzD8Wu2_dXMtYjQtcC1lLW1sMTktYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_00000048Ydg&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF&sid=GiSu1gu3Y14eenQs9TeHUCvtfqgGDX3R&pid=JMn14WIE9GNWtYNRBaEzBibOmXu1Oclz&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cd0b4b0c9bf087068fb05%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22JMn14WIE9GNWtYNRBaEzBibOmXu1Oclz%22%2Csu&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1769739363294&ot=zDNxmyavhrB3poQFcpHa9A&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632cd0b4b0c9bf087068fb05&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF
+#EXTINF:0 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/AlertaRCN.svg/revision/latest/scale-to-width-down/250?cb=20250722181847&path-prefix=es", ALERTA MANIZALES (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632cd4975761ac08a9e3ba1a/playlist.m3u8?listeningSessionID=6941574b117acc42_3763129_7dJTH25K_dXMtYjQtcC1lLWNnMTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000002jDTA&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF&sid=GiSu1gu3Y14eenQs9TeHUCvtfqgGDX3R&pid=a1wNVsToaNPEW97O9hsgTxqKIpEgxb45&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cd4975761ac08a9e3ba1a%22%2Cmtp%3D13200%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22a1wNVsToaNPEW97O9hsgTxqKIpEgxb45%22&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769739395920&ot=-HXpEc4twfLqHXFMyLdT-A&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632cd4975761ac08a9e3ba1a&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF
+#EXTINF:0 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/AlertaRCN.svg/revision/latest/scale-to-width-down/250?cb=20250722181847&path-prefix=es", ALERTA NEIVA (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632cd8e5002e87088fa2f99d/playlist.m3u8?listeningSessionID=68a8273978be54e5_13802486_OvsmRo60_dXMtYjQtcC1lLXpzMTQtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000ejIAN&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF&sid=GiSu1gu3Y14eenQs9TeHUCvtfqgGDX3R&pid=Jpwn9JAFOoqjhw9wXaQ709Cds5wrTsWm&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cd8e5002e87088fa2f99d%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22Jpwn9JAFOoqjhw9wXaQ709Cds5wrTsWm%22%2Csu&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769739439287&ot=mgDcSFUlA9eruC0fHLEeQA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632cd8e5002e87088fa2f99d&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF
+#EXTINF:0 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/AlertaRCN.svg/revision/latest/scale-to-width-down/250?cb=20250722181847&path-prefix=es", ALERTA PEREIRA (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632ce09fd3ed7a0250cc42d3/playlist.m3u8?listeningSessionID=68a8273978be54e5_13802516_9vEmlbuv_dXMtYjQtcC1lLXpzMTQtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000ejIF5&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF&sid=GiSu1gu3Y14eenQs9TeHUCvtfqgGDX3R&pid=4wFQT472zpsTshjEzO9XlnktqtZvGvsY&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632ce09fd3ed7a0250cc42d3%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224wFQT472zpsTshjEzO9XlnktqtZvGvsY%22%2Csu&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769739469522&ot=jSV2fWMJGbur0WMO3bFf-A&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632ce09fd3ed7a0250cc42d3&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=7DpDx0Vu9WcAYXRxGVBj69D2FIAAjfSF
+#EXTINF:11 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/RadioUnoColombia2025.svg/revision/latest/scale-to-width-down/250?cb=20250718180525&path-prefix=es", RADIO UNO BOGOTÁ (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-nq15-audio.cdn.mdstrm.com/live-audio-aw/632c9bbcaa9ace684913b81b/playlist.m3u8?listeningSessionID=68d473c5d29684c8_7870707_WQrtbPyp_dXMtYjQtcC1lLW5xMTUtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_00000033Obu&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=G2IhIQnJ6KDEk8DamZCX5DZ3FO4E7A3O&sid=PzE9bnFOwN3QuQiJi8wqGFs5rmijKMoh&pid=0Xn0jnBJ454g2jPZaTafp8B5N55rYSR4&ref=radiouno.com.co&CMCD=cid%3D%22632c9bbcaa9ace684913b81b%22%2Cmtp%3D6400%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220Xn0jnBJ454g2jPZaTafp8B5N55rYSR4%22&es=us-b4-p-e-nq15-audio.cdn.mdstrm.com&ote=1766710839724&ot=vxMnaandjYvP9HBg-r_dBw&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-radio-uno&liveId=632c9bbcaa9ace684913b81b&referer=https%3A%2F%2Fradiouno.com.co%2F&propertyName=player-landing-radio-uno&propertyType=web-app&propertyVersion=v1.0.45&listenerId=G2IhIQnJ6KDEk8DamZCX5DZ3FO4E7A3O
+#EXTINF:11 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/RadioUnoColombia2025.svg/revision/latest/scale-to-width-down/250?cb=20250718180525&path-prefix=es", RADIO UNO ARMENIA (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/633d83eeaacff10887b93fd2/playlist.m3u8?listeningSessionID=68f41f8116a4f982_8122002_BDPYcr15_dXMtYjQtcC1lLWphMTYtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000003jP17&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=o7vMmdkb8pUA5FJfBoVnN7kvrGMnOq4p&sid=obCBJhyFTxzVauxMrExW22UYrOEVlE0w&pid=8ipaqiFfuugTy9kkxEoxpGj3aYdvPY6Y&ref=www.radiouno.com.co&CMCD=cid%3D%22633d83eeaacff10887b93fd2%22%2Cmtp%3D10200%2Cot%3Dm%2Csf%3Dh%2Csid%3D%228ipaqiFfuugTy9kkxEoxpGj3aYdvPY6Y%22&es=us-b4-p-e-ja16-audio.cdn.mdstrm.com&ote=1769037714634&ot=2xMkRBmDtUrC0AKEdrmEew&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-radio-uno&liveId=633d83eeaacff10887b93fd2&referer=https%3A%2F%2Fwww.radiouno.com.co%2F&propertyName=player-landing-radio-uno&propertyType=web-app&propertyVersion=v1.0.48&listenerId=o7vMmdkb8pUA5FJfBoVnN7kvrGMnOq4p
+#EXTINF:11 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/RadioUnoColombia2025.svg/revision/latest/scale-to-width-down/250?cb=20250718180525&path-prefix=es", RADIO UNO CALI (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/632cb7f6b70c350af5bc2903/playlist.m3u8?listeningSessionID=69126c736659af46_6136289_pqB4kBmt_dXMtYjQtcC1lLWpuMTgtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000002NAhw&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=o7vMmdkb8pUA5FJfBoVnN7kvrGMnOq4p&sid=obCBJhyFTxzVauxMrExW22UYrOEVlE0w&pid=UMvcsWp9wgcUYbqhF71XKxe3vxeZu8bL&ref=www.radiouno.com.co&CMCD=cid%3D%22632cb7f6b70c350af5bc2903%22%2Cmtp%3D13100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22UMvcsWp9wgcUYbqhF71XKxe3vxeZu8bL%22&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769037780153&ot=4av3o1iucspbXWgEZPCFlg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-radio-uno&liveId=632cb7f6b70c350af5bc2903&referer=https%3A%2F%2Fwww.radiouno.com.co%2F&propertyName=player-landing-radio-uno&propertyType=web-app&propertyVersion=v1.0.48&listenerId=o7vMmdkb8pUA5FJfBoVnN7kvrGMnOq4p
+#EXTINF:11 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/RadioUnoColombia2025.svg/revision/latest/scale-to-width-down/250?cb=20250718180525&path-prefix=es", RADIO UNO CÚCUTA (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632ccd46d1dcd7027f3303c6/playlist.m3u8?listeningSessionID=68a8273978be54e5_13100870_zg8pEE1T_dXMtYjQtcC1lLXpzMTQtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000dALgj&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=o7vMmdkb8pUA5FJfBoVnN7kvrGMnOq4p&sid=obCBJhyFTxzVauxMrExW22UYrOEVlE0w&pid=9ZIOaAYSttOySXxXLkOlVsDCB33d1IRF&ref=www.radiouno.com.co&CMCD=cid%3D%22632ccd46d1dcd7027f3303c6%22%2Cmtp%3D8800%2Cot%3Dm%2Csf%3Dh%2Csid%3D%229ZIOaAYSttOySXxXLkOlVsDCB33d1IRF%22&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769037823353&ot=SUL-n3BqGsebATjl9nDOaQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-radio-uno&liveId=632ccd46d1dcd7027f3303c6&referer=https%3A%2F%2Fwww.radiouno.com.co%2F&propertyName=player-landing-radio-uno&propertyType=web-app&propertyVersion=v1.0.48&listenerId=o7vMmdkb8pUA5FJfBoVnN7kvrGMnOq4p
+#EXTINF:11 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/RadioUnoColombia2025.svg/revision/latest/scale-to-width-down/250?cb=20250718180525&path-prefix=es", RADIO UNO IBAGUÉ (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/632cd2236444b8088a11f58d/playlist.m3u8?listeningSessionID=68f41f8116a4f982_8122146_BOafxm6s_dXMtYjQtcC1lLWphMTYtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000003jPeW&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=o7vMmdkb8pUA5FJfBoVnN7kvrGMnOq4p&sid=obCBJhyFTxzVauxMrExW22UYrOEVlE0w&pid=ZdutMs3hY6lmLTKYQeZu4bY95596uM5B&ref=www.radiouno.com.co&CMCD=cid%3D%22632cd2236444b8088a11f58d%22%2Cmtp%3D15600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22ZdutMs3hY6lmLTKYQeZu4bY95596uM5B%22&es=us-b4-p-e-ja16-audio.cdn.mdstrm.com&ote=1769037858806&ot=oa5DB1YgZieLYIEKdjSCEQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-radio-uno&liveId=632cd2236444b8088a11f58d&referer=https%3A%2F%2Fwww.radiouno.com.co%2F&propertyName=player-landing-radio-uno&propertyType=web-app&propertyVersion=v1.0.48&listenerId=o7vMmdkb8pUA5FJfBoVnN7kvrGMnOq4p
+#EXTINF:11 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/RadioUnoColombia2025.svg/revision/latest/scale-to-width-down/250?cb=20250718180525&path-prefix=es", RADIO UNO MANIZALES (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/632cd7d8bc02c60329992f56/playlist.m3u8?listeningSessionID=68ece6a77ed7b596_8595486_P0DV5UNn_dXMtYjQtcC1lLW1sMTktYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000003O8HJ&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=o7vMmdkb8pUA5FJfBoVnN7kvrGMnOq4p&sid=obCBJhyFTxzVauxMrExW22UYrOEVlE0w&pid=op7ijLABiavK8q5rz39P1ersiZPNR6IL&ref=www.radiouno.com.co&CMCD=cid%3D%22632cd7d8bc02c60329992f56%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22op7ijLABiavK8q5rz39P1ersiZPNR6IL%22%2Csu&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1769037893577&ot=56EKJi63_0r2-LoY_uAqFA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-radio-uno&liveId=632cd7d8bc02c60329992f56&referer=https%3A%2F%2Fwww.radiouno.com.co%2F&propertyName=player-landing-radio-uno&propertyType=web-app&propertyVersion=v1.0.48&listenerId=o7vMmdkb8pUA5FJfBoVnN7kvrGMnOq4p
+#EXTINF:11 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/RadioUnoColombia2025.svg/revision/latest/scale-to-width-down/250?cb=20250718180525&path-prefix=es", RADIO UNO MEDELLÍN (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/632cb505a057b90249b9dcc8/playlist.m3u8?listeningSessionID=68ece6a77ed7b596_8595516_eQiLvUog_dXMtYjQtcC1lLW1sMTktYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000003O8KF&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=o7vMmdkb8pUA5FJfBoVnN7kvrGMnOq4p&sid=obCBJhyFTxzVauxMrExW22UYrOEVlE0w&pid=qQc9nMTdjEPksviOsza5E5zp9zmLUJYr&ref=www.radiouno.com.co&CMCD=cid%3D%22632cb505a057b90249b9dcc8%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22qQc9nMTdjEPksviOsza5E5zp9zmLUJYr%22%2Csu&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1769037923636&ot=k7GOFkVJLNL0VlhcDVDUDQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-radio-uno&liveId=632cb505a057b90249b9dcc8&referer=https%3A%2F%2Fwww.radiouno.com.co%2F&propertyName=player-landing-radio-uno&propertyType=web-app&propertyVersion=v1.0.48&listenerId=o7vMmdkb8pUA5FJfBoVnN7kvrGMnOq4p
+#EXTINF:11 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/RadioUnoColombia2025.svg/revision/latest/scale-to-width-down/250?cb=20250718180525&path-prefix=es", RADIO UNO NEIVA (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/633d84ca3b07310855f79c57/playlist.m3u8?listeningSessionID=69126c736659af46_6136460_rzkDWeQN_dXMtYjQtcC1lLWpuMTgtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000002NAy5&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=o7vMmdkb8pUA5FJfBoVnN7kvrGMnOq4p&sid=obCBJhyFTxzVauxMrExW22UYrOEVlE0w&pid=m8Nam2WGYyIQyX96VTYllTtgmGMe6qbL&ref=www.radiouno.com.co&CMCD=cid%3D%22633d84ca3b07310855f79c57%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22m8Nam2WGYyIQyX96VTYllTtgmGMe6qbL%22%2Csu&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769037951353&ot=8oo5NqsVngnKZmbs0Bp6vw&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-radio-uno&liveId=633d84ca3b07310855f79c57&referer=https%3A%2F%2Fwww.radiouno.com.co%2F&propertyName=player-landing-radio-uno&propertyType=web-app&propertyVersion=v1.0.48&listenerId=o7vMmdkb8pUA5FJfBoVnN7kvrGMnOq4p
+#EXTINF:11 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/RadioUnoColombia2025.svg/revision/latest/scale-to-width-down/250?cb=20250718180525&path-prefix=es", RADIO UNO PEREIRA (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632ce1416197360894629aa6/playlist.m3u8?listeningSessionID=6941574b117acc42_3061711_TuuavOYc_dXMtYjQtcC1lLWNnMTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000001TCkP&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=o7vMmdkb8pUA5FJfBoVnN7kvrGMnOq4p&sid=obCBJhyFTxzVauxMrExW22UYrOEVlE0w&pid=fgOZoxkvtCXE9fUaxvMdqR5ldoC3eNQo&ref=www.radiouno.com.co&CMCD=cid%3D%22632ce1416197360894629aa6%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22fgOZoxkvtCXE9fUaxvMdqR5ldoC3eNQo%22%2Csu&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769037977580&ot=YstdODkmdiTw8RPwsoUgiw&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-radio-uno&liveId=632ce1416197360894629aa6&referer=https%3A%2F%2Fwww.radiouno.com.co%2F&propertyName=player-landing-radio-uno&propertyType=web-app&propertyVersion=v1.0.48&listenerId=o7vMmdkb8pUA5FJfBoVnN7kvrGMnOq4p
+#EXTINF:11 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/RadioUnoColombia2025.svg/revision/latest/scale-to-width-down/250?cb=20250718180525&path-prefix=es", RADIO UNO TUNJA (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632cea145b9b38085221d5e1/playlist.m3u8?listeningSessionID=68a8273978be54e5_13101053_GtEl5MBb_dXMtYjQtcC1lLXpzMTQtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000dALLx&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=o7vMmdkb8pUA5FJfBoVnN7kvrGMnOq4p&sid=obCBJhyFTxzVauxMrExW22UYrOEVlE0w&pid=rBgUEUdLQFNmGpcaFUDklKn77ElMw4di&ref=www.radiouno.com.co&CMCD=cid%3D%22632cea145b9b38085221d5e1%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22rBgUEUdLQFNmGpcaFUDklKn77ElMw4di%22%2Csu&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769038006742&ot=vEQpaVLZ3acDNCeuqSnqNA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-radio-uno&liveId=632cea145b9b38085221d5e1&referer=https%3A%2F%2Fwww.radiouno.com.co%2F&propertyName=player-landing-radio-uno&propertyType=web-app&propertyVersion=v1.0.48&listenerId=o7vMmdkb8pUA5FJfBoVnN7kvrGMnOq4p
+#EXTINF:11 group-title="Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/RadioUnoColombia2025.svg/revision/latest/scale-to-width-down/250?cb=20250718180525&path-prefix=es", RADIO UNO VILLAVICENCIO (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://radiounovillavo.com.co/stream/
+#EXTINF:11 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/ElSol2025.webp", EL SOL BOGOTÁ (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/632c9b89aa9ace684913b815/playlist.m3u8?listeningSessionID=68ece6a77ed7b596_7521671_jbdui8cH_dXMtYjQtcC1lLW1sMTktYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000003kqNG&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=kp7xjCU6M3PuY6CpBw8uRPInWo4wzFk9&sid=gadIycXbjDXjshrxtrJnjR0hpUptnfcM&pid=emdGonlO7hgF7ttZb2XHUW91E6XJsEV8&ref=www.elsol.com.co&CMCD=cid%3D%22632c9b89aa9ace684913b815%22%2Cmtp%3D1900%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22emdGonlO7hgF7ttZb2XHUW91E6XJsEV8%22&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1767964078620&ot=hVqc82jy70ubvdOzqFJ4hQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-el-sol-web&liveId=632c9b89aa9ace684913b815&referer=https%3A%2F%2Fwww.elsol.com.co%2F&propertyName=player-landing-el-sol-web&propertyType=web-app&propertyVersion=v1.0.46&listenerId=kp7xjCU6M3PuY6CpBw8uRPInWo4wzFk9
+#EXTINF:11 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/ElSol2025.webp", EL SOL SANTA MARTA (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/632ce8986d2e8108b23d249f/playlist.m3u8?listeningSessionID=68f41f8116a4f982_8122371_Zdn6GVrJ_dXMtYjQtcC1lLWphMTYtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000003jPA3&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=9AyNGa5c1sbJfiLsQdG2kGEkZBoiS4F4&sid=MXNjzzL6KqDvfgA87Q7Ho50kg21XD0HW&pid=DUy7BqXXCXCfnlwT3HMohgKGieGclTtg&ref=www.elsol.com.co&CMCD=cid%3D%22632ce8986d2e8108b23d249f%22%2Cmtp%3D13100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22DUy7BqXXCXCfnlwT3HMohgKGieGclTtg%22&es=us-b4-p-e-ja16-audio.cdn.mdstrm.com&ote=1769038083675&ot=AnkN_hScZ694TZUlOM5H-Q&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-el-sol-web&liveId=632ce8986d2e8108b23d249f&referer=https%3A%2F%2Fwww.elsol.com.co%2F&propertyName=player-landing-el-sol-web&propertyType=web-app&propertyVersion=v1.0.48&listenerId=9AyNGa5c1sbJfiLsQdG2kGEkZBoiS4F4
+#EXTINF:11 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/ElSol2025.webp", EL SOL BUCARAMANGA (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632cc5d948f73909a614ab93/playlist.m3u8?listeningSessionID=68a8273978be54e5_13101152_vhdnwVzH_dXMtYjQtcC1lLXpzMTQtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000dAM2q&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=9AyNGa5c1sbJfiLsQdG2kGEkZBoiS4F4&sid=MXNjzzL6KqDvfgA87Q7Ho50kg21XD0HW&pid=vNMzJobJMAqtxkeW5bBjSQcefvnl18rS&ref=www.elsol.com.co&CMCD=cid%3D%22632cc5d948f73909a614ab93%22%2Cmtp%3D13100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22vNMzJobJMAqtxkeW5bBjSQcefvnl18rS%22&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769038105787&ot=ts7ilSaAKVADNCy0Vcv7TQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-el-sol-web&liveId=632cc5d948f73909a614ab93&referer=https%3A%2F%2Fwww.elsol.com.co%2F&propertyName=player-landing-el-sol-web&propertyType=web-app&propertyVersion=v1.0.48&listenerId=9AyNGa5c1sbJfiLsQdG2kGEkZBoiS4F4
+#EXTINF:11 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/ElSol2025.webp", EL SOL CALI (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-nq15-audio.cdn.mdstrm.com/live-audio-aw/632cb6ecaa9ace684913bf19/playlist.m3u8?listeningSessionID=68d473c5d29684c8_10198026_0Fc6ttOu_dXMtYjQtcC1lLW5xMTUtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_00000042Gp9&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=9AyNGa5c1sbJfiLsQdG2kGEkZBoiS4F4&sid=MXNjzzL6KqDvfgA87Q7Ho50kg21XD0HW&pid=47CEUNr4ZQ5uddqhY5uBiEYbEyWPuxgR&ref=www.elsol.com.co&CMCD=cid%3D%22632cb6ecaa9ace684913bf19%22%2Cmtp%3D13100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2247CEUNr4ZQ5uddqhY5uBiEYbEyWPuxgR%22&es=us-b4-p-e-nq15-audio.cdn.mdstrm.com&ote=1769038159457&ot=h09TkQ3biYlBipa1HhGBNQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-el-sol-web&liveId=632cb6ecaa9ace684913bf19&referer=https%3A%2F%2Fwww.elsol.com.co%2F&propertyName=player-landing-el-sol-web&propertyType=web-app&propertyVersion=v1.0.48&listenerId=9AyNGa5c1sbJfiLsQdG2kGEkZBoiS4F4
+#EXTINF:11 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/ElSol2025.webp", EL SOL CARTAGENA (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/632ccbb99234f869e9a51955/playlist.m3u8?listeningSessionID=69126c736659af46_6136703_HEAuLhXy_dXMtYjQtcC1lLWpuMTgtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000002NAVT&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=9AyNGa5c1sbJfiLsQdG2kGEkZBoiS4F4&sid=MXNjzzL6KqDvfgA87Q7Ho50kg21XD0HW&pid=qjlO11CqpqzLDRGxibm8jfPlibVdcRw2&ref=www.elsol.com.co&CMCD=cid%3D%22632ccbb99234f869e9a51955%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22qjlO11CqpqzLDRGxibm8jfPlibVdcRw2%22%2Csu&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769038193710&ot=-0v_rO9LObRUKYn_DZ7N4A&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-el-sol-web&liveId=632ccbb99234f869e9a51955&referer=https%3A%2F%2Fwww.elsol.com.co%2F&propertyName=player-landing-el-sol-web&propertyType=web-app&propertyVersion=v1.0.48&listenerId=9AyNGa5c1sbJfiLsQdG2kGEkZBoiS4F4
+#EXTINF:11 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/ElSol2025.webp", EL SOL CÚCUTA (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632ccc1b660fef03fe385c8b/playlist.m3u8?listeningSessionID=696c5c821055f2b0_242570_FW8BPS6q_dXMtYjQtcC1lLXFnMTItYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000000apSb&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=9AyNGa5c1sbJfiLsQdG2kGEkZBoiS4F4&sid=MXNjzzL6KqDvfgA87Q7Ho50kg21XD0HW&pid=F8C2Cvz95NUu6DDy5LF66z9Vd38BlPMH&ref=www.elsol.com.co&CMCD=cid%3D%22632ccc1b660fef03fe385c8b%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22F8C2Cvz95NUu6DDy5LF66z9Vd38BlPMH%22%2Csu&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1769038220046&ot=JGDuOrwrdObNYN4DtP6BXg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-el-sol-web&liveId=632ccc1b660fef03fe385c8b&referer=https%3A%2F%2Fwww.elsol.com.co%2F&propertyName=player-landing-el-sol-web&propertyType=web-app&propertyVersion=v1.0.48&listenerId=9AyNGa5c1sbJfiLsQdG2kGEkZBoiS4F4
+#EXTINF:11 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/ElSol2025.webp", EL SOL MEDELLÍN (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632c9d30aa9ace684913b853/playlist.m3u8?listeningSessionID=68a8273978be54e5_13101289_9VRhEtpd_dXMtYjQtcC1lLXpzMTQtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000dAMpt&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=9AyNGa5c1sbJfiLsQdG2kGEkZBoiS4F4&sid=MXNjzzL6KqDvfgA87Q7Ho50kg21XD0HW&pid=o3pkMVp9GquEfvbrQKDDdwuA2cwjDiba&ref=www.elsol.com.co&CMCD=cid%3D%22632c9d30aa9ace684913b853%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22o3pkMVp9GquEfvbrQKDDdwuA2cwjDiba%22%2Csu&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769038241851&ot=vvjpf9kpPxhNx3W6h7cwlg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-el-sol-web&liveId=632c9d30aa9ace684913b853&referer=https%3A%2F%2Fwww.elsol.com.co%2F&propertyName=player-landing-el-sol-web&propertyType=web-app&propertyVersion=v1.0.48&listenerId=9AyNGa5c1sbJfiLsQdG2kGEkZBoiS4F4
+#EXTINF:11 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/ElSol2025.webp", EL SOL IBAGUÉ (INTERNET)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632cd39a8d9d2d0851ba6ef4/playlist.m3u8?listeningSessionID=68a8273978be54e5_13101319_VGMBFFgI_dXMtYjQtcC1lLXpzMTQtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000dAMuA&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=9AyNGa5c1sbJfiLsQdG2kGEkZBoiS4F4&sid=MXNjzzL6KqDvfgA87Q7Ho50kg21XD0HW&pid=8kS1KBlPXDLGYhoXwMj8GLzW9vWZL4vC&ref=www.elsol.com.co&CMCD=cid%3D%22632cd39a8d9d2d0851ba6ef4%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%228kS1KBlPXDLGYhoXwMj8GLzW9vWZL4vC%22%2Csu&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769038272109&ot=wLfMGTlcqDfwHSXl8_xJUQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-el-sol-web&liveId=632cd39a8d9d2d0851ba6ef4&referer=https%3A%2F%2Fwww.elsol.com.co%2F&propertyName=player-landing-el-sol-web&propertyType=web-app&propertyVersion=v1.0.48&listenerId=9AyNGa5c1sbJfiLsQdG2kGEkZBoiS4F4
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-mega.webp", LA MEGA BOGOTÁ (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/632c9ae6660fef03fe3855fe/playlist.m3u8?listeningSessionID=68a82d013dfbb56f_12660039_Q8lTEbGW_dXMtYjQtcC1lLXBiMTMtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000di3pQ&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=sJ0tPqFdwfWl60fMuQVVNGkN4z2pVpbI&sid=PLxpofVAuMsk7lWKI7dn7DW1hrRpyXMf&pid=UzgrR1NqZDJhHMIBLAt7PQPFAvHwuQgk&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632c9ae6660fef03fe3855fe%22%2Cmtp%3D9100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22UzgrR1NqZDJhHMIBLAt7PQPFAvHwuQgk%22&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1768598471349&ot=te6dUevRdsLdvZY5l-9msQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632c9ae6660fef03fe3855fe&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=demo-rcn-app-web&propertyType=web-app&propertyVersion=v1.0.48&customerId=69384e5f6f09ec23fc00b12e&listenerId=sJ0tPqFdwfWl60fMuQVVNGkN4z2pVpbI
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-mega.webp", LA MEGA ARMENIA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/633d83bf3b07310855f79c40/playlist.m3u8?listeningSessionID=68a8273978be54e5_13745133_3YphHoLN_dXMtYjQtcC1lLXpzMTQtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000eeOey&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=bwODQnMNxhflm6PAZUEZSf9RZ7Jw7T3G&sid=ryiH5NCYljbviPcMotNjBbYYptDFrANx&pid=Ycn6LXMzorUMYl15e5HfMFkNxTiJGb5i&ref=www.lamega.com.co&CMCD=cid%3D%22633d83bf3b07310855f79c40%22%2Cmtp%3D9300%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22Ycn6LXMzorUMYl15e5HfMFkNxTiJGb5i%22&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769682086147&ot=oLHtR__VTubtZp7_ig34pg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-la-mega&liveId=633d83bf3b07310855f79c40&referer=https%3A%2F%2Fwww.lamega.com.co%2F&propertyName=player-landing-la-mega&propertyType=web-app&propertyVersion=v1.0.48&listenerId=bwODQnMNxhflm6PAZUEZSf9RZ7Jw7T3G
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-mega.webp", LA MEGA BARRANQUILLA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632cbad6d1dcd7027f32fff6/playlist.m3u8?listeningSessionID=68a8273978be54e5_16789817_lWeUBBk1_dXMtYjQtcC1lLXpzMTQtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000hRCBv&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=CFcOHM53ctTyTlRWTSfXjFi9qOq3oZAO&sid=VXLFlv4lEOkA6MeiTcGCHzhZXVB7gPho&pid=cO2iixV43ug8qvgHTEDmS7aEJVHIi53P&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632cbad6d1dcd7027f32fff6%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22cO2iixV43ug8qvgHTEDmS7aEJVHIi53P%22%2Csu&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1772726770436&ot=sCRjWlrtcpJBn711ojnGbA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-audio-ott-rcn&liveId=632cbad6d1dcd7027f32fff6&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=player-audio-ott-rcn&propertyType=web-app&propertyVersion=v1.0.54&customerId=69384e5f6f09ec23fc00b12e&listenerId=CFcOHM53ctTyTlRWTSfXjFi9qOq3oZAO
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-mega.webp", LA MEGA BUCARAMANGA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/632cc6bf48f73909a614aba7/playlist.m3u8?listeningSessionID=68a82d013dfbb56f_14715114_iXjMwJCU_dXMtYjQtcC1lLXBiMTMtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000fzmzX&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=Ygr7Hi0UnTakJQUjXwAcoid0q1cuy0dl&sid=oJamaevEnJPFJGMoWS4QK1mVsGbpv8YA&pid=Rs7KsrgBcGHMPdSBqjRSlkkJKm4P3lbP&ref=www.lamega.com.co&CMCD=cid%3D%22632cc6bf48f73909a614aba7%22%2Cmtp%3D13200%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22Rs7KsrgBcGHMPdSBqjRSlkkJKm4P3lbP%22&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1770653547132&ot=LLoK0TfN0Xv1hBzRidJLsQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-la-mega&liveId=632cc6bf48f73909a614aba7&referer=https%3A%2F%2Fwww.lamega.com.co%2F&propertyName=player-landing-la-mega&propertyType=web-app&propertyVersion=v1.0.50&listenerId=Ygr7Hi0UnTakJQUjXwAcoid0q1cuy0dl
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-mega.webp", LA MEGA CALI (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/632cb764aa9ace684913bf26/playlist.m3u8?listeningSessionID=68a82d013dfbb56f_13743763_phUXxi7m_dXMtYjQtcC1lLXBiMTMtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000eswmp&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=bwODQnMNxhflm6PAZUEZSf9RZ7Jw7T3G&sid=ryiH5NCYljbviPcMotNjBbYYptDFrANx&pid=N8d6j2xXql5ydpCEsLlcqEBpu2Av0r4p&ref=www.lamega.com.co&CMCD=cid%3D%22632cb764aa9ace684913bf26%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22N8d6j2xXql5ydpCEsLlcqEBpu2Av0r4p%22%2Csu&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1769682196622&ot=QOhg5svHc0iZQSCqW93i6w&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-la-mega&liveId=632cb764aa9ace684913bf26&referer=https%3A%2F%2Fwww.lamega.com.co%2F&propertyName=player-landing-la-mega&propertyType=web-app&propertyVersion=v1.0.48&listenerId=bwODQnMNxhflm6PAZUEZSf9RZ7Jw7T3G
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-mega.webp", LA MEGA CARTAGENA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/632cca2248f73909a614ac30/playlist.m3u8?listeningSessionID=69126c736659af46_6780732_Yz4fHeYk_dXMtYjQtcC1lLWpuMTgtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_00000036dhi&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=bwODQnMNxhflm6PAZUEZSf9RZ7Jw7T3G&sid=ryiH5NCYljbviPcMotNjBbYYptDFrANx&pid=CPrhWHD7PdAXUFfPppPTcwMJvl5u8bE8&ref=www.lamega.com.co&CMCD=cid%3D%22632cca2248f73909a614ac30%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22CPrhWHD7PdAXUFfPppPTcwMJvl5u8bE8%22%2Csu&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769682222760&ot=2ZSb466zlABMb2AwuywWhA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-la-mega&liveId=632cca2248f73909a614ac30&referer=https%3A%2F%2Fwww.lamega.com.co%2F&propertyName=player-landing-la-mega&propertyType=web-app&propertyVersion=v1.0.48&listenerId=bwODQnMNxhflm6PAZUEZSf9RZ7Jw7T3G
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-mega.webp", LA MEGA CÚCUTA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632ccd1c390d4b08538c9dfb/playlist.m3u8?listeningSessionID=6941574b117acc42_3705988_glz66b5G_dXMtYjQtcC1lLWNnMTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000002heCr&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=bwODQnMNxhflm6PAZUEZSf9RZ7Jw7T3G&sid=ryiH5NCYljbviPcMotNjBbYYptDFrANx&pid=dNEg4PCp280puQ34oIJiC7vhFoeB7C8a&ref=www.lamega.com.co&CMCD=cid%3D%22632ccd1c390d4b08538c9dfb%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22dNEg4PCp280puQ34oIJiC7vhFoeB7C8a%22%2Csu&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769682254741&ot=iNkjJZoMqUeBEIZm4UOlpA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-la-mega&liveId=632ccd1c390d4b08538c9dfb&referer=https%3A%2F%2Fwww.lamega.com.co%2F&propertyName=player-landing-la-mega&propertyType=web-app&propertyVersion=v1.0.48&listenerId=bwODQnMNxhflm6PAZUEZSf9RZ7Jw7T3G
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-mega.webp", LA MEGA IBAGUÉ (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632cd201a66cd3085e745824/playlist.m3u8?listeningSessionID=6941574b117acc42_3706011_K9PA6uuh_dXMtYjQtcC1lLWNnMTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000002heFf&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=bwODQnMNxhflm6PAZUEZSf9RZ7Jw7T3G&sid=ryiH5NCYljbviPcMotNjBbYYptDFrANx&pid=yvqzHI1Q3UzK8BWGfJ6K83dDnvU580XI&ref=www.lamega.com.co&CMCD=cid%3D%22632cd201a66cd3085e745824%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22yvqzHI1Q3UzK8BWGfJ6K83dDnvU580XI%22%2Csu&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769682278422&ot=PDTl5qgxZCnmAUoiYgWTNw&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-la-mega&liveId=632cd201a66cd3085e745824&referer=https%3A%2F%2Fwww.lamega.com.co%2F&propertyName=player-landing-la-mega&propertyType=web-app&propertyVersion=v1.0.48&listenerId=bwODQnMNxhflm6PAZUEZSf9RZ7Jw7T3G
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-mega.webp", LA MEGA MEDELLÍN (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632cb48f613bac0856b931ab/playlist.m3u8?listeningSessionID=6941574b117acc42_3706036_6ReMfBo8_dXMtYjQtcC1lLWNnMTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000002heHK&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=bwODQnMNxhflm6PAZUEZSf9RZ7Jw7T3G&sid=ryiH5NCYljbviPcMotNjBbYYptDFrANx&pid=MQUuSAJ0wNXEMaPOF50NQJ3jKG1e4zPp&ref=www.lamega.com.co&CMCD=cid%3D%22632cb48f613bac0856b931ab%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22MQUuSAJ0wNXEMaPOF50NQJ3jKG1e4zPp%22%2Csu&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769682302969&ot=Hq2ifoWE8exfs2o1gPf05w&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-la-mega&liveId=632cb48f613bac0856b931ab&referer=https%3A%2F%2Fwww.lamega.com.co%2F&propertyName=player-landing-la-mega&propertyType=web-app&propertyVersion=v1.0.48&listenerId=bwODQnMNxhflm6PAZUEZSf9RZ7Jw7T3G
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-mega.webp", LA MEGA MONTERÍA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632ce17ed1dcd7027f331209/playlist.m3u8?listeningSessionID=696c5c821055f2b0_3931011_hjph3OFu_dXMtYjQtcC1lLXFnMTItYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000003u9Zn&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=CFcOHM53ctTyTlRWTSfXjFi9qOq3oZAO&sid=VXLFlv4lEOkA6MeiTcGCHzhZXVB7gPho&pid=uENo4yMft0vDkwkkEY8f7xEDxjLR7Pc5&c=69384e5f6f09ec23fc00b12e&ref=www.rcnradio.com&CMCD=cid%3D%22632ce17ed1dcd7027f331209%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22uENo4yMft0vDkwkkEY8f7xEDxjLR7Pc5%22%2Csu&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1772726661191&ot=sz-ksSrtdt6-UTi23r29hg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-audio-ott-rcn&liveId=632ce17ed1dcd7027f331209&referer=https%3A%2F%2Fwww.rcnradio.com%2F&propertyName=player-audio-ott-rcn&propertyType=web-app&propertyVersion=v1.0.54&customerId=69384e5f6f09ec23fc00b12e&listenerId=CFcOHM53ctTyTlRWTSfXjFi9qOq3oZAO
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-mega.webp", LA MEGA PEREIRA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632ce0bf9234f869e9a522af/playlist.m3u8?listeningSessionID=6941574b117acc42_3706081_eQaykwAm_dXMtYjQtcC1lLWNnMTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000002heNg&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=bwODQnMNxhflm6PAZUEZSf9RZ7Jw7T3G&sid=ryiH5NCYljbviPcMotNjBbYYptDFrANx&pid=p4B5jF6U5PtXFCQxWrbSe4Gk59SnucVd&ref=www.lamega.com.co&CMCD=cid%3D%22632ce0bf9234f869e9a522af%22%2Cmtp%3D13100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22p4B5jF6U5PtXFCQxWrbSe4Gk59SnucVd%22&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769682348304&ot=xTA9meUyeuhjSedoPwHmEQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-la-mega&liveId=632ce0bf9234f869e9a522af&referer=https%3A%2F%2Fwww.lamega.com.co%2F&propertyName=player-landing-la-mega&propertyType=web-app&propertyVersion=v1.0.48&listenerId=bwODQnMNxhflm6PAZUEZSf9RZ7Jw7T3G
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/la-mega.webp", LA MEGA VILLAVICENCIO (Internet)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632ceace950b040853a94065/playlist.m3u8?listeningSessionID=68a8273978be54e5_13745422_J5P9fWlS_dXMtYjQtcC1lLXpzMTQtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_000000eePbr&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=bwODQnMNxhflm6PAZUEZSf9RZ7Jw7T3G&sid=ryiH5NCYljbviPcMotNjBbYYptDFrANx&pid=2J0oMfSlEEwcCJmcszH2CQhmdNLSFHn8&ref=www.lamega.com.co&CMCD=cid%3D%22632ceace950b040853a94065%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%222J0oMfSlEEwcCJmcszH2CQhmdNLSFHn8%22%2Csu&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769682375702&ot=cJMOUeq_YWjqKqQ7GihhHw&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-la-mega&liveId=632ceace950b040853a94065&referer=https%3A%2F%2Fwww.lamega.com.co%2F&propertyName=player-landing-la-mega&propertyType=web-app&propertyVersion=v1.0.48&listenerId=bwODQnMNxhflm6PAZUEZSf9RZ7Jw7T3G
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Olimpica_Stereo_2025.webp", OLIMPICA STEREO BOGOTÁ (Internet)
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BOGOTAAAC.aac?dist=oro_web
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Olimpica_Stereo_2025.webp", OLIMPICA STEREO BARRANQUILLA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BARRANQUILLAAAC.aac?dist=oro_web
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Olimpica_Stereo_2025.webp", OLIMPICA STEREO IBAGUÉ (Internet)
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_IBAGUEAAC.aac?dist=oro_web
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Olimpica_Stereo_2025.webp", OLIMPICA STEREO MANIZALES (Internet)
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MANIZALESAAC.aac?dist=oro_web
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Olimpica_Stereo_2025.webp", OLIMPICA STEREO CALI (Internet)
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CALIAAC.aac?dist=oro_web
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Olimpica_Stereo_2025.webp", OLIMPICA STEREO BUCARAMANGA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BUCARAMANGAAAC.aac?dist=oro_web
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/LaKalle-logotentativo.webp", LA KALLE HD
+#EXTVLCOPT:network-caching=1000
+http://190.131.243.54:9000/play/a0gt
+#EXTINF:0 group-title="Música", HTV SD
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a036
+#EXTINF:0 group-title="Música", HTV SD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://200.125.170.123:8000/play/a049
+#EXTINF:0 group-title="Música", HTV HD
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a039
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/LaKalle-logotentativo.webp", LA KALLE SD
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a01f
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/LaKalle-logotentativo.webp", LA KALLE (Internet)
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_KALLE_ADP.aac?dist= blu_web
+#EXTINF:0 tvg-id="Canal 1.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/CanalUnoColombia2025redslogan.svg/revision/latest/scale-to-width-down/160?cb=20250320234626&path-prefix=es", CANAL 1
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.164:9000/play/a077
+#EXTINF:0 tvg-id="Canal 1.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/CanalUnoColombia2025redslogan.svg/revision/latest/scale-to-width-down/160?cb=20250320234626&path-prefix=es", CANAL 1 HD
+#EXTVLCOPT:network-caching=1000
+http://190.60.48.149:8000/play/CANAL1
+#EXTINF:0 tvg-id="Canal 1.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/CanalUnoColombia2025redslogan.svg/revision/latest/scale-to-width-down/160?cb=20250320234626&path-prefix=es", CANAL 1 HD (Streaming)
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8?uid=OHY1BN7mefSzCKNwV5rrUn7GQtzbiffM&sid=tCyo1wfcsaZ02DRMT9Qu3hVgu86WCHtM&pid=zvjVuWsF6aos2uUJkb1NPcXoGPk04RNe&pid_dvr=dSp1m61EE0BltvvvP8vvvadKeZDKFUsy&an=c1_mediastream_vod&at=web-app&av=v6.0.259&ref=https%3A%2F%2Fcanal1.com.co%2F&res=837x471&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%225a5e1c2568b1910913db5fe2%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22zvjVuWsF6aos2uUJkb1NPcXoGPk04RNe%22%2Csu
+#EXTINF:0 tvg-id="Canal Capital.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Logo_Canal_Capital.png", CANAL CAPITAL HD (Streaming)
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8?_=1770579159102&dnt=true&player=6952e59cd2f34633db744de3&uid=xSW2GCYoAN61oF5i0XM6ywGfyY4m8Kvk&sid=pNDRjS1hFflGh90BGLWBQZqT3m5dz6XQ&pid=cTH3nictJBD34CqaHejtnZ7d5liv82yL&an=player-canal-capital&at=web-app&av=v1.0.50&sc=0&ref=mdstrm.com&res=1366x768&CMCD=cid%3D%226952dc88cb62083467eb6ab4%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22cTH3nictJBD34CqaHejtnZ7d5liv82yL%22%2Csu
+#EXTINF:0 tvg-id="CANAL INSTITUCIONAL.co" group-title="Noticias", CANAL INSTITUCIONAL
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a00k
+#EXTINF:0 tvg-id="CANAL INSTITUCIONAL.co" group-title="Noticias", CANAL INSTITUCIONAL HD
+#EXTVLCOPT:network-caching=1000
+http://190.2.213.5:8000/play/a0ac/index.m3u8
+#EXTINF:0 tvg-id="CANAL INSTITUCIONAL.co" group-title="Noticias", CANAL INSTITUCIONAL (Streaming)
+#EXTVLCOPT:network-caching=1000
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:0 tvg-id="CANAL CONGRESO.co" group-title="Noticias", CANAL DEL CONGRESO MX
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a05w
+#EXTINF:0 tvg-id="CANAL CONGRESO.co" group-title="Noticias", CANAL CONGRESO COLOMBIA HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.85.59:2500/play/a03w
+#EXTINF:0 tvg-id="CANAL CONGRESO.co" group-title="Noticias", CANAL CONGRESO COLOMBIA SD
+#EXTVLCOPT:network-caching=1000
+http://190.60.42.86:8000/play/a03h
+#EXTINF:0 tvg-id="Señal.Colombia.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/logo-senal-colombia-blanco.png", SEÑAL COLOMBIA HD
+#EXTVLCOPT:network-caching=1000
+http://190.2.213.5:8000/play/a0ab
+#EXTINF:0 tvg-id="Señal.Colombia.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/logo-senal-colombia-blanco.png", SEÑAL COLOMBIA SD
+#EXTVLCOPT:network-caching=1000
+http://190.0.247.38:8000/play/a006
+#EXTINF:0 tvg-id="Señal.Colombia.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/logo-senal-colombia-blanco.png", SEÑAL COLOMBIA (Streaming)
+#EXTVLCOPT:network-caching=1000
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:0 tvg-id="Canal TRO.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/CanalTRO2020.webp", CANAL TRO
+#EXTVLCOPT:network-caching=1000
+http://190.61.40.251:8000/play/a06c/index.m3u8
+#EXTINF:11,CAMPO ASTER
+http://148.72.155.144:8000/play/a02y/index.m3u8
+#EXTINF:0,CAMPOCEF
+http://148.72.155.144:8000/play/a01t/index.m3u8
+#EXTINF:0,CAMPOONRED
+http://148.72.155.144:8000/play/a04m/index.m3u8
+#EXTINF:0,CAMPOSIRRUS
+http://148.72.155.144:8000/play/a059/index.m3u8
+#EXTINF:0,CAMPOWOW
+http://148.72.155.144:8000/play/a01r/index.m3u8
+#EXTINF:0,CONNECCUMBIA
+http://148.72.155.144:8000/play/a03r/index.m3u8
+#EXTINF:0,CORAZONMIC
+http://148.72.155.144:8000/play/a05b/index.m3u8
+#EXTINF:0,CORAZONSIRRUS
+http://148.72.155.144:8000/play/a051/index.m3u8
+#EXTINF:0,CORAZONTLSANCHEZ
+http://148.72.155.144:8000/play/a04z/index.m3u8
+#EXTINF:0,CORAZONTVREDMAX
+http://148.72.155.144:8000/play/a014/index.m3u8
+#EXTINF:0,CORAZONTVTRAMDEN
+http://148.72.155.144:8000/play/a015/index.m3u8
+#EXTINF:0,CULTURACABLEMUNDO
+http://148.72.155.144:8000/play/a04d/index.m3u8
+#EXTINF:0,CULTURAECOWIRE
+http://148.72.155.144:8000/play/a01w/index.m3u8
+#EXTINF:0,CULTURAFAST
+http://148.72.155.144:8000/play/a02r/index.m3u8
+#EXTINF:0,CULTURAGIMAX
+http://148.72.155.144:8000/play/a03f/index.m3u8
+#EXTINF:0,CULTURAMIC
+http://148.72.155.144:8000/play/a001/index.m3u8
+#EXTINF:0,CULTURASIRRUS
+http://148.72.155.144:8000/play/a052/index.m3u8
+#EXTINF:0,CULTURATVONRED
+http://148.72.155.144:8000/play/a04i/index.m3u8
+#EXTINF:0,CULTURATVREDMAX
+http://148.72.155.144:8000/play/a010/index.m3u8
+#EXTINF:0,CULTURATVTLSANCHEZ
+http://148.72.155.144:8000/play/a04t/index.m3u8
+#EXTINF:0,CULTURATVTRADEM
+http://148.72.155.144:8000/play/a017/index.m3u8
+#EXTINF:0,CULTURAtHUNDER
+http://148.72.155.144:8000/play/a00p/index.m3u8
+#EXTINF:0,CUMBIA TV FLEX
+http://148.72.155.144:8000/play/a01g/index.m3u8
+#EXTINF:0,CUMBIACABLEMUNDO
+http://148.72.155.144:8000/play/a04f/index.m3u8
+#EXTINF:0,CUMBIACIRRUS
+http://148.72.155.144:8000/play/a050/index.m3u8
+#EXTINF:0,CUMBIAECOWIRE
+http://148.72.155.144:8000/play/a01y/index.m3u8
+#EXTINF:0,CUMBIAGIMAX
+http://148.72.155.144:8000/play/a03i/index.m3u8
+#EXTINF:0,CUMBIAONRED
+http://148.72.155.144:8000/play/a04k/index.m3u8
+#EXTINF:0,CUMBIAREDMAX
+http://148.72.155.144:8000/play/a012/index.m3u8
+#EXTINF:0,CUMBIATLSANCHEZ
+http://148.72.155.144:8000/play/a04w/index.m3u8
+#EXTINF:0,CUMBIATVFAST
+http://148.72.155.144:8000/play/a02s/index.m3u8
+#EXTINF:0,CUMBIATVTHUNDER
+http://148.72.155.144:8000/play/a00r/index.m3u8
+#EXTINF:0,CUMBIATVTRANDEN
+http://148.72.155.144:8000/play/a01a/index.m3u8
+#EXTINF:0,CorazontvCWP
+http://148.72.155.144:8000/play/a00b/index.m3u8
+#EXTINF:0,DATAONLINEMICCUMBIA
+http://148.72.155.144:8000/play/a03k/index.m3u8
+#EXTINF:0,DMKID MONITOREO
+http://148.72.155.144:8000/play/a05a/index.m3u8
+#EXTINF:0,IPTVCOLCORAZON
+http://148.72.155.144:8000/play/a042/index.m3u8
+#EXTINF:0,IPTVCOLCULTURA
+http://148.72.155.144:8000/play/a03z/index.m3u8
+#EXTINF:0,IPTVCOLELECTRO
+http://148.72.155.144:8000/play/a041/index.m3u8
+#EXTINF:0,IPTVCOLMEDIA
+http://148.72.155.144:8000/play/a040/index.m3u8
+#EXTINF:0,IPTVCOLOMBIASALSA
+http://148.72.155.144:8000/play/a03v/index.m3u8
+#EXTINF:0,IPTVCOLURBANO
+http://148.72.155.144:8000/play/a03y/index.m3u8
+#EXTINF:0,IPTVCUMBIACOL
+http://148.72.155.144:8000/play/a03x/index.m3u8
+#EXTINF:0,KIDCHANNEL
+http://148.72.155.144:8000/play/a04p/index.m3u8
+#EXTINF:0,LatinSalsa
+http://148.72.155.144:8000/play/a00e/index.m3u8
+#EXTINF:0,MEDIACABLEMUNDO
+http://148.72.155.144:8000/play/a04g/index.m3u8
+#EXTINF:0,MEDIAECOWIRE
+http://148.72.155.144:8000/play/a01z/index.m3u8
+#EXTINF:0,MEDIASIRRUS
+http://148.72.155.144:8000/play/a053/index.m3u8
+#EXTINF:0,MEDIATLSANCHEZ
+http://148.72.155.144:8000/play/a04v/index.m3u8
+#EXTINF:0,MEDIATVFAST
+http://148.72.155.144:8000/play/a02u/index.m3u8
+#EXTINF:0,MEDIATVGIMAX
+http://148.72.155.144:8000/play/a03j/index.m3u8
+#EXTINF:0,MEDIATVONRED
+http://148.72.155.144:8000/play/a04l/index.m3u8
+#EXTINF:0,MEDIATVREDMAX
+http://148.72.155.144:8000/play/a013/index.m3u8
+#EXTINF:0,MEDIATVTHUNDER
+http://148.72.155.144:8000/play/a00s/index.m3u8
+#EXTINF:0,MEDIATVTRANDEM
+http://148.72.155.144:8000/play/a019/index.m3u8
+#EXTINF:0,MediaTV
+http://148.72.155.144:8000/play/a007/index.m3u8
+#EXTINF:0,NATIVA
+http://148.72.155.144:8000/play/a02j/index.m3u8
+#EXTINF:0,NATIVASIRRUS
+http://148.72.155.144:8000/play/a054/index.m3u8
+#EXTINF:0,PINDINTV FLEX
+http://148.72.155.144:8000/play/a01f/index.m3u8
+#EXTINF:0,PLUSTVMASMOVIL
+http://148.72.155.144:8000/play/a04a/index.m3u8
+#EXTINF:0,PLUSTVSIRRUS
+http://148.72.155.144:8000/play/a055/index.m3u8
+#EXTINF:0,PindinTVCWP
+http://148.72.155.144:8000/play/a008/index.m3u8
+#EXTINF:0,PlusTVTIGO
+http://148.72.155.144:8000/play/a006/index.m3u8
+#EXTINF:0,RDSIRRUS
+http://148.72.155.144:8000/play/a056/index.m3u8
+#EXTINF:0,RDTLSANCHEZ
+http://148.72.155.144:8000/play/a04x/index.m3u8
+#EXTINF:0,SALASTVFAST
+http://148.72.155.144:8000/play/a02q/index.m3u8
+#EXTINF:0,SALSACABLEMUNDO
+http://148.72.155.144:8000/play/a04b/index.m3u8
+#EXTINF:0,SALSAECOWIRE
+http://148.72.155.144:8000/play/a01v/index.m3u8
+#EXTINF:0,SALSAGIMAX
+http://148.72.155.144:8000/play/a03e/index.m3u8
+#EXTINF:0,SALSAMASMOVIL
+http://148.72.155.144:8000/play/a009/index.m3u8
+#EXTINF:0,SALSASIRRUS
+http://148.72.155.144:8000/play/a057/index.m3u8
+#EXTINF:0,SALSATDTPERU
+http://148.72.155.144:8000/play/a03q/index.m3u8
+#EXTINF:0,SALSATRUJILLO
+http://148.72.155.144:8000/play/a04q/index.m3u8
+#EXTINF:0,SALSATVFAST
+http://148.72.155.144:8000/play/a00u/index.m3u8
+#EXTINF:0,SALSATVLATINCABLE
+http://148.72.155.144:8000/play/a00d/index.m3u8
+#EXTINF:0,SALSATVMIC
+http://148.72.155.144:8000/play/a01e/index.m3u8
+#EXTINF:0,SALSATVONRED
+http://148.72.155.144:8000/play/a04h/index.m3u8
+#EXTINF:0,SALSATVPERU
+http://148.72.155.144:8000/play/a028/index.m3u8
+#EXTINF:0,SALSATVTLSANCHEZ
+http://148.72.155.144:8000/play/a04s/index.m3u8
+#EXTINF:0,SALSATVTRANDEN
+http://148.72.155.144:8000/play/a016/index.m3u8
+#EXTINF:0,SALSATVredmax
+http://148.72.155.144:8000/play/a00c/index.m3u8
+#EXTINF:0,SALSAThunder
+http://148.72.155.144:8000/play/a00o/index.m3u8
+#EXTINF:0,SALSAWIN
+http://148.72.155.144:8000/play/a04n/index.m3u8
+#EXTINF:0,TIGOCORAZONTV
+http://148.72.155.144:8000/play/a04r/index.m3u8
+#EXTINF:0,TIGOCULTURATV
+http://148.72.155.144:8000/play/a035/index.m3u8
+#EXTINF:0,TIGOCUMBIATV
+http://148.72.155.144:8000/play/a037/index.m3u8
+#EXTINF:0,TIGOELECTROTV
+http://148.72.155.144:8000/play/a039/index.m3u8
+#EXTINF:0,TIGOMEDIATV
+http://148.72.155.144:8000/play/a038/index.m3u8
+#EXTINF:0,TIGOPINDINTV
+http://148.72.155.144:8000/play/a03a/index.m3u8
+#EXTINF:0,TIGOSALSATV
+http://148.72.155.144:8000/play/a034/index.m3u8
+#EXTINF:11,TIGOURBANO
+http://148.72.155.144:8000/play/a036/index.m3u8
+#EXTINF:0,TMdtcsanchez
+http://148.72.155.144:8000/play/a04y/index.m3u8
+#EXTINF:0,URBANOCABLEMUNDO
+http://148.72.155.144:8000/play/a04e/index.m3u8
+#EXTINF:0,URBANOECOWIRE
+http://148.72.155.144:8000/play/a01x/index.m3u8
+#EXTINF:0,URBANOGIMAX
+http://148.72.155.144:8000/play/a03g/index.m3u8
+#EXTINF:0,URBANOMIC
+http://148.72.155.144:8000/play/a01d/index.m3u8
+#EXTINF:0,URBANOSIRRUS
+http://148.72.155.144:8000/play/a058/index.m3u8
+#EXTINF:0,URBANOTLSANCHEZ
+http://148.72.155.144:8000/play/a04u/index.m3u8
+#EXTINF:0,URBANOTVCWP
+http://148.72.155.144:8000/play/a00f/index.m3u8
+#EXTINF:0,URBANOTVFAST
+http://148.72.155.144:8000/play/a02t/index.m3u8
+#EXTINF:0,URBANOTVONRED
+http://148.72.155.144:8000/play/a04j/index.m3u8
+#EXTINF:0,URBANOTVREDMAX
+http://148.72.155.144:8000/play/a011/index.m3u8
+#EXTINF:0,URBANOTVTRANDEN
+http://148.72.155.144:8000/play/a018/index.m3u8
+#EXTINF:0,URBANOTVthunder
+http://148.72.155.144:8000/play/a00q/index.m3u8
+#EXTINF:0,cwpcultura
+http://148.72.155.144:8000/play/a00a/index.m3u8
+#EXTINF:0 tvg-id="CNN en Español.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cnn-en-espanol-ar.png", CNN EN ESPAÑOL HD
+#EXTVLCOPT:network-caching=1000
+http://181.79.84.66:8000/play/a01c
+#EXTINF:0 tvg-id="CNN en Español.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cnn-en-espanol-ar.png", CNN EN ESPAÑOL SD
+#EXTVLCOPT:network-caching=1000
+http://138.99.179.64:8800/play/a01d
+#EXTINF:0 tvg-id="CNN Chile.cl" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/CNNCHILE2024.webp", CNN CHILE
+#EXTVLCOPT:network-caching=1000
+http://200.113.4.75:7210/play/a01k
+#EXTINF:0 tvg-id="CNN Chile.cl" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/CNNCHILE2024.webp", CNN CHILE (Opción 2)
+#EXTVLCOPT:network-caching=1000
+http://148.222.230.144:8000/play/a07m
+#EXTINF:24 tvg-id="Cable News Network.us" group-title="Noticias", CNN
+#EXTVLCOPT:network-caching=1000
+http://143.244.60.30/CNN/index.m3u8
+#EXTINF:0 tvg-id="Cable News Network.us" group-title="Noticias", CNN (Opción 2)
+#EXTVLCOPT:network-caching=1000
+http://51.154.17.178/play/a042
+#EXTINF:0 tvg-id="CNN.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/international/cnn-international-int.png", CNN INTERNATIONAL HD
+#EXTVLCOPT:network-caching=1000
+http://181.79.84.66:8000/play/a01d
+#EXTINF:0 tvg-id="AMC HD.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/spain/amc-es.png", AMC HD
+#EXTVLCOPT:network-caching=1000
+http://177.93.46.245:50000/play/a00i
+#EXTINF:0 tvg-id="Más Chic.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/amc-series-lam.png", AMC SERIES
+#EXTVLCOPT:network-caching=1000
+http://190.61.34.164:8000/play/a046
+#EXTINF:0 tvg-id="Más Chic.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/amc-series-lam.png", AMC SERIES HD
+#EXTVLCOPT:network-caching=1000
+http://38.225.116.4:22000/play/a01b
+#EXTINF:0 group-title="Películas y Series", ANTENA 7
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a05s
+#EXTINF:0 tvg-id="Telemundo.co" group-title="Novelas" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telemundo-international-ar.png", Telemundo Internacional HD
+#EXTVLCOPT:network-caching=1000
+http://38.225.116.4:22000/play/a015
+#EXTINF:0 tvg-id="TNT.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-states/tnt-us.png", TNT (Chile) HD
+#EXTVLCOPT:network-caching=1000
+http://191.97.7.67:18000/play/a0gs
+#EXTINF:0 tvg-id="TNT.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-states/tnt-us.png", TNT (Chile)
+#EXTVLCOPT:network-caching=1000
+http://190.2.213.5:8000/play/a018
+#EXTINF:0 tvg-id="TNT.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-states/tnt-us.png", TNT (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.78.192.238:8000/play/a207
+#EXTINF:0 tvg-id="TNT.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-states/tnt-us.png", TNT HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a031
+#EXTINF:0 group-title="Novelas" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/tnt-novelas-lam.png", TNT Novelas HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://38.156.13.106:8888/play/a00g
+#EXTINF:0 tvg-id="TNT Series.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/tnt-series-lam.png", TNT Series HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://38.156.13.106:8888/play/a00e
+#EXTINF:0 tvg-id="DISNEY.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel SD (México)
+#EXTVLCOPT:network-caching=1000
+http://45.189.62.33:8002/play/a0al
+#EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a00l
+#EXTINF:-1 tvg-id="DISNEY.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel HD (México)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f047ea1abdca6f03117454c4de0b6d5b":"b038c8c8f114c568956d428e80ae38d7"}
+https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
+#EXTINF:0 tvg-id="Disney Junior.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-jr-lam.png", Disney Jr. (Norte)
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a01l
+#EXTINF:0 tvg-id="DISNEY JUNIOR.ar" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-jr-lam.png", Disney Jr. (Sur) SD
+#EXTVLCOPT:network-caching=1000
+http://190.60.42.86:8000/play/a00a
+#EXTINF:0 tvg-id="ESPN 2.co" group-title="Deportes" tvg-logo="", Tigo Sports HD
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a08z
+#EXTINF:0 tvg-id="ESPN 2.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN 2 (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01m
+#EXTINF:0 tvg-id="ESPN 2.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN 2 HD (México)
+#EXTVLCOPT:network-caching=1000
+http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN HD.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (México)
+#EXTVLCOPT:network-caching=1000
+http://190.14.10.19:16000/play/a092
+#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01l
+#EXTINF:0 tvg-id="ESPN.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (Chile)
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a03e
+#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://138.117.86.162:18000/play/a098
+#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN PREMIUM HD
+#EXTVLCOPT:network-caching=1000
+http://190.187.184.252:8000/play/a0es
+#EXTINF:0 tvg-id="FX.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fx-lam.png", FX (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://38.252.238.18:8000/play/a01c
+#EXTINF:0 tvg-id="Star Channel HD.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://38.252.238.18:8000/play/a063
+#EXTINF:0 tvg-id="Star Channel HD.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel (Panregional) Español
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a01h
+#EXTINF:0 group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel (España)
+#EXTVLCOPT:network-caching=1000
+http://38.180.215.45:1234/stream/vodafonefhd/fox/master.m3u8
+#EXTINF:0 tvg-id="STAR CHANNEL HD.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel HD (Argentina)
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a01h
+#EXTINF:0 tvg-id="Star Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel SD (México)
+#EXTVLCOPT:network-caching=1000
+http://45.189.62.33:8002/play/a08v
+#EXTINF:0 tvg-id="Star Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel HD (México)
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b482bd74b9fccb810bf94a3b3732c0f9":"9207af2617ac4df3ee6860719a53eb8b"}
+https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/STAR-CHANNEL-HD/default.mpd
+#EXTINF:0 tvg-id="Sony.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel SD (México)
+#EXTVLCOPT:network-caching=1000
+http://45.189.62.33:8002/play/a0aj
+#EXTINF:0 tvg-id="Sony.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel (Andes)
+#EXTVLCOPT:network-caching=1000
+http://170.239.205.81:30000/play/a011
+#EXTINF:0 tvg-id="Sony.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.78.21.174:8015/play/a04j
+#EXTINF:0 tvg-id="HBO PLUS.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-plus-lam.png", HBO + HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.17.52:8000/play/a00u
+#EXTINF:0 tvg-id="HBO Plus Panregional HD.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-plus-lam.png", HBO +
+#EXTVLCOPT:network-caching=1000
+http://38.183.114.220:8000/play/a0s1
+#EXTINF:0 tvg-id="HBO HD.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/hbo-ar.png", HBO HD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://38.187.3.110:8000/play/a07z
+#EXTINF:0 tvg-id="HBO HD.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/hbo-ar.png", HBO (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://45.160.12.200:8008/play/017
+#EXTINF:0 tvg-id="HBO HD.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/hbo-ar.png", HBO HD (México)
+#EXTVLCOPT:network-caching=1000
+http://38.252.238.18:8000/play/a054
+#EXTINF:0 tvg-id="HBO 2.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-2-lam.png", HBO2 (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://148.222.230.144:8000/play/a0b2
+#EXTINF:0 tvg-id="HBO 2.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-2-lam.png", HBO2 HD (México)
+#EXTVLCOPT:network-caching=1000
+http://38.252.238.18:8000/play/a055
+#EXTINF:-1 group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/hbo3-cz.png", HBO3 HD (Ukraine)
+#EXTVLCOPT:network-caching=1000
+http://46.149.191.219:9115/play/a007
+#EXTINF:0 tvg-id="HBO Xtreme.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-xtreme-lam.png", HBO XTREME HD
+#EXTVLCOPT:network-caching=1000
+http://38.252.238.18:8000/play/a058
+#EXTINF:0 tvg-id="HBO Family.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-family-lam.png", HBO FAMILY HD
+#EXTVLCOPT:network-caching=1000
+http://38.252.238.18:8000/play/a057
+#EXTINF:0 tvg-id="HBO Family.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-family-lam.png", HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+http://201.219.223.99:45000/play/a011
+#EXTINF:0 tvg-id="Space.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/space-lam.png", Space HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a033
+#EXTINF:0 tvg-id="Space.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/space-lam.png", Space HD (Chile)
+#EXTVLCOPT:network-caching=1000
+http://190.60.48.149:8000/play/SPACE
+#EXTINF:0 tvg-id="Warner Channel.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner English (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://190.90.22.42:5280/play/a0d6
+#EXTINF:0 tvg-id="Warner Channel.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://186.148.175.138:8000/play/a05o
+#EXTINF:0 tvg-id="WARNER.ve" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner HD (Honduras) Opción 2
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a08w
+#EXTINF:0 tvg-id="WARNER.ve" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner (Honduras)
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a08j
+#EXTINF:0 tvg-id="Warner Channel.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner (Chile)
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a0cm
+#EXTINF:0 tvg-id="WARNER CHANNEL.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner HD (Argentina)
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a01r
+#EXTINF:0 tvg-id="Warner Channel.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner HD (Andes)
+#EXTVLCOPT:network-caching=1000
+http://190.60.53.205:8000/play/a02u
+#EXTINF:0 tvg-id="Warner Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner (México)
+#EXTVLCOPT:network-caching=1000
+http://45.189.62.33:8002/play/a0cf
+#EXTINF:0 tvg-id="Canal 5.mx" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png", Canal 5 MX
+#EXTVLCOPT:network-caching=1000
+http://45.167.253.246:8010/play/a00e
+#EXTINF:0 tvg-id="Canal 5.mx" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png", Canal 5 HD (México)
+#EXTVLCOPT:network-caching=1000
+http://45.189.62.33:8002/play/a0ll
+#EXTINF:0 tvg-id="Canal 5.mx" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png", Canal 5 SD (México)
+#EXTVLCOPT:network-caching=1000
+http://45.189.62.33:8002/play/a0fl
+#EXTINF:0 tvg-id="TYC SPORTS.ar" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/tyc-sports-ar.png", TyC Sports (Argentina)
+#EXTVLCOPT:network-caching=1000
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYIc8jwCgWoE3b5Tu4IBELzI/m3u8
+#EXTINF:0 tvg-id="TyC Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/tyc-sports-ar.png", TyC Sports (Latinoamérica)
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.128:12543/play/a04n
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/tyc-sports-ar.png", TyC Sports (México) SD
+#EXTVLCOPT:network-caching=1000
+http://38.49.128.38:8000/play/a0kw
+#EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+https://dchiplr12yf4h.cloudfront.net/paramount/nickelodeon-c-vc632/index.m3u8
+#EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon (Global)
+#EXTVLCOPT:network-caching=1000
+http://176.116.105.82/Nickelodeon/index.m3u8
+#EXTINF:0 tvg-id="Nick.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://190.66.23.210:9003/play/a096
+#EXTINF:0 tvg-id="Nick.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nick SD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://200.115.96.66:4000/play/a0d8
+#EXTINF:0 tvg-id="Nick.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon HD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a02j
+#EXTINF:0 tvg-id="Nick.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon SD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://45.170.40.11:8000/play/a00d
+#EXTINF:0 tvg-id="Nick.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon SD (México)
+#EXTVLCOPT:network-caching=1000
+http://45.189.62.33:8002/play/a0am
+#EXTINF:0 tvg-id="Nick.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon HD (México) tonoto
+#EXTVLCOPT:network-caching=1000
+http://tonoto.mel.pet/stream/izzi/nickmx/master.m3u8?u=c&p=2e7d2c03a9507ae265ecf5b5356885a53393a2029d241394997265a1a25aefc6
+#EXTINF:0 tvg-id="Nick.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon HD (México)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"294848a1c20273b5546c204b117fd7fe":"47b4a3e3b2d5bbd54143a6af43268bbd"}
+https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/NICK-HD/default.mpd
+#EXTINF:0 tvg-id="Nick Jr..co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/nick-jr-ar.png", Nick Jr. SD
+#EXTVLCOPT:network-caching=1000
+http://200.219.40.1:8000/play/a06u
+#EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-kingdom/nick-toons-uk.png", Nicktoons (Bulgaria)
+#EXTVLCOPT:network-caching=1000
+http://193.235.65.225:9983/stream/channelid/1253454710?profile=pass
+#EXTINF:0 tvg-id="Multipremier.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Multipremier_logo_2015.png", Multipremier HD
+#EXTVLCOPT:network-caching=1000
+http://190.60.42.86:8000/play/a016
+#EXTINF:0 tvg-id="Discovery Turbo.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-turbo-lat.png", Animal Planet HD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://190.60.48.149:8000/play/ANIMAL_PLANET
+#EXTINF:0 tvg-id="Discovery Turbo.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-turbo-lat.png", Discovery Turbo (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a022
+#EXTINF:0 tvg-id="Investigation Discovery HD.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-id-lat.png", Discovery ID (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a02z
+#EXTINF:0 tvg-id="Discovery Turbo.co" group-title="Documentales", A&E HD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://190.60.48.149:8000/play/AE
+#EXTINF:0 tvg-id="Discovery Turbo.co" group-title="Documentales", History Channel (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a00i
+#EXTINF:0 tvg-id="Discovery Turbo.co" group-title="Documentales", History2 (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a00j
+#EXTINF:0 tvg-id="DW (Español).co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/international/dw-int.png", DW ESPAÑOL
+#EXTVLCOPT:network-caching=1000
+http://148.222.230.201:8000/play/a0kd
+#EXTINF:0 tvg-id="DW (Español).co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/international/dw-int.png", DW ESPAÑOL SD
+#EXTVLCOPT:network-caching=1000
+http://38.93.48.66:7782/play/a08p
+#EXTINF:0 tvg-id="NAT GEO HD.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/national-geographic-lam.png", National Geographic SD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://200.80.230.124:8000/play/a07i
+#EXTINF:0 tvg-id="NAT GEO HD.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/national-geographic-lam.png", National Geographic HD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0c7
+#EXTINF:0 tvg-id="National Geographic.mx" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/national-geographic-lam.png", National Geographic SD (México)
+#EXTVLCOPT:network-caching=1000
+http://45.189.62.33:8002/play/a0cl
+#EXTINF:0 tvg-id="Discovery Channel.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/discovery-channel-es.png", Discovery Channel (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.78.84.78:8910/play/a00y
+#EXTINF:0 tvg-id="Discovery Channel.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/discovery-channel-es.png", Discovery Channel (Colombia) Opción 2
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a00n
+#EXTINF:0 tvg-id="Discovery Channel.cl" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/discovery-channel-es.png", Discovery Channel (Chile)
+#EXTVLCOPT:network-caching=1000
+http://200.4.244.29:8000/play/a00r
+#EXTINF:0 tvg-id="Discovery Home and Health.co" group-title="Estilo de vida" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-home-and-health-lam.png", Discovery H&H (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a02y
+#EXTINF:0 tvg-id="Discovery Home and Health.cl" group-title="Estilo de vida" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-home-and-health-lam.png", Discovery H&H (Chile y Perú)
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a00g
+#EXTINF:0 tvg-id="Discovery Kids.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Subfeed Caribe)
+#EXTVLCOPT:network-caching=1000
+http://lunar.pm:8080/live/Mrpercel/wPmDRknOaL/120269.ts
+#EXTINF:0 tvg-id="Discovery Kids.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids SD (México)
+#EXTVLCOPT:network-caching=1000
+http://45.189.62.33:8002/play/a0an
+#EXTINF:0 tvg-id="Discovery Kids.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids HD (México)
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9201c07931b74c37c4e30a9e96b64c30:8e1ce4f1b1185f64e42f9974cbad1442
+https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
+#EXTINF:0 tvg-id="Discovery Kids.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Panregional) SAP
+#EXTVLCOPT:network-caching=1000
+http://38.252.238.18:8000/play/a04o
+#EXTINF:0 tvg-id="Discovery Kids.br" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Brasil)
+#EXTVLCOPT:network-caching=1000
+http://200.229.190.189:8002/play/a011
+#EXTINF:0 tvg-id="Adult Swim.ar" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png", Adult Swim HD (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a034
+#EXTINF:0 tvg-id="Adult Swim.ar" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png", Adult Swim SAP (Panregional)
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a01s
+#EXTINF:-1 tvg-id="ADULT SWIM.mx" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png", Adult Swim HD (México)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"694fa2e355b31ac2c52d0a56d3d8da59":"0d7eff2e4dc61d48489555068b0db46a"}
+https://hfc-tlx-live-atv-cdn.izzigo.tv/15/out/u/dash/ADULTSWIM-HD/default.mpd
+#EXTINF:0 tvg-id="Cartoonito.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito (Latinoamérica) HD
+#EXTVLCOPT:network-caching=1000
+http://181.118.158.103:8000/play/a036
+#EXTINF:0 tvg-id="CARTOONITO DTT.it" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito (Italia)
+#EXTVLCOPT:network-caching=1000
+http://51.154.17.178/play/a0ea
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (PAN) MPEG
+#EXTVLCOPT:network-caching=1000
+http://181.79.84.66:8000/play/a020
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (PAN)
+#EXTVLCOPT:network-caching=1000
+http://45.171.64.30:6060/play/a01h
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (PAN) (Opción 1)
+#EXTVLCOPT:network-caching=1000
+http://179.1.24.58:8000/play/a033
+#EXTINF:24 tvg-id="Cartoon Network.ro" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (Rumania)
+#EXTVLCOPT:network-caching=1000
+https://glb.bozztv.com/glb/gcntv-cartoonnetwork/index.m3u8
+#EXTINF:0 tvg-id="Cartoon Network.bg" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (Bulgaria)
+#EXTVLCOPT:network-caching=1000
+http://213.91.179.28:8000/play/a08g
+#EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (Arabia)
+#EXTVLCOPT:network-caching=1000
+http://149.100.11.252:8000/play/a056
+#EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (Ukraine)
+#EXTVLCOPT:network-caching=1000
+http://46.149.191.219:9105/play/a00h
+#EXTINF:0 tvg-id="Boing.es" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/boing-es.png", Boing (España)
+#EXTVLCOPT:network-caching=1000
+http://149.100.19.246:9981/stream/channelid/1383823659?profile=pass
+#EXTINF:0 tvg-id="Boing.it" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/boing-it.png", Boing (Italia)
+#EXTVLCOPT:network-caching=1000
+http://51.154.17.178/play/a0dp
+#EXTINF:0 tvg-id="Boing.it" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/boing-it.png", Boing HD (Italia)
+#EXTVLCOPT:network-caching=1000
+http://176.65.146.203:5003/play/a07t
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Candela_Estereo_logo.webp", Candela Estereo (Bogotá)
+https://26653.live.streamtheworld.com/CANDELAESTEREOAAC/HLS/22438031-45a9-4121-a140-afe3e058366d/0/playlist.m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Candela_Estereo_logo.webp", Candela Estereo (Cali)
+https://24383.live.streamtheworld.com/CANDELA_CALIAAC/HLS/5011893e-455e-4166-af45-2db23079dd01/0/playlist.m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Candela_Estereo_logo.webp", Candela Estereo (Cartago)
+https://27583.live.streamtheworld.com/CANDELA_CARTAGOAAC/HLS/142ee488-101e-4ceb-9296-83a696c4efc0/0/playlist.m3u8
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Candela_Estereo_logo.webp", Candela Estereo (Casanare)
+https://cloudoledgo.com:8026/stream
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Deportes_2026_logo.png", Caracol Deportes
+https://17993.live.streamtheworld.com/CARACOL_DEPORTESAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=cd2b03cd-fbe0-49d4-b20a-70c2b3708a05
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Barranquilla)
+https://18493.live.streamtheworld.com/CR_BARRANQAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=50b0ff41-9b2b-4e08-e206-1d63bb0c5ec2
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Bucaramanga)
+https://26573.live.streamtheworld.com/CR_BUCARAMAAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=a3a943ad-24fe-42c6-f333-6db99962dc7a
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Bogotá)
+https://26673.live.streamtheworld.com/CARACOL_RADIOAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=2f188d6e-d4d5-455d-e606-2cce6ecbd0c5
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Medellín)
+https://26643.live.streamtheworld.com/CR_MEDELLINAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=544c962c-4159-4e93-cc13-ca5065c999d1
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Cali)
+https://27383.live.streamtheworld.com/CR_CALIAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=d6b0e11b-0981-4508-b706-4ad7fb6c997b
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Ibagué)
+https://26653.live.streamtheworld.com/CR_IBAGUEAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Cartagena)
+https://26523.live.streamtheworld.com/CR_AM_CARTAGENAAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=dd3e4b4a-6756-4db8-ce1c-755cd6139843
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Tunja)
+https://23033.live.streamtheworld.com/CR_TUNJAAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=cf714d81-726f-4848-ad6b-971d8736deb1
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Manizales)
+https://27393.live.streamtheworld.com/CR_AM_MANIZALESAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=46cdb79b-7065-48fe-c0d1-ac9b8d41f06d
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Popayán)
+https://19213.live.streamtheworld.com/CR_POPAYANAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Monteria)
+https://24413.live.streamtheworld.com/CR_MONTERIAAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Neiva)
+https://26653.live.streamtheworld.com/CR_NEIVAAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Santa Marta)
+https://27373.live.streamtheworld.com/CARACOL_STAMARTAAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=bd72deaf-d876-41e4-c32a-5ed3ec886792
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Pasto)
+https://24283.live.streamtheworld.com/CR_PASTOAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=e9aad28a-c8b8-474a-93e2-f9e40a2b9286
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Cúcuta)
+https://27343.live.streamtheworld.com/CR_CUCUTAAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=ad7b0ea3-0cfb-4ffd-e8f2-d9af12db3e68
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Armenia)
+https://27413.live.streamtheworld.com/CR_AM_ARMENIAAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=1794d0c6-767f-4195-fe31-8f6cc6a8e834
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Caracol_Radio_2026_logo.png", Caracol Radio (Pereira)
+https://27443.live.streamtheworld.com/CR_PEREIRAAAC.aac?gdpr=0&gdpr_consent=&dist=caracol-web&pname=TDSdk&pversion=2.9&swm=false&tdsdk=js-2.9&banners=none&burst-time=15&sbmid=3dd43b0b-9295-427d-f358-fb593d6dd9b9
+#EXTINF:0 group-title="Radio", Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC.aac
+#EXTINF:0 group-title="Radio", Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1AAC.aac
+#EXTINF:0group-title="Radio", Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2AAC.aac
+#EXTINF:0 group-title="Radio", Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+#EXTINF:0 group-title="Radio", Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1.mp3
+#EXTINF:0 group-title="Radio", Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3
+#EXTINF:0 group-title="Radio", COPE
+https://flucast09-h-cloud.flumotion.com/cope/net1.aac
+#EXTINF:0 group-title="Radio", COPE
+https://flucast31-h-cloud.flumotion.com/cope/net2.aac
+#EXTINF:0 group-title="Radio", COPE
+https://flucast09-h-cloud.flumotion.com/cope/net1.mp3
+#EXTINF:0 group-title="Radio", COPE
+https://flucast31-h-cloud.flumotion.com/cope/net2.mp3
+#EXTINF:0 group-title="Radio", Onda Cero
+https://radio-atres-live.ondacero.es/api/livestream-redirect/OCAAC.aac
+#EXTINF:0 group-title="Radio", Onda Cero
+https://atres-live.ondacero.es/live/ondaceroeventos1/master.m3u8
+#EXTINF:0 group-title="Radio", Radio Nacional
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
+#EXTINF:0 group-title="Radio", esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.aac
+#EXTINF:0 group-title="Radio", esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3
+#EXTINF:0 group-title="Radio", Radio Marca
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONALAAC.aac
+#EXTINF:0 group-title="Radio", Radio Marca
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
+#EXTINF:0 group-title="Radio", Radio 5 RNE
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8
+#EXTINF:0 group-title="Radio", RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+#EXTINF:0 group-title="Radio", RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3
+#EXTINF:0 group-title="Radio", Catalunya Ràdio
+https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8
+#EXTINF:0 group-title="Radio", Onda Madrid
+https://live.telemadrid.cross-media.es/6382091485112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2MzgyMDkxNDg1MTEyIn0.vLCetYwy_2YYq4UCDsSs84CfU8W_6qymRekEKa-pjRg/playlist-hls.m3u8
+#EXTINF:0 group-title="Radio", Onda Madrid
+https://live.telemadrid.cross-media.es/6382092961112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2MzgyMDkyOTYxMTEyIn0.Z1hB3zJWhGVirnaC2ji362QmwGAWkC3yGPqrbnt8QvY/playlist-hls.m3u8
+#EXTINF:0 group-title="Radio", Canal Sur Radio
+https://rtva-live-radio.flumotion.com/rtva/csr.mp3
+#EXTINF:0 group-title="Radio", Radio Euskadi
+https://multimedia.eitb.eus/live-content/radioeuskadi-hls/master.m3u8
+#EXTINF:0 group-title="Radio", Radio Galega
+https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8
+#EXTINF:0 group-title="Radio", Radio María
+https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/;.mp3
+#EXTINF:0 group-title="Radio", LOS40
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC.aac
+#EXTINF:0 group-title="Radio", LOS40
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+#EXTINF:0 group-title="Radio", LOS40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSICAAC.aac
+#EXTINF:0 group-title="Radio", LOS40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+#EXTINF:0 group-title="Radio", LOS40 Urban
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBANAAC.aac
+#EXTINF:0 group-title="Radio", LOS40 Urban
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
+#EXTINF:0 group-title="Radio", LOS40 Dance
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC.aac
+#EXTINF:0 group-title="Radio", LOS40 Dance
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
