@@ -1147,9 +1147,6 @@ http://45.170.40.11:8000/play/a00d
 #EXTINF:0 tvg-id="Nick.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon SD (México)
 #EXTVLCOPT:network-caching=1000
 http://45.189.62.33:8002/play/a0am
-#EXTINF:0 tvg-id="Nick.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon HD (México) tonoto
-#EXTVLCOPT:network-caching=1000
-http://tonoto.mel.pet/stream/izzi/nickmx/master.m3u8?u=c&p=2e7d2c03a9507ae265ecf5b5356885a53393a2029d241394997265a1a25aefc6
 #EXTINF:0 tvg-id="Nick.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon HD (México)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"294848a1c20273b5546c204b117fd7fe":"47b4a3e3b2d5bbd54143a6af43268bbd"}
