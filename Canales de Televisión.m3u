@@ -305,6 +305,9 @@ http://181.79.87.91:9500/play/a0b5
 #EXTINF:0 group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN-icon.png", RCN Más
 #EXTVLCOPT:network-caching=1000
 http://200.59.188.3:8000/play/a0ab
+#EXTINF:0 group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN-icon.png", RCN Más HD
+#EXTVLCOPT:network-caching=1000
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="NTN24.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/NTN24_logo.png", NTN24 SD
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a01h
