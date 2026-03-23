@@ -1294,6 +1294,9 @@ http://200.125.170.123:8000/play/a00j
 #EXTINF:0 tvg-id="Discovery Kids.br" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Brasil)
 #EXTVLCOPT:network-caching=1000
 http://200.229.190.189:8002/play/a011
+#EXTINF:0 tvg-id="Discovery Kids.br" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids HD (Brasil)
+#EXTVLCOPT:network-caching=1000
+http://7smartvplayers.top:8080/live/owu3trbd/94sdu9rb/45203.ts
 #EXTINF:0 tvg-id="Adult Swim.ar" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png", Adult Swim HD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a034
