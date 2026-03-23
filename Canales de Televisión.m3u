@@ -93,6 +93,15 @@ http://45.177.21.6:9000/play/a01w
 #EXTINF:0 group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/DNews.png", DNews
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a06z
+#EXTINF:0 group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/DNews.png", Fox News Radio
+#EXTVLCOPT:network-caching=1000
+https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
+#EXTINF:0 group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/DNews.png", Fox News (144p)
+#EXTVLCOPT:network-caching=1000
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:0 group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/DNews.png", Fox Weather
+#EXTVLCOPT:network-caching=1000
+https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:0 tvg-id="TN.ar" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/TN_todo_noticias_logo.svg.png", TN HD (Argentina)
 #EXTVLCOPT:network-caching=1000
 https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
@@ -105,15 +114,39 @@ http://181.118.150.27:8000/play/a02p
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Radio
 #EXTVLCOPT:network-caching=1000
 https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/FIFA%2B_(2025).svg.png", FIFA+
+#EXTVLCOPT:network-caching=1000
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/FIFA%2B_(2025).svg.png", FIFA+ Spain
+#EXTVLCOPT:network-caching=1000
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/FIFA%2B_(2025).svg.png", FIFA+ Hispanic América
+#EXTVLCOPT:network-caching=1000
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/FIFA%2B_(2025).svg.png", FIFA+ United States
+#EXTVLCOPT:network-caching=1000
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/FIFA%2B_(2025).svg.png", FIFA+ Portuguese
+#EXTVLCOPT:network-caching=1000
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/FIFA%2B_(2025).svg.png", FIFA+ Italy
+#EXTVLCOPT:network-caching=1000
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/FIFA%2B_(2025).svg.png", FIFA+ German
+#EXTVLCOPT:network-caching=1000
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/FIFA%2B_(2025).svg.png", FIFA+ French
+#EXTVLCOPT:network-caching=1000
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/FIFA%2B_(2025).svg.png", FIFA+ Women
+#EXTVLCOPT:network-caching=1000
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports
 #EXTVLCOPT:network-caching=1000
 http://179.63.6.12:9000/play/a01k
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Argentina
 #EXTVLCOPT:network-caching=1000
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
-#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Colombia
-#EXTVLCOPT:network-caching=1000
-http://181.198.105.69:8111/play/a279
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Uruguay Premium
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.67:8000/play/a066
@@ -1170,6 +1203,26 @@ http://193.235.65.225:9983/stream/channelid/1253454710?profile=pass
 #EXTINF:0 tvg-id="Multipremier.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Multipremier_logo_2015.png", Multipremier HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.42.86:8000/play/a016
+#EXTINF:-1 group-title="Documentales" tvg-id="BloombergOriginals.us@SD",Bloomberg Originals (1080p)
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-id="BloombergOriginals.us@US",Bloomberg Originals (1080p)
+https://bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-id="BloombergOriginals.us@US",Bloomberg Originals (1080p)
+https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-id="BloombergOriginals.us@SD",Bloomberg Originals (1080p)
+#EXTVLCOPT:http-referrer=https://www.bloomberg.com/originals
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-id="BloombergTV.us@Plus",Bloomberg TV + (2160p)
+https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-id="BloombergTV.us@US",Bloomberg TV US (720p)
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-id="BloombergTV.us@LiveEvent",Bloomberg TV US Live Event (720p)
+https://bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-id="BloombergTV.us@PoliticsLiveEvent",Bloomberg TV US Politics Live Event (720p)
+https://bloomberg.com/media-manifest/streams/politics.m3u8
+#EXTINF:-1 group-title="Documentales" tvg-id="BloombergTV.us@Plus",Bloomberg TV+ (1080p)
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:0 tvg-id="Discovery Turbo.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-turbo-lat.png", Animal Planet HD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://190.60.48.149:8000/play/ANIMAL_PLANET
