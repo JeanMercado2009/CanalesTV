@@ -868,6 +868,9 @@ http://38.225.116.4:22000/play/a015
 #EXTINF:0 tvg-id="Telemundo.co" group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telemundo-international-ar.png", Telemundo (Nueva York)
 #EXTVLCOPT:network-caching=1000
 http://72.90.150.217:8000/play/a07a
+#EXTINF:0 group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-states/tnt-us.png", TNT HD (East)
+#EXTVLCOPT:network-caching=1000
+http://89.105.221.127/TNT/mpegts?token=test
 #EXTINF:0 tvg-id="TNT.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-states/tnt-us.png", TNT HD (Chile / Perú)
 #EXTVLCOPT:network-caching=1000
 http://200.4.244.29:8000/play/a00o
@@ -1017,6 +1020,9 @@ http://23.237.104.106:8080/USA_FXX/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fox-lam.png", FOX (New York)
 #EXTVLCOPT:network-caching=1000
 http://72.90.150.217:8000/play/a075
+#EXTINF:0 group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/studio-universal-lam.png", Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://38.250.125.162:9800/play/064/index.m3u8
 #EXTINF:0 tvg-id="Star Channel HD.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://38.252.238.18:8000/play/a063
@@ -1117,9 +1123,10 @@ http://45.167.253.246:8010/play/a00e
 #EXTINF:0 tvg-id="Canal 5.mx" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png", Canal 5 HD (México)
 #EXTVLCOPT:network-caching=1000
 http://45.189.62.33:8002/play/a0ll
-#EXTINF:0 tvg-id="Canal 5.mx" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png", Canal 5 SD (México)
+#EXTINF:0 group-title="Televisión Abierta" tvg-logo="https://i.imgur.com/qB6I274.png", Canal 4 Jujuy
 #EXTVLCOPT:network-caching=1000
 http://45.189.62.33:8002/play/a0fl
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:0 tvg-id="TYC SPORTS.ar" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/tyc-sports-ar.png", TyC Sports (Argentina)
 #EXTVLCOPT:network-caching=1000
 http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYIc8jwCgWoE3b5Tu4IBELzI/m3u8
@@ -1262,9 +1269,6 @@ http://45.171.64.30:6060/play/a01h
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (PAN) (Opción 1)
 #EXTVLCOPT:network-caching=1000
 http://179.1.24.58:8000/play/a033
-#EXTINF:24 tvg-id="Cartoon Network.ro" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (Rumania)
-#EXTVLCOPT:network-caching=1000
-https://glb.bozztv.com/glb/gcntv-cartoonnetwork/index.m3u8
 #EXTINF:0 tvg-id="Cartoon Network.bg" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (Bulgaria)
 #EXTVLCOPT:network-caching=1000
 http://213.91.179.28:8000/play/a08g
