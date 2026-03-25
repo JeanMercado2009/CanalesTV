@@ -114,6 +114,9 @@ http://181.118.150.27:8000/play/a02p
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Radio
 #EXTVLCOPT:network-caching=1000
 https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png", TUDN
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.214:8000/play/a05r
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/FIFA%2B_(2025).svg.png", FIFA+
 #EXTVLCOPT:network-caching=1000
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
@@ -898,6 +901,9 @@ http://190.60.40.34:8001/play/a05s
 #EXTINF:0 tvg-id="Telemundo.co" group-title="Novelas" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telemundo-international-ar.png", Telemundo Internacional HD
 #EXTVLCOPT:network-caching=1000
 http://38.225.116.4:22000/play/a015
+#EXTINF:0 group-title="Novelas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/las-estrellas-mx.png", Las Estrellas México
+#EXTVLCOPT:network-caching=1000
+http://45.186.105.214:8000/play/a05s
 #EXTINF:0 tvg-id="Telemundo.co" group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telemundo-international-ar.png", Telemundo (Nueva York)
 #EXTVLCOPT:network-caching=1000
 http://72.90.150.217:8000/play/a07a
