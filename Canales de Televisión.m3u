@@ -1200,6 +1200,9 @@ http://45.189.62.33:8002/play/a0cf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a62d210f0f907a0ebfb84a790d42780b":"590779be25e38a41d817f6ad13f5b070"}
 https://hfc-tlx-live-atv-cdn.izzigo.tv/15/out/u/dash/WARNER-HD/default.mpd
+#EXTINF:0 tvg-id="NUEVE.mx" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/mexico/nueve-mx.png", NUEVE México
+#EXTVLCOPT:network-caching=1000
+http://45.167.253.246:8010/play/a00f
 #EXTINF:0 tvg-id="Canal 5.mx" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png", Canal 5 MX
 #EXTVLCOPT:network-caching=1000
 http://45.167.253.246:8010/play/a00e
