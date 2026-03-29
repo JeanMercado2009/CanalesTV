@@ -120,6 +120,8 @@ http://181.118.158.103:8000/play/a014
 #EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/golden-plus-lam.png", GOLDEN PLUS HD (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://45.177.21.6:9000/play/a01w
+#EXTINF:0 group-title="Anime", Primired
+https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:0 group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/DNews.png", DNews
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a06z
@@ -146,7 +148,7 @@ http://181.118.150.27:8000/play/a02p
 https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png", TUDN
 #EXTVLCOPT:network-caching=1000
-http://45.186.105.214:8000/play/a05r
+http://168.228.44.241:9997/play/a09f
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/FIFA%2B_(2025).svg.png", FIFA+
 #EXTVLCOPT:network-caching=1000
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
@@ -249,9 +251,12 @@ http://181.79.84.66:8000/play/a01w
 #EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", CARACOL SD
 #EXTVLCOPT:network-caching=1000
 http://181.225.190.242:8000/play/a00q
-#EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol Televisión
+#EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol
 #EXTVLCOPT:network-caching=1000
 http://190.60.49.242:4000/play/a0pt
+#EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol Televisión
+#EXTVLCOPT:network-caching=1000
+http://astra.fibernetisp.com.co/play/a03r
 #EXTINF:0 tvg-id="Caracol Internacional.cl" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol Internacional HD
 #EXTVLCOPT:network-caching=1000
 http://45.177.21.6:9000/play/a02b
@@ -925,6 +930,11 @@ http://190.61.34.164:8000/play/a046
 #EXTINF:0 tvg-id="Más Chic.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/amc-series-lam.png", AMC SERIES HD
 #EXTVLCOPT:network-caching=1000
 http://38.225.116.4:22000/play/a01b
+#EXTINF:0 tvg-id="Más Chic.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/amc-series-lam.png", AMC SERIES (México)
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3a2233cdcf6945c0ae5abceb872c5e8:3480df7a12dc18342b49dce0d55363d3
+https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/AMC-SERIES-HD/default.mpd
 #EXTINF:0 group-title="Películas y Series", ANTENA 7
 #EXTVLCOPT:network-caching=1000
 http://190.60.40.34:8001/play/a05s
