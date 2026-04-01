@@ -999,6 +999,9 @@ http://190.60.42.86:8000/play/a00a
 #EXTINF:0 tvg-id="DISNEY JUNIOR.ar" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-jr-lam.png", Disney Jr. (Sur)
 #EXTVLCOPT:network-caching=1000
 http://38.7.101.90:8000/play/a1zp
+#EXTINF:0 tvg-id="DISNEY JUNIOR.ar" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-jr-lam.png", Disney Jr. (Sur) HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.62:8000/play/a00t
 #EXTINF:0 tvg-id="DISNEY JUNIOR.ar" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-jr-lam.png", Disney Jr. (Sur VOD)
 #EXTVLCOPT:network-caching=1000
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
