@@ -941,11 +941,12 @@ http://38.225.116.4:22000/play/a015
 #EXTINF:0 group-title="Novelas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/las-estrellas-mx.png", Las Estrellas México
 #EXTVLCOPT:network-caching=1000
 http://45.186.105.214:8000/play/a05s
-#EXTINF:0 group-title="Novelas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/las-estrellas-mx.png", Las Estrellas México
+#EXTINF:0 tvg-id="Las Estrellas.co" group-title="Novelas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/las-estrellas-mx.png", Las Estrellas Panregional
 #EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=62cc24eaedef1ab322a4d52fd6bf29ad:3f80b04b3e2bf3d8543956882da9dd00
-https://live1-ott.izzigo.tv/11/out/u/dash/CANAL-2-HD/default.mpd
+http://181.118.158.103:8000/play/a02p
+#EXTINF:0 tvg-id="Las Estrellas.co" group-title="Novelas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/las-estrellas-mx.png", Las Estrellas (Panregional ORIGEN)
+#EXTVLCOPT:network-caching=1000
+http://190.60.48.149:8000/play/LAS_ESTRELLAS
 #EXTINF:0 tvg-id="Telemundo.co" group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telemundo-international-ar.png", Telemundo (Nueva York)
 #EXTVLCOPT:network-caching=1000
 http://72.90.150.217:8000/play/a07a
