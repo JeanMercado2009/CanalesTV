@@ -54,9 +54,6 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/mpegts
 #EXTINF:24 tvg-id="Cartoon Network (West).us" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/misc/vod/cartoon-network-adult-swim-vod-us.png", CN / Adult Swim (West)
 #EXTVLCOPT:network-caching=1000
 http://app.horizonpanel.net:80/TimmyBrown22/a8Sg1N94/868898
-#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CARTOON (Panregional)
-#EXTVLCOPT:network-caching=1000
-https://ori1.relay.edge-apps.net/hls/f33ci-2pl6j-7pki5-goboo.m3u8
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CARTOON HD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.195:8000/play/a0w9
@@ -982,8 +979,6 @@ http://45.189.62.33:8002/play/a0al
 #EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a00l
-#EXTINF:0 tvg-id="DISNEY CHANNEL.ar" tvg-name="DISNEY CHANNEL" CUID="33" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel (Panregional) VOD
-https://ori1.relay.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
 #EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel (Israel)
 #EXTVLCOPT:network-caching=1000
 http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
@@ -1122,8 +1117,6 @@ http://181.118.150.27:8000/play/a01h
 #EXTINF:0 tvg-id="STAR CHANNEL HD.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel HD (Argentina)
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a01h
-#EXTINF:0 tvg-id="STAR CHANNEL.ar" tvg-name="STAR CHANNEL" CUID="51" group-title="Películas y Series" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343928/ta0eesxgcjxhxhikcxyo.png", Star Channel (Argentina)
-https://ori1.relay.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
 #EXTINF:0 tvg-id="Star Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel SD (México)
 #EXTVLCOPT:network-caching=1000
 http://45.189.62.33:8002/play/a08v
