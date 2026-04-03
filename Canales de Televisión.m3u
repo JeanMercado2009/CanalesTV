@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-id="CARTOON NETWORK.ar" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a009
-#EXTINF:-1 tvg-id="CARTOON NETWORK.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (México)
+#EXTINF:-1 tvg-id="CARTOON NETWORK.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
