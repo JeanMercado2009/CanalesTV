@@ -1,9 +1,14 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/hungary1.xml,https://www.open-epg.com/files/romania1.xml,https://www.open-epg.com/files/bulgaria1.xml,https://www.open-epg.com/files/colombia1.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina5.xml,https://www.open-epg.com/files/argentina6.xml,https://www.open-epg.com/files/argentina7.xml,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/venezuela1.xml,https://www.open-epg.com/files/unitedstates1.xml,https://www.open-epg.com/files/unitedstates2.xml,https://www.open-epg.com/files/unitedstates3.xml,https://www.open-epg.com/files/unitedstates4.xml,https://www.open-epg.com/files/unitedstates6.xml,https://www.open-epg.com/files/unitedstates7.xml,https://www.open-epg.com/files/unitedstates8.xml,https://www.open-epg.com/files/unitedstates9.xml,https://www.open-epg.com/files/unitedstates10.xml,https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil2.xml,https://www.open-epg.com/files/brazil3.xml,https://www.open-epg.com/files/brazil4.xml,https://www.open-epg.com/files/brazil5.xml,https://www.open-epg.com/files/chile1.xml,https://www.open-epg.com/files/chile2.xml,https://www.open-epg.com/files/spain1.xml,https://www.open-epg.com/files/spain2.xml,https://www.open-epg.com/files/spain3.xml,https://www.open-epg.com/files/italy1.xml,https://www.open-epg.com/files/peru1.xml,https://www.open-epg.com/files/canada5.xml,https://raw.githubusercontent.com/JeanMercado2009/rcnradio-epg/refs/heads/main/rcnradiobogota_epg.xml"
 
-#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (Panregional)
+#EXTINF:0 tvg-id="CARTOON NETWORK.ar" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a009
-#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Panregional)
+#EXTINF:-1 tvg-id="CARTOON NETWORK.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (México)
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/cartoon_network_hd/default/index.mpd
+#EXTINF:0 tvg-id="CARTOON NETWORK.ar" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://190.83.9.222:8000/play/ca065
 #EXTINF:0 group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN Brazil Viejo
@@ -99,6 +104,11 @@ http://45.189.62.33:8002/play/a0an
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9201c07931b74c37c4e30a9e96b64c30:8e1ce4f1b1185f64e42f9974cbad1442
 https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
+#EXTINF:0 tvg-id="Discovery Kids.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/discovery_kids_hd/default/index.mpd
 #EXTINF:0 tvg-id="Discovery Kids.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Panregional) SAP
 #EXTVLCOPT:network-caching=1000
 http://168.228.44.241:9998/play/a0c7
@@ -117,8 +127,6 @@ http://181.118.158.103:8000/play/a014
 #EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/golden-plus-lam.png", GOLDEN PLUS HD (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://45.177.21.6:9000/play/a01w
-#EXTINF:0 group-title="Anime", Primired
-https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:0 group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/DNews.png", DNews
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a06z
@@ -918,9 +926,19 @@ http://51.154.17.178/play/a042
 #EXTINF:0 tvg-id="CNN.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/international/cnn-international-int.png", CNN INTERNATIONAL HD
 #EXTVLCOPT:network-caching=1000
 http://181.79.84.66:8000/play/a01d
+#EXTINF:0 group-title="Películas y Series" tvg-logo="", AZ Cinema México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0c39778fe8fb4f9f8574016b3d4ae2ed":"232b1f450f2e37f47fdd5b678a8a546d"}
+https://mega.z5cable.com/bpk-tv/az_cinema_hd/default/index.mpd
 #EXTINF:0 tvg-id="AMC HD.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/spain/amc-es.png", AMC HD
 #EXTVLCOPT:network-caching=1000
 http://177.93.46.245:50000/play/a00i
+#EXTINF:0 tvg-id="AMC.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/spain/amc-es.png", AMC México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/amc_hd/default/index.mpd
 #EXTINF:0 tvg-id="Más Chic.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/amc-series-lam.png", AMC SERIES
 #EXTVLCOPT:network-caching=1000
 http://190.61.34.164:8000/play/a046
@@ -932,15 +950,45 @@ http://38.225.116.4:22000/play/a01b
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b3a2233cdcf6945c0ae5abceb872c5e8:3480df7a12dc18342b49dce0d55363d3
 https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/AMC-SERIES-HD/default.mpd
-#EXTINF:0 group-title="Películas y Series", ANTENA 7
+#EXTINF:0 tvg-id="Más Chic.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/amc-series-lam.png", AMC Series México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0c39778fe8fb4f9f8574016b3d4ae2ed":"232b1f450f2e37f47fdd5b678a8a546d"}
+https://mega.z5cable.com/bpk-tv/amc_series_hd/default/index.mpd
+#EXTINF:0 group-title="Películas y Series" tvg-logo="", Syfy México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0c39778fe8fb4f9f8574016b3d4ae2ed":"232b1f450f2e37f47fdd5b678a8a546d"}
+https://mega.z5cable.com/bpk-tv/syfy_hd/default/index.mpd
+#EXTINF:0 tvg-id="ANTENA 3.mx" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/spain/antena-3-es.png", Antena 3 México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0c39778fe8fb4f9f8574016b3d4ae2ed":"232b1f450f2e37f47fdd5b678a8a546d"}
+https://mega.z5cable.com/bpk-tv/antena_3_hd/default/index.mpd
+#EXTINF:0 group-title="Televisión Abierta", ANTENA 7
 #EXTVLCOPT:network-caching=1000
 http://190.60.40.34:8001/play/a05s
+#EXTINF:0 group-title="Televisión Abierta" tvg-logo="", TV5 Monde México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0c39778fe8fb4f9f8574016b3d4ae2ed":"232b1f450f2e37f47fdd5b678a8a546d"}
+https://mega.z5cable.com/bpk-tv/tv5_monde_hd/default/index.mpd
+#EXTINF:0 group-title="Clásicos" tvg-logo="", TCM México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0c39778fe8fb4f9f8574016b3d4ae2ed":"232b1f450f2e37f47fdd5b678a8a546d"}
+https://mega.z5cable.com/bpk-tv/tcm_hd/default/index.mpd
 #EXTINF:0 tvg-id="Telemundo.co" group-title="Novelas" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telemundo-international-ar.png", Telemundo Internacional HD
 #EXTVLCOPT:network-caching=1000
 http://38.225.116.4:22000/play/a015
-#EXTINF:0 group-title="Novelas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/las-estrellas-mx.png", Las Estrellas México
+#EXTINF:0 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="Novelas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/las-estrellas-mx.png", Las Estrellas México
 #EXTVLCOPT:network-caching=1000
-http://45.186.105.214:8000/play/a05s
+http://45.167.253.246:8010/play/a012
+#EXTINF:0 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="Novelas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/las-estrellas-mx.png", Las Estrellas México HD
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62cc24eaedef1ab322a4d52fd6bf29ad:3f80b04b3e2bf3d8543956882da9dd00
+https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/CANAL-2-HD/default.mpd
 #EXTINF:0 tvg-id="Las Estrellas.co" group-title="Novelas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/las-estrellas-mx.png", Las Estrellas Panregional
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a02p
@@ -953,6 +1001,16 @@ http://72.90.150.217:8000/play/a07a
 #EXTINF:0 tvg-id="Telemundo.co" group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telemundo-international-ar.png", Telemundo (Miami)
 #EXTVLCOPT:network-caching=1000
 http://168.228.44.241:9998/play/a0a9
+#EXTINF:0 group-title="Entretenimiento" tvg-logo="", E! México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/e_hd/default/index.mpd
+#EXTINF:0 group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-states/tnt-us.png", TNT México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/tnt_hd/default/index.mpd
 #EXTINF:0 group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-states/tnt-us.png", TNT HD (East)
 #EXTVLCOPT:network-caching=1000
 http://89.105.221.127/TNT/mpegts?token=test
@@ -987,10 +1045,20 @@ http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f047ea1abdca6f03117454c4de0b6d5b":"b038c8c8f114c568956d428e80ae38d7"}
 https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
+#EXTINF:0 tvg-id="DISNEY.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/disney_channel_hd/default/index.mpd
 #EXTINF:-1 tvg-id="DISNEY.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel HD (Canada)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"11111111111111118111000000000000":"a0508b287ec25e33222865bc87867cfe"}
 https://lott2-web-opus.cdn.avp.telus.net/232006003116/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+#EXTINF:0 tvg-id="Disney Junior.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-jr-lam.png", Disney Jr México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/disney_jr_hd/default/index.mpd
 #EXTINF:0 tvg-id="Disney Junior.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-jr-lam.png", Disney Jr. (Norte)
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a01l
@@ -1022,6 +1090,21 @@ http://45.238.54.67:8000/play/a01p
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Tigo_Sports_2025.png", Fox Sports 2 HD (Argentina)
 #EXTVLCOPT:network-caching=1000
 http://45.238.54.67:8000/play/a017
+#EXTINF:0 group-title="Deportes" tvg-logo="", NFL México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/nfl_hd/default/index.mpd
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/espn_hd/default/index.mpd
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/espn_2_hd/default/index.mpd
 #EXTINF:0 tvg-id="ESPN 7.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png", ESPN 7 (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://181.225.190.242:8000/play/a01r
@@ -1076,7 +1159,7 @@ http://cirrus.trapemn.tv:1935/cirrus-backup/ESPN2.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ESPN 2.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://181.225.190.242:8000/play/a01m
-#EXTINF:0 tvg-id="ESPN 2.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN 2 HD (México)
+#EXTINF:0 tvg-id="ESPN 2.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 HD (México)
 #EXTVLCOPT:network-caching=1000
 http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
 #EXTINF:0 tvg-id="ESPN.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (México)
@@ -1100,15 +1183,45 @@ http://190.187.184.252:8000/play/a0es
 #EXTINF:0 tvg-id="FX.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fx-lam.png", FX (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://38.252.238.18:8000/play/a01c
+#EXTINF:0 tvg-id="FX.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fx-lam.png", FX México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/fx_hd/default/index.mpd
+#EXTINF:0 group-title="Películas y Series" tvg-logo="", Cinemax México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0c39778fe8fb4f9f8574016b3d4ae2ed":"232b1f450f2e37f47fdd5b678a8a546d"}
+https://mega.z5cable.com/bpk-tv/cinemax_hd/default/index.mpd
+#EXTINF:0 group-title="Películas y Series" tvg-logo="", Europa Europa México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0c39778fe8fb4f9f8574016b3d4ae2ed":"232b1f450f2e37f47fdd5b678a8a546d"}
+https://mega.z5cable.com/bpk-tv/europa_europa_hd/default/index.mpd
 #EXTINF:0 group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fx-lam.png", FXX (Estados Unidos)
 #EXTVLCOPT:network-caching=1000
 http://23.237.104.106:8080/USA_FXX/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fox-lam.png", FOX (New York)
 #EXTVLCOPT:network-caching=1000
 http://72.90.150.217:8000/play/a075
-#EXTINF:0 group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/studio-universal-lam.png", Studio Universal
+#EXTINF:0 tvg-id="STUDIO UNIVERSAL.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/studio-universal-lam.png", Studio Universal México
 #EXTVLCOPT:network-caching=1000
-http://38.250.125.162:9800/play/064/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/studio_universal_hd/default/index.mpd
+#EXTINF:0 tvg-id="Studio Universal.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/studio-universal-lam.png", Studio Universal Panregional
+#EXTVLCOPT:network-caching=1000
+http://190.0.247.38:8000/play/a017
+#EXTINF:0 group-title="Películas y Series" tvg-logo="", Universal México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/universal_hd/default/index.mpd
+#EXTINF:0 group-title="Películas y Series" tvg-logo="", Multicinema México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0c39778fe8fb4f9f8574016b3d4ae2ed":"232b1f450f2e37f47fdd5b678a8a546d"}
+https://mega.z5cable.com/bpk-tv/multicinema_hd/default/index.mpd
 #EXTINF:0 tvg-id="Star Channel HD.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://38.252.238.18:8000/play/a063
@@ -1126,6 +1239,21 @@ http://45.189.62.33:8002/play/a08v
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b482bd74b9fccb810bf94a3b3732c0f9":"9207af2617ac4df3ee6860719a53eb8b"}
 https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/STAR-CHANNEL-HD/default.mpd
+#EXTINF:0 group-title="Películas y Series" tvg-logo="", AXN México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/axn_hd/default/index.mpd
+#EXTINF:0 tvg-id="SONY MOVIES.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/brazil/sony-movies-br.png", Sony Movies México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0c39778fe8fb4f9f8574016b3d4ae2ed":"232b1f450f2e37f47fdd5b678a8a546d"}
+https://mega.z5cable.com/bpk-tv/sony_movies_hd/default/index.mpd
+#EXTINF:0 tvg-id="Sony.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/sony_hd/default/index.mpd
 #EXTINF:0 tvg-id="Sony.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel SD (México)
 #EXTVLCOPT:network-caching=1000
 http://45.189.62.33:8002/play/a0aj
@@ -1198,10 +1326,20 @@ http://45.169.163.237:4000/play/a01r
 #EXTINF:0 tvg-id="Warner Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner (México)
 #EXTVLCOPT:network-caching=1000
 http://45.189.62.33:8002/play/a0cf
+#EXTINF:0 tvg-id="WARNER.mx" group-title="Películas y Series" tvg-logo="", Warner Channel México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/warner_channel_hd/default/index.mpd
 #EXTINF:-1 tvg-id="Warner Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel México
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a62d210f0f907a0ebfb84a790d42780b":"590779be25e38a41d817f6ad13f5b070"}
 https://hfc-tlx-live-atv-cdn.izzigo.tv/15/out/u/dash/WARNER-HD/default.mpd
+#EXTINF:0 group-title="Películas y Series" tvg-logo="", Pánico México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/panico_hd/default/index.mpd
 #EXTINF:0 tvg-id="NUEVE.mx" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/mexico/nueve-mx.png", NUEVE México
 #EXTVLCOPT:network-caching=1000
 http://45.167.253.246:8010/play/a00f
@@ -1218,15 +1356,22 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:0 tvg-id="TYC SPORTS.ar" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/tyc-sports-ar.png", TyC Sports (Argentina)
 #EXTVLCOPT:network-caching=1000
 http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYIc8jwCgWoE3b5Tu4IBELzI/m3u8
-#EXTINF:0 tvg-id="TyC Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/tyc-sports-ar.png", TyC Sports (Latinoamérica)
-#EXTVLCOPT:network-caching=1000
-http://181.78.27.128:12543/play/a04n
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/tyc-sports-ar.png", TyC Sports (México) SD
 #EXTVLCOPT:network-caching=1000
 http://38.49.128.38:8000/play/a0kw
+#EXTINF:0 group-title="Música" tvg-logo="", MTV México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/mtv_hd/default/index.mpd
 #EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon (Global)
 #EXTVLCOPT:network-caching=1000
 http://176.116.105.82/Nickelodeon/index.m3u8
+#EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nick LATAM
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/nick_hd/default/index.mpd
 #EXTINF:0 tvg-id="Nick.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://190.66.23.210:9003/play/a096
@@ -1287,13 +1432,18 @@ http://181.118.158.103:8000/play/a022
 #EXTINF:0 tvg-id="Investigation Discovery HD.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-id-lat.png", Discovery ID (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a02z
-#EXTINF:0 tvg-id="Discovery Turbo.co" group-title="Documentales", A&E HD (Panregional)
+#EXTINF:0 tvg-id="AandE.co" group-title="Documentales" tvg-logo="", A&E HD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://190.60.48.149:8000/play/AE
-#EXTINF:0 tvg-id="Discovery Turbo.co" group-title="Documentales", History Channel (Panregional)
+#EXTINF:0 tvg-id="HISTORY CHANNEL.co" group-title="Documentales", History Channel (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a00i
-#EXTINF:0 tvg-id="Discovery Turbo.co" group-title="Documentales", History2 (Panregional)
+#EXTINF:0 tvg-id="HISTORY.mx" group-title="Documentales" tvg-logo="", History Channel México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/history_channel_hd/default/index.mpd
+#EXTINF:0 tvg-id="History 2.co" group-title="Documentales", History2 (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a00j
 #EXTINF:0 tvg-id="DW (Español).co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/international/dw-int.png", DW ESPAÑOL
@@ -1302,6 +1452,11 @@ http://148.222.230.201:8000/play/a0kd
 #EXTINF:0 tvg-id="DW (Español).co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/international/dw-int.png", DW ESPAÑOL SD
 #EXTVLCOPT:network-caching=1000
 http://38.93.48.66:7782/play/a08p
+#EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC.mx" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/national-geographic-lam.png", National Geographic México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/nat_geo_hd/default/index.mpd
 #EXTINF:0 tvg-id="NAT GEO HD.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/national-geographic-lam.png", National Geographic SD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://200.80.230.124:8000/play/a07i
@@ -1311,6 +1466,11 @@ http://181.78.8.199:8000/play/a0c7
 #EXTINF:0 tvg-id="National Geographic.mx" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/national-geographic-lam.png", National Geographic SD (México)
 #EXTVLCOPT:network-caching=1000
 http://45.189.62.33:8002/play/a0cl
+#EXTINF:0 group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/discovery-channel-es.png", Discovery Channel México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
+https://mega.z5cable.com/bpk-tv/discovery_channel_hd/default/index.mpd
 #EXTINF:0 tvg-id="Discovery Channel.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/discovery-channel-es.png", Discovery Channel (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://181.78.84.78:8910/play/a00y
@@ -1341,6 +1501,11 @@ http://45.169.163.237:4000/play/a01s
 #EXTINF:0 tvg-id="Adult Swim.ar" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png", Adult Swim SD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://181.78.12.119:16123/play/ch75
+#EXTINF:0 tvg-id="ADULT SWIM.mx" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png", Adult Swim México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0c39778fe8fb4f9f8574016b3d4ae2ed":"232b1f450f2e37f47fdd5b678a8a546d"}
+https://mega.z5cable.com/bpk-tv/adult_swim_hd/default/index.mpd
 #EXTINF:-1 tvg-id="ADULT SWIM.mx" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png", Adult Swim HD (México)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"694fa2e355b31ac2c52d0a56d3d8da59":"0d7eff2e4dc61d48489555068b0db46a"}
