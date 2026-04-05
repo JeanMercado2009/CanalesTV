@@ -1550,7 +1550,9 @@ http://185.228.163.146:8000/play/a026
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
 #EXTINF:0 tvg-id="Boing.es" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/boing-es.png", Boing (España)
 #EXTVLCOPT:network-caching=1000
-http://149.100.19.246:9981/stream/channelid/1383823659?profile=pass
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d67836bb61bc468292412db53f3e193d":"865826b7df4a6ce1493cde232531374e"}
+https://cache07.zapitv.com/live/eds_c2/boing/dash_live_ez/boing.mpd
 #EXTINF:0 tvg-id="Boing.it" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/boing-it.png", Boing (Italia)
 #EXTVLCOPT:network-caching=1000
 http://51.154.17.178/play/a0dp
