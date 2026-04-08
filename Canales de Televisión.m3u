@@ -268,6 +268,10 @@ http://45.177.21.6:9000/play/a02b
 #EXTINF:0 tvg-id="Caracol Internacional.cl" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol Internacional
 #EXTVLCOPT:network-caching=1000
 http://200.125.170.123:8000/play/a0er
+#EXTINF:-1 tvg-id="Teleantioquia.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Teleantioquia-icon.png", TELEANTIOQUIA HD (MPD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"96506896c42acb5430b278c6d2d0e93d":"939b7eb40bd8b3d37252b5c692418094"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TELEANTIOQUIA_HD)/manifest.mpd
 #EXTINF:0 tvg-id="Teleantioquia.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Teleantioquia-icon.png", TELEANTIOQUIA SD
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a01t
@@ -283,6 +287,10 @@ http://190.0.247.38:8000/play/a008
 #EXTINF:0 tvg-id="Telemedellín.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/telemedellin.png", TELEMEDELLÍN HD (60fps)
 #EXTVLCOPT:network-caching=1000
 http://181.79.84.66:8000/play/a01y
+#EXTINF:-1 tvg-id="Telecaribe.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TelecaribeCol2025white.webp", TELECARIBE HD (MPD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0ee0b5203a8866b61e003cd69646385a":"aa36de9d7d5f398ec9c1abfed42cb0fc"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TELECARIBE_HD)/manifest.mpd
 #EXTINF:0 tvg-id="Telecaribe.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TelecaribeCol2025white.webp", TELECARIBE HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.195:8000/play/a0rv
@@ -295,12 +303,20 @@ http://190.60.48.149:8000/play/TELECARIBE
 #EXTINF:0 group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TelecaribePlus2023.webp", TELECARIBE PLUS
 #EXTVLCOPT:network-caching=1000
 http://190.66.23.210:9003/play/a0ab
+#EXTINF:-1 tvg-id="Telecafe.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/telecafe-lam.png", TELECAFE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3b6f759448b8de6dbfbb76cd1af43f2b":"6c752fd914d25929660a8110b7305a62"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TELECAFE_HD)/manifest.mpd
 #EXTINF:0 tvg-id="Telecafe.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/telecafe-lam.png", TELECAFE
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0de
 #EXTINF:0 group-title="Televisión Regional", Canal 9 Local
 #EXTVLCOPT:network-caching=1000
 http://190.66.23.210:9003/play/a09w
+#EXTINF:-1 tvg-id="Telepacifico.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Telepacifico.png", TELEPACIFICO (MPD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ecba56736b63216a7478f3331b5d2147":"0f3b40eee94f829a13f7d990c357c793"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TELEPACIFICO_HD)/manifest.mpd
 #EXTINF:0 tvg-id="Telepacifico.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Telepacifico.png", TELEPACIFICO (Streaming)
 #EXTVLCOPT:network-caching=1000
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
@@ -318,6 +334,10 @@ http://190.14.248.42:8000/play/a00k
 #EXTINF:0 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv HD
 #EXTVLCOPT:network-caching=1000
 http://181.225.190.242:8000/play/a00z
+#EXTINF:-1 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv HD (MPD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2d032d9ab5f3ea56e93e7e26418af057":"041bd6b7c5f678981d70d5a2c2cc7c11"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CITY_TV_HD)/manifest.mpd
 #EXTINF:0 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv SD 
 #EXTVLCOPT:network-caching=1000
 http://190.60.40.34:8001/play/a0e6
@@ -345,6 +365,10 @@ http://190.66.23.210:9003/play/a0ec
 #EXTINF:0 tvg-id="EWTN.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/EWTN.png", EWTN HD
 #EXTVLCOPT:network-caching=1000
 http://45.177.21.6:9000/play/a036
+#EXTINF:-1,Prueba de La casa famosa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"dab744c2213b4c24836f695db589b1bf":"e486b1fa0e2b050c74fcdc9307b5aeba","5a943cad6ab15cb38be03142ec55b493":"f19168a3e0085cc59bd74deb3ad31f93"}
+https://362a33c2a385d7d1e52d89d1662a151f5da6058a.cdn.broadpeak.io/bcdn_token=vEgZX-mf0Mr1FRrsB7c1mFZVF6ydZzkeQ006Lq9a8vs&token_ignore_params=true&token_path=%2Flcdfsignal7%2F&expires=1775636237/lcdfsignal7/manifest.mpd
 #EXTINF:0 tvg-id="RCN HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", RCN HD
 #EXTVLCOPT:network-caching=1000
 http://181.225.190.242:8000/play/a02n
@@ -396,6 +420,14 @@ http://186.96.97.166:48001/play/a0al
 #EXTINF:0 tvg-id="Día TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/logo_redmas.png", RED+ COLOMBIA HD
 #EXTVLCOPT:network-caching=1000
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:-1, IBERO México
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b37ac3ccfa8e06b07b742e25357088bf":"10c1738ea469544d2940e30152e36c91"}
+https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(IBERO)/manifest.mpd
+#EXTINF:-1 tvg-id="Canal TR3CE.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TreceColombiaWhite.webp", CANAL TRECE COLOMBIA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ce6a6d4e915aefb76a8d4e899ddbe10b":"b489a3f392e81f6a835b939c47c5e2e9"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TRECE_HD)/manifest.mpd
 #EXTINF:0 tvg-id="Canal TR3CE.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TreceColombiaWhite.webp", CANAL TRECE COLOMBIA
 #EXTVLCOPT:network-caching=1000
 http://138.117.86.167:18000/play/a069
@@ -662,6 +694,10 @@ http://181.78.12.164:9000/play/a077
 #EXTINF:0 tvg-id="Canal 1.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/CanalUnoColombia2025redslogan.svg/revision/latest/scale-to-width-down/160?cb=20250320234626&path-prefix=es", CANAL 1 HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.48.149:8000/play/CANAL1
+#EXTINF:-1 tvg-id="Canal 1.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/CanalUnoColombia2025redslogan.svg/revision/latest/scale-to-width-down/160?cb=20250320234626&path-prefix=es", CANAL 1 HD (MPD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"86babf38afcdc81d92e22c530daf4f5f":"dd3a739cbe5a24155065189da26beb68"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CANAL_UNO_HD)/manifest.mpd
 #EXTINF:0 tvg-id="Canal 1.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/CanalUnoColombia2025redslogan.svg/revision/latest/scale-to-width-down/160?cb=20250320234626&path-prefix=es", CANAL 1 HD (Streaming)
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8?uid=OHY1BN7mefSzCKNwV5rrUn7GQtzbiffM&sid=tCyo1wfcsaZ02DRMT9Qu3hVgu86WCHtM&pid=zvjVuWsF6aos2uUJkb1NPcXoGPk04RNe&pid_dvr=dSp1m61EE0BltvvvP8vvvadKeZDKFUsy&an=c1_mediastream_vod&at=web-app&av=v6.0.259&ref=https%3A%2F%2Fcanal1.com.co%2F&res=837x471&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%225a5e1c2568b1910913db5fe2%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22zvjVuWsF6aos2uUJkb1NPcXoGPk04RNe%22%2Csu
@@ -680,12 +716,20 @@ http://190.2.213.5:8000/play/a0ac
 #EXTINF:0 tvg-id="CANAL INSTITUCIONAL.co" group-title="Noticias", CANAL INSTITUCIONAL (Streaming)
 #EXTVLCOPT:network-caching=1000
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CANAL INSTITUCIONAL.co" group-title="Noticias", CANAL INSTITUCIONAL (MPD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"352414e1b7da0c77d81855f61a8086d4":"4c318a5d1294c1bf0cfabaeed5f82c66"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(SENAL_INSTITUCIONAL_HD)/manifest.mpd
 #EXTINF:0 tvg-id="CANAL CONGRESO.co" group-title="Noticias", CANAL CONGRESO COLOMBIA HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.85.59:2500/play/a03w
 #EXTINF:0 tvg-id="CANAL CONGRESO.co" group-title="Noticias", CANAL CONGRESO COLOMBIA SD
 #EXTVLCOPT:network-caching=1000
 http://190.60.42.86:8000/play/a03h
+#EXTINF:-1 tvg-id="Señal.Colombia.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/logo-senal-colombia-blanco.png", SEÑAL COLOMBIA MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7f29c0fd24b7e277283aa3ad9a417295":"7e07baf1b863c973beac85a08e9a8dc1"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(SENAL_COLOMBIA_HD)/manifest.mpd
 #EXTINF:0 tvg-id="Señal.Colombia.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/logo-senal-colombia-blanco.png", SEÑAL COLOMBIA HD
 #EXTVLCOPT:network-caching=1000
 http://190.2.213.5:8000/play/a0ab
@@ -695,6 +739,10 @@ http://181.118.150.27:8000/play/a02h
 #EXTINF:0 tvg-id="Señal.Colombia.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/logo-senal-colombia-blanco.png", SEÑAL COLOMBIA (Streaming)
 #EXTVLCOPT:network-caching=1000
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal TRO.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/CanalTRO2020.webp", CANAL TRO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"48631ff566faae131ede01a6350d7c7e":"876a3e4db87c839d2b7e754cbd4e8d72"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TRO_HD)/manifest.mpd
 #EXTINF:0 tvg-id="Canal TRO.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/CanalTRO2020.webp", CANAL TRO
 #EXTVLCOPT:network-caching=1000
 http://190.61.40.251:8000/play/a06c/index.m3u8
@@ -1038,6 +1086,11 @@ http://45.189.62.33:8002/play/a0al
 #EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a00l
+#EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel (Panregional MPD)
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"027e637afed7db11853ff1a19cc8e4db":"608f91f05536f5a6c93e70cdd95aba5c"}
+https://covoslivechannels2dash.clarovideo.com/content/DASH_DASH_FK/Live/Channel(DISNEY_HD)/manifest.mpd
 #EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel (Israel)
 #EXTVLCOPT:network-caching=1000
 http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
