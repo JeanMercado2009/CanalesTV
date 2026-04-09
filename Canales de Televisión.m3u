@@ -1355,36 +1355,37 @@ http://181.118.150.27:8000/play/a033
 #EXTINF:0 tvg-id="Space.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/space-lam.png", Space HD (Chile)
 #EXTVLCOPT:network-caching=1000
 http://190.60.48.149:8000/play/SPACE
-#EXTINF:0 tvg-id="Warner Channel.pe" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel Perú
+#EXTINF:0 tvg-id="Warner Channel.pe" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel Perú
 #EXTVLCOPT:network-caching=1000
 http://168.228.44.241:9998/play/a0ag
-#EXTINF:0 tvg-id="Warner Channel.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner English (Colombia)
+#EXTINF:0 tvg-id="Warner Channel.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner English (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://190.90.22.42:5280/play/a0d6
-#EXTINF:0 tvg-id="Warner Channel.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel Colombia
-#EXTVLCOPT:network-caching=1000
-http://186.148.175.138:8000/play/a05o
-#EXTINF:0 tvg-id="WARNER.ve" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner HD (Honduras) Opción 2
+#EXTINF:-1 tvg-id="Warner Channel.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel Colombia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b0adc810ea2f34ec6904592c12ca5490":"05c77592b06e36644676bc93cec8b71f"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WARNER_HD)/manifest.mpd
+#EXTINF:0 tvg-id="WARNER.ve" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner HD (Honduras) Opción 2
 #EXTVLCOPT:network-caching=1000
 http://190.60.40.34:8001/play/a08w
-#EXTINF:0 tvg-id="WARNER.ve" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner (Honduras)
+#EXTINF:0 tvg-id="WARNER.ve" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner (Honduras)
 #EXTVLCOPT:network-caching=1000
 http://190.60.40.34:8001/play/a08j
-#EXTINF:0 tvg-id="Warner Channel.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner (Chile)
+#EXTINF:0 tvg-id="Warner Channel.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner (Chile)
 #EXTVLCOPT:network-caching=1000
 http://190.60.40.34:8001/play/a0cm
-#EXTINF:0 tvg-id="WARNER CHANNEL.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel Argentina
+#EXTINF:0 tvg-id="WARNER CHANNEL.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel Argentina
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a01r
-#EXTINF:0 tvg-id="Warner Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner (México)
+#EXTINF:0 tvg-id="Warner Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner (México)
 #EXTVLCOPT:network-caching=1000
 http://45.189.62.33:8002/play/a0cf
-#EXTINF:0 tvg-id="WARNER.mx" group-title="Películas y Series" tvg-logo="", Warner Channel México
+#EXTINF:0 tvg-id="WARNER.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel México
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
 https://mega.z5cable.com/bpk-tv/warner_channel_hd/default/index.mpd
-#EXTINF:-1 tvg-id="Warner Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel México
+#EXTINF:-1 tvg-id="Warner Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel México
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a62d210f0f907a0ebfb84a790d42780b":"590779be25e38a41d817f6ad13f5b070"}
 https://hfc-tlx-live-atv-cdn.izzigo.tv/15/out/u/dash/WARNER-HD/default.mpd
