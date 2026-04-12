@@ -408,11 +408,6 @@ http://38.156.13.106:8888/play/a06l
 #EXTINF:0 tvg-id="NUESTRA TELE.cl" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN_NuestraTele_Internacional.png", RCN Nuestra Tele (Internacional)
 #EXTVLCOPT:network-caching=1000
 http://181.79.87.91:9500/play/a0b5
-#EXTINF:0 tvg-id="NUESTRA TELE.cl" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN_NuestraTele_Internacional.png", RCN Nuestra Tele (Internacional)
-#EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b605a3b3ae2ee3d49e92c1f6424b5ba9":"6687308c9c969315c7ec77f6a9c46afb"}
-https://hispasat-443.fastly-latam.com/Content/DASH/Live/channel(inti)/master.mpd
 #EXTINF:0 group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN-icon.png", RCN Más
 #EXTVLCOPT:network-caching=1000
 http://200.59.188.3:8000/play/a0ab
