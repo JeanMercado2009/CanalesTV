@@ -257,12 +257,18 @@ http://181.78.8.199:8000/play/a0aw
 #EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol Televisión
 #EXTVLCOPT:network-caching=1000
 http://astra.fibernetisp.com.co/play/a03r
+#EXTINF:0 tvg-id="Caracol Internacional.cl" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol Internacional MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b605a3b3ae2ee3d49e92c1f6424b5ba9":"6687308c9c969315c7ec77f6a9c46afb"}
+https://cdn03051.cdn.agiletv.net/__cl/cg:lv-v4/__c/Caracol_TV_HD_A/__op/delay-dash-wv/__f/manifest.mpd
 #EXTINF:0 tvg-id="Caracol Internacional.cl" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol Internacional HD
 #EXTVLCOPT:network-caching=1000
 http://45.177.21.6:9000/play/a02b
 #EXTINF:0 tvg-id="Caracol Internacional.cl" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol Internacional
 #EXTVLCOPT:network-caching=1000
-http://200.125.170.123:8000/play/a0er
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b605a3b3ae2ee3d49e92c1f6424b5ba9":"6687308c9c969315c7ec77f6a9c46afb"}
+https://cdn03051.cdn.agiletv.net/__cl/cg:lv-r2/__c/Caracol_TV_HD_A/__op/dash-wv/__f/manifest.mpd
 #EXTINF:-1 tvg-id="Teleantioquia.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Teleantioquia-icon.png", TELEANTIOQUIA HD (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"96506896c42acb5430b278c6d2d0e93d":"939b7eb40bd8b3d37252b5c692418094"}
@@ -379,6 +385,11 @@ http://190.60.40.34:8001/play/a0ds
 #EXTINF:0 tvg-id="RCN.HDTV.2.(RCNHD2).co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/RCNHD2-NewLogo2023.png/revision/latest/scale-to-width-down/220?cb=20230623165814", RCN HD2
 #EXTVLCOPT:network-caching=1000
 http://181.225.190.242:8000/play/a02o
+#EXTINF:0 tvg-id="RCN Novelas.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN-icon.png", RCN Novelas HD (Internacional)
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"939ad707f2724301b2dc460d2220cbce":"b05f6d4ad911ee2120182a07a424b7eb"}
+https://hispasat-443.fastly-latam.com/Content/DASH/Live/channel(rcnnovelas)/master.mpd
 #EXTINF:0 tvg-id="RCN Novelas.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN-icon.png", RCN Novelas HD (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://38.156.13.106:8888/play/a057
@@ -397,6 +408,11 @@ http://38.156.13.106:8888/play/a06l
 #EXTINF:0 tvg-id="NUESTRA TELE.cl" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN_NuestraTele_Internacional.png", RCN Nuestra Tele (Internacional)
 #EXTVLCOPT:network-caching=1000
 http://181.79.87.91:9500/play/a0b5
+#EXTINF:0 tvg-id="NUESTRA TELE.cl" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN_NuestraTele_Internacional.png", RCN Nuestra Tele (Internacional)
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b605a3b3ae2ee3d49e92c1f6424b5ba9":"6687308c9c969315c7ec77f6a9c46afb"}
+https://hispasat-443.fastly-latam.com/Content/DASH/Live/channel(inti)/master.mpd
 #EXTINF:0 group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/RCN-icon.png", RCN Más
 #EXTVLCOPT:network-caching=1000
 http://200.59.188.3:8000/play/a0ab
