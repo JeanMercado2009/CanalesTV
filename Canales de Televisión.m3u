@@ -713,6 +713,11 @@ http://181.118.158.103:8000/play/a00h
 #EXTINF:0 tvg-id="Canal Capital.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Logo_Canal_Capital.png", CANAL CAPITAL HD (Streaming)
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8?_=1770579159102&dnt=true&player=6952e59cd2f34633db744de3&uid=xSW2GCYoAN61oF5i0XM6ywGfyY4m8Kvk&sid=pNDRjS1hFflGh90BGLWBQZqT3m5dz6XQ&pid=cTH3nictJBD34CqaHejtnZ7d5liv82yL&an=player-canal-capital&at=web-app&av=v1.0.50&sc=0&ref=mdstrm.com&res=1366x768&CMCD=cid%3D%226952dc88cb62083467eb6ab4%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22cTH3nictJBD34CqaHejtnZ7d5liv82yL%22%2Csu
+#EXTINF:0 tvg-id="Canal Capital.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Logo_Canal_Capital.png", CANAL CAPITAL HD (MPD)
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a849174b8449ed5cd2a001df5542ae49":"12e0ac6e955d3b6e785b7cc02aa7a467"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CANALCAPITAL_HD)/manifest.mpd
 #EXTINF:0 tvg-id="CANAL INSTITUCIONAL.co" group-title="Noticias", CANAL INSTITUCIONAL
 #EXTVLCOPT:network-caching=1000
 http://181.225.190.242:8000/play/a00k
