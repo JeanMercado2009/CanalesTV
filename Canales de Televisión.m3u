@@ -1,14 +1,25 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/JeanMercado2009/Grillas-de-Cartoon-Network/refs/heads/main/CNLA_PAN.xml,https://www.open-epg.com/files/bulgaria1.xml,https://www.open-epg.com/files/colombia1.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina5.xml,https://www.open-epg.com/files/argentina6.xml,https://www.open-epg.com/files/argentina7.xml,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/venezuela1.xml,https://www.open-epg.com/files/unitedstates1.xml,https://www.open-epg.com/files/unitedstates2.xml,https://www.open-epg.com/files/unitedstates3.xml,https://www.open-epg.com/files/unitedstates4.xml,https://www.open-epg.com/files/unitedstates6.xml,https://www.open-epg.com/files/unitedstates7.xml,https://www.open-epg.com/files/unitedstates8.xml,https://www.open-epg.com/files/unitedstates9.xml,https://www.open-epg.com/files/unitedstates10.xml,https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil2.xml,https://www.open-epg.com/files/brazil3.xml,https://www.open-epg.com/files/brazil4.xml,https://www.open-epg.com/files/brazil5.xml,https://www.open-epg.com/files/chile1.xml,https://www.open-epg.com/files/chile2.xml,https://www.open-epg.com/files/spain1.xml,https://www.open-epg.com/files/spain2.xml,https://www.open-epg.com/files/spain3.xml,https://www.open-epg.com/files/italy1.xml,https://www.open-epg.com/files/peru1.xml,https://www.open-epg.com/files/canada5.xml,https://raw.githubusercontent.com/JeanMercado2009/rcnradio-epg/refs/heads/main/rcnradiobogota_epg.xml"
 
-#EXTINF:0 tvg-id="CNLA_PAN.co" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (Panregional)
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Panregional
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a009
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Panregional MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3a827f7fede44d8d973cbbaab0c089c0":"f91eeb3c7c12d9391434dc79a872c0b9"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CARTOON_NETWORK_HD)/manifest.mpd
+#EXTINF:-1 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"85d06ba283f3b18bb14f9f8d59b8fb82":"6659fed472544289adee986c1d33fa79"}
+https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd
 #EXTINF:-1 tvg-id="CARTOON NETWORK.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network MX MEGA
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
 https://mega.z5cable.com/bpk-tv/cartoon_network_hd/default/index.mpd
-#EXTINF:0 tvg-id="CARTOON NETWORK.ar" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Panregional)
+#EXTINF:-1 tvg-id="CARTOON NETWORK.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network MX Astra
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a05n
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://190.83.9.222:8000/play/ca065
 #EXTINF:0 group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN Brazil Viejo
@@ -17,9 +28,9 @@ http://15.235.9.200:14951/
 #EXTINF:0 group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN Brazil Viejo 2
 #EXTVLCOPT:network-caching=1000
 http://15.235.9.200:14950/
-#EXTINF:0 tvg-id="Cartoon Network.br" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (Brazil)
+#EXTINF:0 tvg-id="Cartoon Network.br" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon BR MANTENIMIENTO
 #EXTVLCOPT:network-caching=1000
-http://79.127.238.195/592109/Aws0824/71830.ts
+http://15.235.9.200:14950/
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Panregional) Opción 2
 #EXTVLCOPT:network-caching=1000
 http://200.115.96.66:4000/play/a0dd
@@ -34,14 +45,6 @@ http://181.118.150.27:8000/play/a032
 http://190.60.40.34:8001/play/a049
 #EXTINF:0 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (México)
 http://45.189.62.33:8002/play/a0c0
-#EXTINF:-1 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"85d06ba283f3b18bb14f9f8d59b8fb82":"6659fed472544289adee986c1d33fa79"}
-https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd
-#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN HD (Panregional MPD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3a827f7fede44d8d973cbbaab0c089c0":"f91eeb3c7c12d9391434dc79a872c0b9"}
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CARTOON_NETWORK_HD)/manifest.mpd
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a04b
