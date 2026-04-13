@@ -203,9 +203,6 @@ http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYLLQ0O2815R
 #EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win + Fútbol
 #EXTVLCOPT:network-caching=1000
 http://190.60.40.34:8001/play/a02r
-#EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+
-#EXTVLCOPT:network-caching=1000
-http://181.205.130.194:4000/play/a0f1
 #EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol HD
 #EXTVLCOPT:network-caching=1000
 http://190.61.40.187:45000/play/a024
@@ -369,10 +366,6 @@ http://190.66.23.210:9003/play/a0ec
 #EXTINF:0 tvg-id="EWTN.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/EWTN.png", EWTN HD
 #EXTVLCOPT:network-caching=1000
 http://45.177.21.6:9000/play/a036
-#EXTINF:-1,Prueba de La casa famosa
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"dab744c2213b4c24836f695db589b1bf":"e486b1fa0e2b050c74fcdc9307b5aeba","5a943cad6ab15cb38be03142ec55b493":"f19168a3e0085cc59bd74deb3ad31f93"}
-https://362a33c2a385d7d1e52d89d1662a151f5da6058a.cdn.broadpeak.io/bcdn_token=vEgZX-mf0Mr1FRrsB7c1mFZVF6ydZzkeQ006Lq9a8vs&token_ignore_params=true&token_path=%2Flcdfsignal7%2F&expires=1775636237/lcdfsignal7/manifest.mpd
 #EXTINF:0 tvg-id="RCN HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", RCN HD
 #EXTVLCOPT:network-caching=1000
 http://181.225.190.242:8000/play/a02n
