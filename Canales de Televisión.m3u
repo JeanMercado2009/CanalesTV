@@ -1082,9 +1082,6 @@ http://200.4.244.29:8000/play/a00o
 #EXTINF:0 tvg-id="TNT.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-states/tnt-us.png", TNT (Chile / Perú)
 #EXTVLCOPT:network-caching=1000
 http://190.2.213.5:8000/play/a018
-#EXTINF:0 tvg-id="TNT.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-states/tnt-us.png", TNT (Colombia)
-#EXTVLCOPT:network-caching=1000
-http://181.78.192.238:8000/play/a207
 #EXTINF:0 tvg-id="TNT.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-states/tnt-us.png", TNT HD (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a031
