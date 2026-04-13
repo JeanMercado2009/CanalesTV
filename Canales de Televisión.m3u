@@ -7,6 +7,8 @@ http://45.169.163.237:4000/play/a009
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3a827f7fede44d8d973cbbaab0c089c0":"f91eeb3c7c12d9391434dc79a872c0b9"}
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CARTOON_NETWORK_HD)/manifest.mpd
+#EXTINF:0 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México SD
+http://45.189.62.33:8002/play/a0c0
 #EXTINF:-1 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"85d06ba283f3b18bb14f9f8d59b8fb82":"6659fed472544289adee986c1d33fa79"}
@@ -19,6 +21,9 @@ https://mega.z5cable.com/bpk-tv/cartoon_network_hd/default/index.mpd
 #EXTINF:-1 tvg-id="CARTOON NETWORK.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network MX Astra
 #EXTVLCOPT:network-caching=1000
 http://45.189.151.7:8000/play/a05n
+#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network SD
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a049
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://190.83.9.222:8000/play/ca065
@@ -40,11 +45,6 @@ http://181.118.158.103:8000/play/a037
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", CN (Colombia Opcion 2)
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a032
-#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Colombia)
-#EXTVLCOPT:network-caching=1000
-http://190.60.40.34:8001/play/a049
-#EXTINF:0 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (México)
-http://45.189.62.33:8002/play/a0c0
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a04b
@@ -1411,9 +1411,11 @@ http://45.167.253.246:8010/play/a00e
 #EXTINF:0 tvg-id="Canal 5.mx" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png", Canal 5 HD (México)
 #EXTVLCOPT:network-caching=1000
 http://45.189.62.33:8002/play/a0ll
-#EXTINF:0 group-title="Televisión Abierta" tvg-logo="https://i.imgur.com/qB6I274.png", Canal 4 Jujuy
+#EXTINF:0 tvg-id="Canal 5.mx" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png", Canal 5 SD (México)
 #EXTVLCOPT:network-caching=1000
 http://45.189.62.33:8002/play/a0fl
+#EXTINF:0 group-title="Televisión Abierta" tvg-logo="https://i.imgur.com/qB6I274.png", Canal 4 Jujuy
+#EXTVLCOPT:network-caching=1000
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:0 tvg-id="TYC SPORTS.ar" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/tyc-sports-ar.png", TyC Sports (Argentina)
 #EXTVLCOPT:network-caching=1000
