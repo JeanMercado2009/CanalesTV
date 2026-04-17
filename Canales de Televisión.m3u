@@ -2,6 +2,11 @@
 
 # --- SECCIÓN ARGENTINA VPN ---
 
+#EXTINF:-1 tvg-id="Kidoo.ar" group-title="Argentina VPN", KIDOO Prueba sin vpn
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"dcd89337a501ab929c01a039774089dc":"e96cc7be9139a8d581b3f5eebebfc10d"}
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_C/Kidoo.mpd
 #EXTINF:-1 tvg-id="Cartoon_Network.ar" group-title="ARGENTINA (VPN REQUERIDO)", Cartoon Network (VPN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d7df56efaa36a71141d238854cc46d1d":"8abb2ee9150d8b2af8ebec0de0f833c8"}
