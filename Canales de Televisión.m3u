@@ -58,10 +58,10 @@ https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_C/Kidoo.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"22687aa10ab34af3903ee14731555a40":"26cb1a9673b24d18197cbad748c2ff0d"}
 https://mdstrm.com/live-stream-playlist/69690cb8ff8e0631ea2047fb.mpd
-#EXTINF:-1 tvg-id="RCN.co" group-title="Infantil", Prueba2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"764f6e84763f46029c56e7eb47367e87":"6a652aaeee3614985dadd047f4a611e0","5a943cad6ab15cb38be03142ec55b493":"1ccc5f5f9567fcf414fe9b31aa32245a"}
-https://362a33c2a385d7d1e52d89d1f67b893872a69aa3.cdn.broadpeak.io/rcn/manifest.mpd?bcdn_token=-FtVq3_gE4r6268so7Fj8yVckq_DJjeiVUoDslBmJ7o&token_ignore_params=true&token_path=%2Frcn%2F&expires=1776472727
+#EXTINF:-1 group-title="Infantil", Prueba2
+https://362a33c2a385d7d1e52d89d1f67b893872a69aa3.cdn.broadpeak.io/bcdn_token=-FtVq3_gE4r6268so7Fj8yVckq_DJjeiVUoDslBmJ7o&token_ignore_params=true&token_path=%2Frcn%2F&expires=1776472727/rcn/manifest.mpd
 #EXTINF:0 tvg-id="Cartoonito.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito (Latinoamérica) HD
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a036
