@@ -60,7 +60,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_C/Kidoo.mpd
 https://mdstrm.com/live-stream-playlist/69690cb8ff8e0631ea2047fb.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"764f6e84763f46029c56e7eb47367e87":"6a652aaeee3614985dadd047f4a611e0","5a943cad6ab15cb38be03142ec55b493":"1ccc5f5f9567fcf414fe9b31aa32245a"}
-#EXTINF:-1 tvg-id="RCN.co" group-title="NACIONALES", RCN HD (TEST)
+#EXTINF:-1 tvg-id="RCN.co" group-title="Infantil", RCN HD (TEST)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"764f6e84763f46029c56e7eb47367e87":"6a652aaeee3614985dadd047f4a611e0","5a943cad6ab15cb38be03142ec55b493":"1ccc5f5f9567fcf414fe9b31aa32245a"}
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
