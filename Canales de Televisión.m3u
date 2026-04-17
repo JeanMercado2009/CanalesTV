@@ -5,10 +5,6 @@
 #EXTINF:-1 group-title="Infantil", PRUEBA
 https://mdstrm.com/live-stream-playlist/69690cb8ff8e0631ea2047fb.mpd
 ## --- SECCIÓN ARGENTINA (REQUIERE VPN) ---
-#EXTINF:-1 tvg-id="HBO.ar" group-title="Infantil", HBO prueba
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5317283f4110fac3fb3a0becd9f648bc":"0754a03c926b1247216e01d9dbcfac28"}
-https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd
 #EXTINF:0 tvg-id="Cartoonito.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito (Latinoamérica) HD
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a036
@@ -1450,6 +1446,39 @@ http://177.10.184.193:8000/play/a031
 #EXTINF:0 tvg-id="HBO Plus Panregional HD.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-plus-lam.png", HBO +
 #EXTVLCOPT:network-caching=1000
 http://38.183.114.220:8000/play/a0s1
+# --- SECCIÓN HBO FLOW (REQUIERE VPN ARGENTINA) ---
+#EXTINF:-1 tvg-id="HBO.ar" group-title="ARGENTINA (VPN REQUERIDO)", HBO HD (VPN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5317283f4110fac3fb3a0becd9f648bc":"0754a03c926b1247216e01d9dbcfac28"}
+https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd
+#EXTINF:-1 tvg-id="HBO_2.ar" group-title="ARGENTINA (VPN REQUERIDO)"", HBO 2 (VPN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c90cc57ad2c436e5a77db2f8d9db2d85":"04f6c73984bdcffd013050608497935d"}
+https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd
+#EXTINF:-1 tvg-id="HBO_Plus.ar" group-title="ARGENTINA (VPN REQUERIDO)", HBO Plus (VPN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f0e7f7d458990edfab7b98b412564615":"79205754b7f84a62661c2dbe9de5dd5d"}
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_C/HBO_Plus.mpd
+#EXTINF:-1 tvg-id="HBO_Mundi.ar" group-title="ARGENTINA (VPN REQUERIDO)", HBO Mundi (VPN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7821b2662148fe333d5191acbb8a5c1f":"ae43f3e2545237ebda58b13813b5d328"}
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_C/HBO_Mundi.mpd
+#EXTINF:-1 tvg-id="HBO_Pop.ar" group-title="ARGENTINA (VPN REQUERIDO)", HBO POP (VPN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f4e1ce5cef7e9a110fe968f8881b21fa":"6bbe2062b150b11496cdd5fbdd9c89d6"}
+https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_C/HBO_POP.mpd
+#EXTINF:-1 tvg-id="HBO_Extreme.ar" group-title="ARGENTINA (VPN REQUERIDO)", HBO Extreme (VPN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d504011bbef467c0de3a7534e302a6d4":"334103e2abe16faa7f9ab2e3097c5a58"}
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.mpd
+#EXTINF:-1 tvg-id="HBO_Family.ar" group-title="ARGENTINA (VPN REQUERIDO)", HBO FAMILY (VPN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"535473132f68082160b489482ca35f8e":"e90fd91fcd3fc809bed2b1c0d37f7297"}
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mpd
+#EXTINF:-1 tvg-id="HBO_Signature.ar" group-title="ARGENTINA (VPN REQUERIDO)", HBO SIGNATURE (VPN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e866499fbc1149f49989672075aa3a68":"d2dd5c95623c6343240981c2202fc311"}
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_C/HBO_Signature.mpd
 #EXTINF:0 tvg-id="HBO HD.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/hbo-ar.png", HBO HD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://38.187.3.110:8000/play/a07z
