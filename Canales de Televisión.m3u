@@ -2,12 +2,15 @@
 
 # --- SECCIÓN ARGENTINA VPN ---
 
-#EXTINF:-1 tvg-id="Kidoo.ar" group-title="Argentina VPN", KIDOO (TEST COLOMBIA)
+#EXTINF:-1 tvg-id="Kidoo.ar" group-title="Argentina VPN", KIDOO (HARD TEST)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"dcd89337a501ab929c01a039774089dc":"e96cc7be9139a8d581b3f5eebebfc10d"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_selection_type=ask
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; SM-G998B Build/RP1A.200720.012)
 #EXTVLCOPT:http-referrer=https://web.flow.com.ar/
 #EXTVLCOPT:http-origin=https://web.flow.com.ar
+#EXTVLCOPT:http-x-forwarded-for=181.165.0.1
 https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_C/Kidoo.mpd
 #EXTINF:-1 tvg-id="Cartoon_Network.ar" group-title="ARGENTINA (VPN REQUERIDO)", Cartoon Network (VPN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
