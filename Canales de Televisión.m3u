@@ -4,7 +4,6 @@
 #KODIPROP:inputstream.adaptive.license_key={"22687aa10ab34af3903ee14731555a40":"26cb1a9673b24d18197cbad748c2ff0d"}
 #EXTINF:-1 group-title="Infantil", PRUEBA
 https://mdstrm.com/live-stream-playlist/69690cb8ff8e0631ea2047fb.mpd
-## --- SECCIÓN ARGENTINA (REQUIERE VPN) ---
 #EXTINF:0 tvg-id="Cartoonito.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito (Latinoamérica) HD
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a036
@@ -1451,7 +1450,7 @@ http://38.183.114.220:8000/play/a0s1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5317283f4110fac3fb3a0becd9f648bc":"0754a03c926b1247216e01d9dbcfac28"}
 https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd
-#EXTINF:-1 tvg-id="HBO_2.ar" group-title="ARGENTINA (VPN REQUERIDO)"", HBO 2 (VPN)
+#EXTINF:-1 tvg-id="HBO_2.ar" group-title="ARGENTINA (VPN REQUERIDO)", HBO 2 (VPN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c90cc57ad2c436e5a77db2f8d9db2d85":"04f6c73984bdcffd013050608497935d"}
 https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd
