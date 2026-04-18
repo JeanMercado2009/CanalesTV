@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/JeanMercado2009/Grillas-de-Cartoon-Network/refs/heads/main/CNLA_PAN.xml,https://www.open-epg.com/files/bulgaria1.xml,https://www.open-epg.com/files/colombia1.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina5.xml,https://www.open-epg.com/files/argentina6.xml,https://www.open-epg.com/files/argentina7.xml,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/venezuela1.xml,https://www.open-epg.com/files/unitedstates1.xml,https://www.open-epg.com/files/unitedstates2.xml,https://www.open-epg.com/files/unitedstates3.xml,https://www.open-epg.com/files/unitedstates4.xml,https://www.open-epg.com/files/unitedstates6.xml,https://www.open-epg.com/files/unitedstates7.xml,https://www.open-epg.com/files/unitedstates8.xml,https://www.open-epg.com/files/unitedstates9.xml,https://www.open-epg.com/files/unitedstates10.xml,https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil2.xml,https://www.open-epg.com/files/brazil3.xml,https://www.open-epg.com/files/brazil4.xml,https://www.open-epg.com/files/brazil5.xml,https://www.open-epg.com/files/chile1.xml,https://www.open-epg.com/files/chile2.xml,https://www.open-epg.com/files/spain1.xml,https://www.open-epg.com/files/spain2.xml,https://www.open-epg.com/files/spain3.xml,https://www.open-epg.com/files/italy1.xml,https://www.open-epg.com/files/peru1.xml,https://www.open-epg.com/files/canada5.xml,https://raw.githubusercontent.com/JeanMercado2009/rcnradio-epg/refs/heads/main/rcnradiobogota_epg.xml"
 
-#EXTINF:-1 group-title="Infantil", PRUEBA
+#EXTINF:-1 tvg-id="CaracolKids.co" group-title="Infantiles", Caracol Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"22687aa10ab34af3903ee14731555a40":"26cb1a9673b24d18197cbad748c2ff0d"}
-https://mdstrm.com/live-stream-playlist/69690cb8ff8e0631ea2047fb.mpd
+#KODIPROP:inputstream.adaptive.license_key={"1702ab01579f458d905353a745ebaed3":"336381fb3049c8e6971d53f8a30bb0cc"}
+https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
 #EXTINF:-1 tvg-id="Paka_Paka.ar" group-title="ARGENTINA (VPN REQUERIDO)", PAKA PAKA (VPN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"334001b2f2644df9bdf35e92d2b89f8f":"475ec87d86ed0636dbb6d6d9d4a43bb7"}
@@ -347,6 +347,22 @@ https://tvcdn.tv.telia.lt/live/eds/Kidzone_Plus_HD/DASH_5_CPIX_NPVR/Kidzone_Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d3b2f20862fa7f361fc703d8b9bcd340":"f849ca1496a4c3eca2394628c08493d1"}
 https://tvcdn.tv.telia.lt/live/eds/JimJam/DASH_5_CPIX_NPVR/JimJam.mpd
+#EXTINF:-1 tvg-id="NovelasDitu.co" group-title="Variedades", Novelas Ditu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"dd4607e73e5f49cab1f05f5538526ed2":"ef6e5066ff4b27d020fc90295b068b58"}
+https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
+#EXTINF:-1 tvg-id="TuVozEstereo.co" group-title="Variedades", Tu Voz Estéreo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2afc0da21ebb4e6f9a1574de811b1344":"59301dde60d92d0d074aa191eec3812b"}
+https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
+#EXTINF:-1 tvg-id="CanalHumor.co" group-title="Variedades", Canal Humor
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"af8ca876090342ed97c417dbccd76275":"f39588c96edd9482e9c06a3b12120fba"}
+https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
+#EXTINF:-1 tvg-id="NoticiasCaracol.co" group-title="Noticias", Noticias Caracol En Vivo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d3d2dd67a6144a998d72533854e19216":"4006aaf9701e2a748cd1069a6672e32c"}
+https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
 #EXTINF:0 group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/DNews.png", DNews
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a06z
@@ -371,6 +387,14 @@ http://181.118.150.27:8000/play/a02p
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Radio
 #EXTVLCOPT:network-caching=1000
 https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac
+#EXTINF:-1 tvg-id="CaracolSports.co" group-title="Deportes", Caracol Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1c6bfd8d1cdd4df69ea5fc4dd2f025bb":"b6fd90027dac7a94a9461f8b2638cbb4"}
+https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
+#EXTINF:-1 tvg-id="CaracolSports2.co" group-title="Deportes", Caracol Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8a3f622f7a8045408a19a478e9fc5531":"245cdef50405baf2b037bdb358e8d23a"}
+https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png", TUDN
 #EXTVLCOPT:network-caching=1000
 http://168.228.44.241:9997/play/a09f
@@ -452,6 +476,10 @@ http://179.1.95.167:18000/play/a0az
 #EXTINF:0 tvg-id="Cablenoticias.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Cable_Noticias_logo.svg.webp", CABLE NOTICIAS HD
 #EXTVLCOPT:network-caching=1000
 http://190.0.247.38:8000/play/a028
+#EXTINF:-1 tvg-id="BluRadio.co" group-title="Radio", Blu Radio
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0843b67030934d8eba42bb0ee6eac7ac":"a943f55bcd776a8ef94b3149be86e652"}
+https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
 #EXTINF:0 tvg-id="Blu Radio" group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Logo%20Blu%20Radio.png", BLU RADIO NACIONAL (Internet)
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO_ADP.aac
@@ -467,6 +495,14 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_CALI_ADP.a
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Logo%20Blu%20Radio.png", BLU MEDELLÍN (Internet)
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_MEDELLIN_ADP.aac?dist= blu_web
+#EXTINF:-1 group-title="Televisión Abierta", A Otro Nivel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"22687aa10ab34af3903ee14731555a40":"26cb1a9673b24d18197cbad748c2ff0d"}
+https://mdstrm.com/live-stream-playlist/69690cb8ff8e0631ea2047fb.mpd
+#EXTINF:-1 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol HD (DITU)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9eedb5acbf32419fa7a249f88ba2e7ad":"2e90ead40f078eaa97149a23f22fc4d4"}
+https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
 #EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", CARACOL HD
 #EXTVLCOPT:network-caching=1000
 http://181.79.84.66:8000/play/a01w
@@ -664,7 +700,11 @@ http://38.41.8.1:8000/play/a0xq
 #EXTINF:0 tvg-id="VENEVISION.ve" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/venevision.png", VENEVISION HD
 #EXTVLCOPT:network-caching=1000
 http://200.59.188.3:8000/play/a0zg
-#EXTINF:0 tvg-id="TELEVID.co" group-title="Santa Misa" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/televid-logo-2025-1024x1002.png", TELEVID HD
+#EXTINF:-1 tvg-id="TELEVID.co" group-title="Religión" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/televid-logo-2025-1024x1002.png", TELEVID (Ditu)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"26bddb17151a47c0a1d7c0951ef979bc":"a48c482d8bbbf8752422d1147bba0a4f"}
+https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
+#EXTINF:0 tvg-id="TELEVID.co" group-title="Religión" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/televid-logo-2025-1024x1002.png", TELEVID HD
 #EXTVLCOPT:network-caching=1000
 http://190.0.247.38:8000/play/a02o
 #EXTINF:-1 group-title="Televisión Abierta" tvg-id="CityTVCarlsbad.us@SD" tvg-logo="https://i.imgur.com/G6h8efT.png", Carlsbad City TV Channel (Carlsbad CA) (720p)
@@ -894,6 +934,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CALIAAC.aa
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Olimpica_Stereo_2025.webp", OLIMPICA STEREO BUCARAMANGA (Internet)
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BUCARAMANGAAAC.aac?dist=oro_web
+#EXTINF:-1 tvg-id="LaKalle.co" group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/LaKalle-logotentativo.webp", La Kalle (Ditu)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"70e7235679a24c2d8aa9c115d6e5b534":"e6e65c55b22c66836f2506fbeee85dba"}
+https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/LaKalle-logotentativo.webp", LA KALLE HD
 #EXTVLCOPT:network-caching=1000
 http://190.131.243.54:9000/play/a0gt
