@@ -533,16 +533,10 @@ https://mdstrm.com/live-stream-playlist/69690cb8ff8e0631ea2047fb.mpd
 https://mdstrm.com/live-stream-playlist/69690d21fb30af150e58f11c.mpd
 #EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", CARACOL HD
 #EXTVLCOPT:network-caching=1000
-http://181.79.84.66:8000/play/a01w
+http://181.78.12.164:9000/play/a05v
 #EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", CARACOL SD
 #EXTVLCOPT:network-caching=1000
-http://181.225.190.242:8000/play/a00q
-#EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0aw
-#EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol Televisión
-#EXTVLCOPT:network-caching=1000
-http://astra.fibernetisp.com.co/play/a03r
+http://190.60.40.34:8001/play/a0dr
 #EXTINF:0 tvg-id="Caracol Internacional.cl" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol Internacional MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b605a3b3ae2ee3d49e92c1f6424b5ba9":"6687308c9c969315c7ec77f6a9c46afb"}
