@@ -11,7 +11,7 @@ https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_C/PAKA_PAKA.mpd
 #EXTINF:0 tvg-id="Cartoonito.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito LA
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a036
-#EXTINF:-1 tvg-id="Cartoonito.ar" group-title="ARGENTINA (VPN REQUERIDO) tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito LA (VPN)
+#EXTINF:-1 tvg-id="Cartoonito.ar" group-title="ARGENTINA (VPN REQUERIDO)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito LA (VPN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5792e613fceb699c79cbc0e75fe4cd37":"a672793730476ed23e5c1bce2ff570c6"}
 https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_C/Boomerang.mpd
