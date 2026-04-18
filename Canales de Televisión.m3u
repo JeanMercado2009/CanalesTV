@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="CaracolKids.co" group-title="Infantiles", Caracol Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1702ab01579f458d905353a745ebaed3":"336381fb3049c8e6971d53f8a30bb0cc"}
-https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
+https://mdstrm.com/live-stream-playlist/6972e1087faf95f01fc8cc30.mpd
 #EXTINF:-1 tvg-id="Paka_Paka.ar" group-title="ARGENTINA (VPN REQUERIDO)", PAKA PAKA (VPN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"334001b2f2644df9bdf35e92d2b89f8f":"475ec87d86ed0636dbb6d6d9d4a43bb7"}
@@ -347,14 +347,30 @@ https://tvcdn.tv.telia.lt/live/eds/Kidzone_Plus_HD/DASH_5_CPIX_NPVR/Kidzone_Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d3b2f20862fa7f361fc703d8b9bcd340":"f849ca1496a4c3eca2394628c08493d1"}
 https://tvcdn.tv.telia.lt/live/eds/JimJam/DASH_5_CPIX_NPVR/JimJam.mpd
+#EXTINF:-1 tvg-id="Filmelier.co" group-title="Variedades", Filmelier TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"afd504a3c45b410ca9b7b20b6a473795":"5acce8f7728627168dc31cacfc2df2ff"}
+https://mdstrm.com/live-stream-playlist/69690c2879cd2809c0d2f39b.mpd
+#EXTINF:-1 tvg-id="Tastemade.co" group-title="Variedades", Tastemade TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a707f6e8acf34e7daa476edd66bdfb32":"bfd8a90f0cba0ab76af3efe7ef5487c5"}
+https://mdstrm.com/live-stream-playlist/69690c53fcb443efb63d4fd1.mpd
+#EXTINF:-1 tvg-id="NegociosDitu.co" group-title="Variedades", Negocios Ditu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8b86a869da9d41c09716b48e7cc63daa":"31f6f32e72e654c3b9a2cc48a7814631"}
+https://mdstrm.com/live-stream-playlist/69690ca84be91a143f1c285d.mpd
 #EXTINF:-1 tvg-id="NovelasDitu.co" group-title="Variedades", Novelas Ditu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"dd4607e73e5f49cab1f05f5538526ed2":"ef6e5066ff4b27d020fc90295b068b58"}
-https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
+https://mdstrm.com/live-stream-playlist/6972d06ca89c470e42e978bf.mpd
 #EXTINF:-1 tvg-id="TuVozEstereo.co" group-title="Variedades", Tu Voz Estéreo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2afc0da21ebb4e6f9a1574de811b1344":"59301dde60d92d0d074aa191eec3812b"}
 https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
+#EXTINF:-1 tvg-id="AdrenalinaPuraTV.co" group-title="Variedades", Adrenalina Pura TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"faa357e06d8d4b30991357cbdc3f0bef":"61f316549d76dd6fdf15032dae84dce5"}
+https://mdstrm.com/live-stream-playlist/69680788239c200979421290.mpd
 #EXTINF:-1 tvg-id="CanalHumor.co" group-title="Variedades", Canal Humor
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"af8ca876090342ed97c417dbccd76275":"f39588c96edd9482e9c06a3b12120fba"}
@@ -362,7 +378,7 @@ https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
 #EXTINF:-1 tvg-id="NoticiasCaracol.co" group-title="Noticias", Noticias Caracol En Vivo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d3d2dd67a6144a998d72533854e19216":"4006aaf9701e2a748cd1069a6672e32c"}
-https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
+https://mdstrm.com/live-stream-playlist/69690d0f662b3e30d33f69c8.mpd
 #EXTINF:0 group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/DNews.png", DNews
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a06z
@@ -394,7 +410,7 @@ https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
 #EXTINF:-1 tvg-id="CaracolSports2.co" group-title="Deportes", Caracol Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"8a3f622f7a8045408a19a478e9fc5531":"245cdef50405baf2b037bdb358e8d23a"}
-https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
+https://mdstrm.com/live-stream-playlist/699330342005310e6c7acf69.mpd
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png", TUDN
 #EXTVLCOPT:network-caching=1000
 http://168.228.44.241:9997/play/a09f
