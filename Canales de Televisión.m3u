@@ -502,7 +502,7 @@ https://mdstrm.com/live-stream-playlist/69690cb8ff8e0631ea2047fb.mpd
 #EXTINF:-1 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol HD (DITU)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9eedb5acbf32419fa7a249f88ba2e7ad":"2e90ead40f078eaa97149a23f22fc4d4"}
-https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
+https://mdstrm.com/live-stream-playlist/69690d21fb30af150e58f11c.mpd
 #EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", CARACOL HD
 #EXTVLCOPT:network-caching=1000
 http://181.79.84.66:8000/play/a01w
