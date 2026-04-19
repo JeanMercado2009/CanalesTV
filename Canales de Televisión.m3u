@@ -956,9 +956,6 @@ https://mdstrm.com/live-stream-playlist/69690ccf4be91a143f1c3110.mpd
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/LaKalle-logotentativo.webp", LA KALLE HD
 #EXTVLCOPT:network-caching=1000
 http://190.131.243.54:9000/play/a0gt
-#EXTINF:0 tvg-id="HTV.co" group-title="Música" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/htv-ar.png", HTV SD
-#EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a036
 #EXTINF:0 tvg-id="HTV.co" group-title="Música" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/htv-ar.png", HTV SD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://200.125.170.123:8000/play/a049
@@ -1552,10 +1549,7 @@ http://170.239.205.81:30000/play/a011
 http://181.78.21.174:8015/play/a04j
 #EXTINF:0 tvg-id="HBO PLUS.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-plus-lam.png", HBO + HD
 #EXTVLCOPT:network-caching=1000
-http://177.10.184.193:8000/play/a031
-#EXTINF:0 tvg-id="HBO Plus Panregional HD.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-plus-lam.png", HBO +
-#EXTVLCOPT:network-caching=1000
-http://38.183.114.220:8000/play/a0s1
+http://38.252.238.18:8000/play/a056
 # --- SECCIÓN HBO FLOW (REQUIERE VPN ARGENTINA) ---
 #EXTINF:-1 tvg-id="HBO.ar" group-title="ARGENTINA (VPN REQUERIDO)", HBO HD (VPN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1591,10 +1585,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mp
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_C/HBO_Signature.mpd
 #EXTINF:0 tvg-id="HBO HD.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/hbo-ar.png", HBO HD (Panregional)
 #EXTVLCOPT:network-caching=1000
-http://38.187.3.110:8000/play/a07z
-#EXTINF:0 tvg-id="HBO HD.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/hbo-ar.png", HBO (Panregional)
-#EXTVLCOPT:network-caching=1000
-http://45.160.12.200:8008/play/017
+http://190.60.59.67:8000/play/a094
 #EXTINF:0 tvg-id="HBO HD.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/hbo-ar.png", HBO HD (México)
 #EXTVLCOPT:network-caching=1000
 http://38.252.238.18:8000/play/a054
