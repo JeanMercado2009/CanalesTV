@@ -419,10 +419,6 @@ https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1c6bfd8d1cdd4df69ea5fc4dd2f025bb":"b6fd90027dac7a94a9461f8b2638cbb4"}
 https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
-#EXTINF:-1 tvg-id="CaracolSports2.co" group-title="Deportes", Caracol Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8a3f622f7a8045408a19a478e9fc5531":"245cdef50405baf2b037bdb358e8d23a"}
-https://mdstrm.com/live-stream-playlist/699330342005310e6c7acf69.mpd
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png", TUDN
 #EXTVLCOPT:network-caching=1000
 http://168.228.44.241:9997/play/a09f
