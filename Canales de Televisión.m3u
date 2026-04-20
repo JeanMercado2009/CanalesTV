@@ -4,24 +4,12 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1702ab01579f458d905353a745ebaed3":"336381fb3049c8e6971d53f8a30bb0cc"}
 https://mdstrm.com/live-stream-playlist/6972e1087faf95f01fc8cc30.mpd
-#EXTINF:-1 tvg-id="Paka_Paka.ar" group-title="ARGENTINA (VPN REQUERIDO)", PAKA PAKA (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"334001b2f2644df9bdf35e92d2b89f8f":"475ec87d86ed0636dbb6d6d9d4a43bb7"}
-https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_C/PAKA_PAKA.mpd
 #EXTINF:0 tvg-id="Cartoonito.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito LA
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a036
-#EXTINF:-1 tvg-id="Cartoonito.ar" group-title="ARGENTINA (VPN REQUERIDO)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito LA (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5792e613fceb699c79cbc0e75fe4cd37":"a672793730476ed23e5c1bce2ff570c6"}
-https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_C/Boomerang.mpd
 #EXTINF:0 tvg-id="CARTOONITO DTT.it" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito (Italia)
 #EXTVLCOPT:network-caching=1000
 http://51.154.17.178/play/a0ea
-#EXTINF:-1 tvg-id="Cartoon Network.pe" group-title="ARGENTINA (VPN REQUERIDO)" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network LA (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d7df56efaa36a71141d238854cc46d1d":"8abb2ee9150d8b2af8ebec0de0f833c8"}
-https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_C/CartoonNetwork.mpd
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Panregional
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a009
@@ -126,14 +114,6 @@ http://200.4.244.29:8000/play/a012
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://45.190.187.183:8080/play/a1db
-#EXTINF:-1 tvg-id="Baby_TV.ar" group-title="ARGENTINA (VPN REQUERIDO)", Baby TV (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9e09f0a3ecb932582e0f3bc6a6194c8d":"6d2363b7ba7680ea3bf6dcbad1efa5bf"}
-https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc_C/BabyTV.mpd
-#EXTINF:-1 tvg-id="Tooncast.ar" group-title="ARGENTINA (VPN REQUERIDO)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tooncast-lam.png",, Tooncast (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"10638a722eb54c64bfb0e7a77483686a":"41a7d3d522e19215b7e8f611b6902d61"}
-https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_C/Tooncast.mpd
 #EXTINF:0 tvg-id="Tooncast.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tooncast-lam.png", Tooncast (Latinoamérica)
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a035
@@ -148,27 +128,11 @@ http://51.154.17.178/play/a0dp
 #EXTINF:0 tvg-id="Boing.it" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/boing-it.png", Boing HD (Italia)
 #EXTVLCOPT:network-caching=1000
 http://176.65.146.203:5003/play/a07t
-#EXTINF:-1 tvg-id="Plim_Plim.ar" group-title="ARGENTINA (VPN REQUERIDO)", PLIM PLIM (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8e88e1572dcd2b31a10026668d628d61":"ab95bdc2655aff4f4a8e512fb68c80df"}
-https://cdn.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc_C/Plim_Plim.mpd
-#EXTINF:-1 tvg-id="Kidoo.ar" group-title="ARGENTINA (VPN REQUERIDO)", KIDOO (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"dcd89337a501ab929c01a039774089dc":"e96cc7be9139a8d581b3f5eebebfc10d"}
-https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_C/Kidoo.mpd
-#EXTINF:-1 tvg-id="Dreamworks.ar" group-title="ARGENTINA (VPN REQUERIDO)", Dreamworks (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"7f30c43e47544412221fd64201d92f4b":"f83d09d75a0946b1d71aa48c201b4d8b"}
-https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_C/Dreamworks.mpd
 #EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/india/discovery-kids-in.png", Discovery Kids (India)
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"601f58d4b7094d2baf78c85d1d9cb6c9":"609e0cc03198455fa36fd2cc3e7f940d"}
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/main.mpd
-#EXTINF:-1 tvg-id="Discovery_Kids.ar" group-title="ARGENTINA (VPN REQUERIDO)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids LA (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ffb2f0f63c23a3592d4653e938b9ca19":"d3661ae881fc55fc7a15815cd439747b"}
-https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_C/Discovery_Kids.mpd
 #EXTINF:0 tvg-id="Discovery Kids.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Panregional MPD)
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -216,10 +180,6 @@ https://tvcdn.tv.telia.lt/live/eds/Disney_Channel/DASH_5_CPIX_NPVR/Disney_Channe
 #EXTINF:0 tvg-id="DISNEY.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel SD (México)
 #EXTVLCOPT:network-caching=1000
 http://45.189.62.33:8002/play/a0al
-#EXTINF:-1 tvg-id="Disney_Channel.ar" group-title="ARGENTINA (VPN REQUERIDO)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel LA (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4a742e478d14023e1993e011d9415f94":"0df77ede9bc744376836d21afa137dda"}
-https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_C/DisneyChannelHD.mpd
 #EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a00l
@@ -254,10 +214,6 @@ http://nor3live.win/livehttpplay?channel_id=23327
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
 https://mega.z5cable.com/bpk-tv/disney_jr_hd/default/index.mpd
-#EXTINF:-1 tvg-id="Disney_Jr.ar" group-title="ARGENTINA (VPN REQUERIDO)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-jr-lam.png", Disney Jr. Sur (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"bd29c4a538f28845ce33581111749428":"46d9589f41a11c3637c07c604956deac"}
-https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_C/DisneyJr.mpd
 #EXTINF:0 tvg-id="Disney Junior.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-jr-lam.png", Disney Jr. (Norte)
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a01l
@@ -274,10 +230,6 @@ http://45.5.151.62:8000/play/a00t
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"44875398e74743caabb7278f2b63433f":"a1e2ad6d895feb2a609683324dd0b93c"}
 https://cache07.zapitv.com/live/eds_c2/DISNEYJR/dash_live_ez/DISNEYJR.mpd
-#EXTINF:-1 tvg-id="Nickelodeon.ar" group-title="ARGENTINA (VPN REQUERIDO)" tvg-logo"https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon LA (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"61c18cefecc2d067beaa9ff181305345":"38d6f650cbf9a38fd9f35c01f98e647a"}
-https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_C/Nickelodeon.mpd
 #EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon (Global)
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -310,10 +262,6 @@ http://45.189.62.33:8002/play/a0am
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"294848a1c20273b5546c204b117fd7fe":"47b4a3e3b2d5bbd54143a6af43268bbd"}
 https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/NICK-HD/default.mpd
-#EXTINF:-1 tvg-id="Nick_Jr.ar" group-title="ARGENTINA (VPN REQUERIDO)" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/nick-jr-ar.png", Nick JR (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"e824b2277a86fd6adfc40aa948e5064a":"28da2dbbe8e1a1463bbb23895b922083"}
-https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_C/Nick_Jr.mpd
 #EXTINF:0 tvg-id="Nick Jr..co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/nick-jr-ar.png", Nick Jr. SD
 #EXTVLCOPT:network-caching=1000
 http://200.219.40.1:8000/play/a06u
@@ -712,6 +660,9 @@ http://179.1.139.84:8000/play/a04b
 #EXTINF:0 tvg-id="VTV.ve" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Venezolana_de_Televisi%C3%B3n_2018.svg.webp", VTV HD
 #EXTVLCOPT:network-caching=1000
 http://200.59.188.3:8000/play/a144
+#EXTINF:0 tvg-id="VTV.ve" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Venezolana_de_Televisi%C3%B3n_2018.svg.webp", VTV SD
+#EXTVLCOPT:network-caching=1000
+http://38.41.8.1:8000/play/a03p
 #EXTINF:0 tvg-id="VENEVISION.ve" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/venevision.png", VENEVISION HD
 #EXTVLCOPT:network-caching=1000
 http://200.59.188.3:8000/play/a0zg
@@ -1550,39 +1501,6 @@ http://181.78.21.174:8015/play/a04j
 #EXTINF:0 tvg-id="HBO PLUS.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-plus-lam.png", HBO + HD
 #EXTVLCOPT:network-caching=1000
 http://38.252.238.18:8000/play/a056
-# --- SECCIÓN HBO FLOW (REQUIERE VPN ARGENTINA) ---
-#EXTINF:-1 tvg-id="HBO.ar" group-title="ARGENTINA (VPN REQUERIDO)", HBO HD (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5317283f4110fac3fb3a0becd9f648bc":"0754a03c926b1247216e01d9dbcfac28"}
-https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd
-#EXTINF:-1 tvg-id="HBO_2.ar" group-title="ARGENTINA (VPN REQUERIDO)", HBO 2 (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c90cc57ad2c436e5a77db2f8d9db2d85":"04f6c73984bdcffd013050608497935d"}
-https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd
-#EXTINF:-1 tvg-id="HBO_Plus.ar" group-title="ARGENTINA (VPN REQUERIDO)", HBO Plus (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f0e7f7d458990edfab7b98b412564615":"79205754b7f84a62661c2dbe9de5dd5d"}
-https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_C/HBO_Plus.mpd
-#EXTINF:-1 tvg-id="HBO_Mundi.ar" group-title="ARGENTINA (VPN REQUERIDO)", HBO Mundi (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"7821b2662148fe333d5191acbb8a5c1f":"ae43f3e2545237ebda58b13813b5d328"}
-https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_C/HBO_Mundi.mpd
-#EXTINF:-1 tvg-id="HBO_Pop.ar" group-title="ARGENTINA (VPN REQUERIDO)", HBO POP (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f4e1ce5cef7e9a110fe968f8881b21fa":"6bbe2062b150b11496cdd5fbdd9c89d6"}
-https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_C/HBO_POP.mpd
-#EXTINF:-1 tvg-id="HBO_Extreme.ar" group-title="ARGENTINA (VPN REQUERIDO)", HBO Extreme (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d504011bbef467c0de3a7534e302a6d4":"334103e2abe16faa7f9ab2e3097c5a58"}
-https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.mpd
-#EXTINF:-1 tvg-id="HBO_Family.ar" group-title="ARGENTINA (VPN REQUERIDO)", HBO FAMILY (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"535473132f68082160b489482ca35f8e":"e90fd91fcd3fc809bed2b1c0d37f7297"}
-https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mpd
-#EXTINF:-1 tvg-id="HBO_Signature.ar" group-title="ARGENTINA (VPN REQUERIDO)", HBO SIGNATURE (VPN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"e866499fbc1149f49989672075aa3a68":"d2dd5c95623c6343240981c2202fc311"}
-https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_C/HBO_Signature.mpd
 #EXTINF:0 tvg-id="HBO HD.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/hbo-ar.png", HBO HD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://190.60.59.67:8000/play/a094
