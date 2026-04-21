@@ -907,6 +907,9 @@ https://mdstrm.com/live-stream-playlist/69690ccf4be91a143f1c3110.mpd
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/LaKalle-logotentativo.webp", LA KALLE HD
 #EXTVLCOPT:network-caching=1000
 http://190.131.243.54:9000/play/a0gt
+#EXTINF:0 group-title="Música" tvg-logo="", TikTok Radio
+#EXTVLCOPT:network-caching=1000
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594
 #EXTINF:0 tvg-id="HTV.co" group-title="Música" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/htv-ar.png", HTV SD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://200.125.170.123:8000/play/a049
