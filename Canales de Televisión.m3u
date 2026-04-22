@@ -12,7 +12,7 @@ http://181.118.158.103:8000/play/a036
 http://51.154.17.178/play/a0ea
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network LA Astra
 #EXTVLCOPT:network-caching=1000
-http://190.60.41.107:8008/play/a0k2
+http://190.60.41.107:8008/play/a0k2/index.m3u8
 #EXTINF:-1 tvg-id="CARTOON NETWORK.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network MX Astra
 #EXTVLCOPT:network-caching=1000
 http://45.189.151.7:8000/play/a05n
