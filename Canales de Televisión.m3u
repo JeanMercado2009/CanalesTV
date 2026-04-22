@@ -10,6 +10,12 @@ http://181.118.158.103:8000/play/a036
 #EXTINF:0 tvg-id="CARTOONITO DTT.it" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito (Italia)
 #EXTVLCOPT:network-caching=1000
 http://51.154.17.178/play/a0ea
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network LA Astra
+#EXTVLCOPT:network-caching=1000
+http://190.60.41.107:8008/play/a0k2
+#EXTINF:-1 tvg-id="CARTOON NETWORK.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network MX Astra
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a05n
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Panregional
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a009
@@ -30,9 +36,6 @@ https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.
 https://mega.z5cable.com/bpk-tv/cartoon_network_hd/default/index.mpd
 #EXTINF:-1 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México (Xuper TV)
 http://nor1live.win/livehttpplay?channel_id=23045
-#EXTINF:-1 tvg-id="CARTOON NETWORK.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network MX Astra
-#EXTVLCOPT:network-caching=1000
-http://45.189.151.7:8000/play/a05n
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network SD
 #EXTVLCOPT:network-caching=1000
 http://190.60.40.34:8001/play/a049
@@ -108,9 +111,6 @@ http://190.60.39.195:8000/play/a0w9
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil"tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Panregional) (H264)
 #EXTVLCOPT:network-caching=1000
 http://190.60.53.205:8000/play/a02b
-#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Panregional ORIGEN)
-#EXTVLCOPT:network-caching=1000
-http://200.4.244.29:8000/play/a012
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://45.190.187.183:8080/play/a1db
