@@ -108,9 +108,6 @@ http://app.horizonpanel.net:80/TimmyBrown22/a8Sg1N94/868898
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CARTOON HD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.195:8000/play/a0w9
-#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil"tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Panregional) (H264)
-#EXTVLCOPT:network-caching=1000
-http://190.60.53.205:8000/play/a02b
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://45.190.187.183:8080/play/a1db
