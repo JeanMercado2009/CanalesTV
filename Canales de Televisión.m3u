@@ -575,18 +575,15 @@ http://181.78.71.71:18000/play/a003
 #EXTINF:0 tvg-id="TELEFE.ar" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png", Telefe SD (Argentina)
 #EXTVLCOPT:network-caching=1000
 http://190.60.44.98:9000/play/a04f
-#EXTINF:0 tvg-id="TELEFE.ar" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png", Telefe HD (Argentina)
-#EXTVLCOPT:network-caching=1000
-http://200.115.120.1:8000/play/ca016
-#EXTINF:0 tvg-id="TELEFE.ar" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png", Telefe Internacional
-#EXTVLCOPT:network-caching=1000
-http://107.152.39.199:8030/hls/canal13.m3u8
 #EXTINF:0 tvg-id="EWTN.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/EWTN.png", EWTN
 #EXTVLCOPT:network-caching=1000
 http://190.66.23.210:9003/play/a0ec
 #EXTINF:0 tvg-id="EWTN.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/EWTN.png", EWTN HD
 #EXTVLCOPT:network-caching=1000
 http://45.177.21.6:9000/play/a036
+#EXTINF:0 group-title="Televisión Abierta" tvg-logo="", TL Más SV
+#EXTVLCOPT:network-caching=1000
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:0 tvg-id="RCN HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", RCN HD
 #EXTVLCOPT:network-caching=1000
 http://181.225.190.242:8000/play/a02n
