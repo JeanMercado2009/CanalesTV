@@ -1290,11 +1290,16 @@ http://168.228.44.241:9998/play/a0a9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
 https://mega.z5cable.com/bpk-tv/e_hd/default/index.mpd
-#EXTINF:0 group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-states/tnt-us.png", TNT México
+#EXTINF:0 group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-states/tnt-us.png", TNT MX MEGA
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
 https://mega.z5cable.com/bpk-tv/tnt_hd/default/index.mpd
+#EXTINF:0 group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-states/tnt-us.png", TNT México
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"638ce064444737debe896e87cd808108":"ac02e23ba559e49c7f021f722c855887"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
+https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/TNT-HD/default.mpd
 #EXTINF:0 group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-states/tnt-us.png", TNT HD (East)
 #EXTVLCOPT:network-caching=1000
 http://89.105.221.127/TNT/mpegts?token=test
