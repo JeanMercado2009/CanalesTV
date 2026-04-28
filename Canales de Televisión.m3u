@@ -67,15 +67,9 @@ http://181.118.150.27:8000/play/a032
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a04b
-#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (PAN) MPEG
-#EXTVLCOPT:network-caching=1000
-http://181.79.84.66:8000/play/a020
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (PAN)
 #EXTVLCOPT:network-caching=1000
 http://45.171.64.30:6060/play/a01h
-#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (PAN) (Opción 1)
-#EXTVLCOPT:network-caching=1000
-http://179.1.24.58:8000/play/a033
 #EXTINF:0 tvg-id="Cartoon Network.bg" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cartoon-network-ar.png", Cartoon Network (Bulgaria)
 #EXTVLCOPT:network-caching=1000
 http://213.91.179.28:8000/play/a08g
