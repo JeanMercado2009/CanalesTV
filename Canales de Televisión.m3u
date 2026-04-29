@@ -18,9 +18,6 @@ https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/CARTOONITO-HD/default.mpd
 #EXTINF:0 tvg-id="Cartoonito.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito LA
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a036
-#EXTINF:0 tvg-id="CARTOONITO DTT.it" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito (Italia)
-#EXTVLCOPT:network-caching=1000
-http://51.154.17.178/play/a0ea
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network LA Astra
 #EXTVLCOPT:network-caching=1000
 http://190.60.41.107:8008/play/a0k2/index.m3u8
@@ -1040,7 +1037,7 @@ http://168.228.44.241:9998/play/a0a9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
 https://mega.z5cable.com/bpk-tv/e_hd/default/index.mpd
-#EXTINF:-1,TCM SD
+#EXTINF:-1 group-title="Clásicos", TCM SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5f667f1e6db8de6ac2ce1b710866aeff":"c8ea6e60d50c6fe170e46da019d59910"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
@@ -1120,6 +1117,11 @@ https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/ESPN-2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={"314f86b7e1a656c0ebc701e24a1ce76b":"21a7bbe9b58dba67573b49f115040ae8"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/ESPN-3-HD/default.mpd
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png", ESPN 4 HD México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fdd7e2800c14f11c9a0b2fbaab672757":"0d6f9367cebb4c7a34d6e63c7b719719"}
+https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/ESPN-4-HD/default.mpd
 #EXTINF:0 tvg-id="ESPN 7.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png", ESPN 7 (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://181.225.190.242:8000/play/a01r
