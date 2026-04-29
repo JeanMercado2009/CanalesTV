@@ -1198,7 +1198,12 @@ http://190.187.184.252:8000/play/a0es
 #EXTINF:0 tvg-id="FX.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fx-lam.png", FX (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://38.252.238.18:8000/play/a01c
-#EXTINF:0 tvg-id="FX.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fx-lam.png", FX México
+#EXTINF:0 tvg-id="FX.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fx-lam.png", FX (México)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8ce1ec3e2402a170cbe13b79ce9bb30f":"82fdcfde32cc02673547e58b50e2b5ae"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
+https://hfc-tlx-live-atv-cdn.izzigo.tv/13/out/u/dash/FX-HD/default.mpd
+#EXTINF:0 tvg-id="FX.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fx-lam.png", FX MX MEGA
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
@@ -1311,6 +1316,12 @@ http://181.118.150.27:8000/play/a033
 #EXTINF:0 tvg-id="Space.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/space-lam.png", Space HD (Chile)
 #EXTVLCOPT:network-caching=1000
 http://190.60.48.149:8000/play/SPACE
+#EXTINF:0 tvg-id="Space.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/space-lam.png", Space HD (México)
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"02849e7ba3c2e527a9a8152ff111fc22":"87af284b8fc6be1cbf693f20175671a9"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
+https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/SPACE-HD/default.mpd
 #EXTINF:0 tvg-id="Warner Channel.pe" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel Perú
 #EXTVLCOPT:network-caching=1000
 http://168.228.44.241:9998/play/a0ag
@@ -1405,6 +1416,11 @@ http://181.118.150.27:8000/play/a02z
 #EXTINF:0 tvg-id="AandE.co" group-title="Documentales" tvg-logo="", A&E HD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://190.60.48.149:8000/play/AE
+#EXTINF:0 tvg-id="AandE.co" group-title="Documentales" tvg-logo="", A&E HD (México)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"baef272fb12886463f3b299ac6b4ffa6":"bc285ae166674480abb4966f4a306327"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
+https://hfc-tlx-live-atv-cdn.izzigo.tv/13/out/u/dash/AANDE-HD/default.mpd
 #EXTINF:0 tvg-id="HISTORY CHANNEL.co" group-title="Documentales", History Channel (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a00i
@@ -1462,6 +1478,12 @@ http://181.118.150.27:8000/play/a02y
 #EXTINF:0 tvg-id="Discovery Home and Health.cl" group-title="Estilo de vida" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-home-and-health-lam.png", Discovery H&H (Chile y Perú)
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a00g
+#EXTINF:0 tvg-id="Discovery Home and Health.cl" group-title="Estilo de vida" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-home-and-health-lam.png", Discovery H&H (México)
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0765f676e30b1b98386230b52eed3518":"326266d16296e3bbe1dfcc274853dadb"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
+https://hfc-tlx-live-atv-cdn.izzigo.tv/13/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
 #EXTINF:0 tvg-id="Adult Swim.ar" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png", Adult Swim HD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a034
