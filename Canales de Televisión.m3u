@@ -1026,6 +1026,12 @@ http://181.118.158.103:8000/play/a02p
 #EXTINF:0 tvg-id="Las Estrellas.co" group-title="Novelas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/las-estrellas-mx.png", Las Estrellas (Panregional ORIGEN)
 #EXTVLCOPT:network-caching=1000
 http://190.60.48.149:8000/play/LAS_ESTRELLAS
+#EXTINF:0 group-title="Entretenimiento", TL+ HD
+#EXTVLCOPT:network-caching=1000
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:0 group-title="Entretenimiento", TL+ Santa Ana
+#EXTVLCOPT:network-caching=1000
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:0 tvg-id="Telemundo.co" group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telemundo-international-ar.png", Telemundo (Nueva York)
 #EXTVLCOPT:network-caching=1000
 http://72.90.150.217:8000/play/a07a
