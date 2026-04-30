@@ -152,9 +152,8 @@ http://lunar.pm:8080/live/Mrpercel/wPmDRknOaL/120269.ts
 #EXTVLCOPT:network-caching=1000
 http://45.189.62.33:8002/play/a0an
 #EXTINF:0 tvg-id="Discovery Kids.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids HD (México)
-#EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9201c07931b74c37c4e30a9e96b64c30:8e1BVTrB47erypG3tevi1U9Fv6BbNUBEiuiX
+#KODIPROP:inputstream.adaptive.license_key=9201c07931b74c37c4e30a9e96b64c30:8e1BSN7gxmPWYCAKJgA9aH4yNuERpTvs4uiX
 https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
 #EXTINF:0 tvg-id="Discovery Kids.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids México
 #EXTVLCOPT:network-caching=1000
