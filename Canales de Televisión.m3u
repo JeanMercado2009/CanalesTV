@@ -1076,27 +1076,6 @@ http://190.60.40.34:8001/play/a08z
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
 https://mega.z5cable.com/bpk-tv/nfl_hd/default/index.mpd
-#EXTINF:-1 group-title="Deportes", FOX SPORTS HD México
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"e20ecb210d675bfd05e9ad03002bda57":"a8af54870650de23efadd43b90564c9d"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/FOX-SPORTS-HD/default.mpd
-#EXTINF:-1 group-title="Deportes", FOX SPORTS 2 HD México
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d1073217d0759dbd00f27f1c1de8aaf8":"7d3bfd74191ae8394497b9a5ecbe6ce9"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/FOX-SPORTS-2-HD/default.mpd
-#EXTINF:-1 group-title="Deportes", FOX SPORTS 3 HD México
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b047a5d956c2d148133715897785c7b5":"180d030973aac24f061249d27b32129f"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/FOX-SPORTS-3-HD/default.mpd
-#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD México
-#EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d8f2b99209df577b86d28d3d5d97c139":"319a5a3543776218949f50ebc169c038"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/ESPN-HD/default.mpd
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN México
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1107,22 +1086,6 @@ https://mega.z5cable.com/bpk-tv/espn_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
 https://mega.z5cable.com/bpk-tv/espn_2_hd/default/index.mpd
-#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 HD México
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"14dddf4374fa661decf61335eae20e24":"15267f80722e95c8c1e3840fb826ec2b"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/ESPN-2-HD/default.mpd
-#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png", ESPN 3 HD México
-#EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"314f86b7e1a656c0ebc701e24a1ce76b":"21a7bbe9b58dba67573b49f115040ae8"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/ESPN-3-HD/default.mpd
-#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png", ESPN 4 HD México
-#EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"fdd7e2800c14f11c9a0b2fbaab672757":"0d6f9367cebb4c7a34d6e63c7b719719"}
-https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/ESPN-4-HD/default.mpd
 #EXTINF:0 tvg-id="ESPN 7.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png", ESPN 7 (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://181.225.190.242:8000/play/a01r
