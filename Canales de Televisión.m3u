@@ -951,6 +951,15 @@ https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CNN-HD/default.mpd
 #EXTINF:0 tvg-id="CNN.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/international/cnn-international-int.png", CNN INTERNATIONAL HD
 #EXTVLCOPT:network-caching=1000
 http://181.79.84.66:8000/play/a01d
+#EXTINF:-1 group-title="Películas y Series" tvg-logo="", CINE FAMILIAR HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.164:9000/play/ch52
+#EXTINF:-1 group-title="Películas y Series" tvg-logo="", CINE HISPANO HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.164:9000/play/ch51
+#EXTINF:-1 group-title="Películas y Series" tvg-logo="", CINE PREMIUM HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.12.164:9000/play/ch49
 #EXTINF:0 group-title="Películas y Series" tvg-logo="", AZ Cinema México
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
