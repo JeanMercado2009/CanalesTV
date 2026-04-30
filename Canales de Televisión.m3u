@@ -27,16 +27,12 @@ http://45.189.151.7:8000/play/a05n
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Panregional
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a009
-#EXTINF:0 tvg-id="Cartoon Network (HD).hu" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network CEE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"98cb877e5398843d8a10cf31a0fbbf88":"255c9b5d26cb32c9f548e8d08120507f"}
-https://tvcdn.tv.telia.lt/live/eds/Cartoon_Network_HD/DASH_5_CPIX_NPVR/Cartoon_Network_HD.mpd
-#EXTINF:0 tvg-id="Cartoon Network (HD).hu" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Poland
-http://tx.raptor-ott.us/live/1cdbb855bd/c1b3c2aa8671/880292.ts
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Panregional MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3a827f7fede44d8d973cbbaab0c089c0":"f91eeb3c7c12d9391434dc79a872c0b9"}
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CARTOON_NETWORK_HD)/manifest.mpd
+#EXTINF:0 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México SD
+http://45.189.62.33:8002/play/a0c0
 #EXTINF:-1 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"85d06ba283f3b18bb14f9f8d59b8fb82":"6659fed472544289adee986c1d33fa79"}
@@ -46,8 +42,6 @@ https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
 https://mega.z5cable.com/bpk-tv/cartoon_network_hd/default/index.mpd
-#EXTINF:0 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México SD
-http://45.189.62.33:8002/play/a0c0
 #EXTINF:-1 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México (Xuper TV)
 http://nor1live.win/livehttpplay?channel_id=23045
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network SD
@@ -59,6 +53,10 @@ http://190.83.9.222:8000/play/ca065
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network SD Panregional
 #EXTVLCOPT:network-caching=1000
 http://200.115.96.66:4000/play/a0dd
+#EXTINF:0 tvg-id="Cartoon Network (HD).hu" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network CEE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"98cb877e5398843d8a10cf31a0fbbf88":"255c9b5d26cb32c9f548e8d08120507f"}
+https://tvcdn.tv.telia.lt/live/eds/Cartoon_Network_HD/DASH_5_CPIX_NPVR/Cartoon_Network_HD.mpd
 #EXTINF:0 group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN Brazil Viejo
 #EXTVLCOPT:network-caching=1000
 http://15.235.9.200:14951/
@@ -151,10 +149,6 @@ http://lunar.pm:8080/live/Mrpercel/wPmDRknOaL/120269.ts
 #EXTINF:0 tvg-id="Discovery Kids.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids SD (México)
 #EXTVLCOPT:network-caching=1000
 http://45.189.62.33:8002/play/a0an
-#EXTINF:0 tvg-id="Discovery Kids.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids HD (México)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9201c07931b74c37c4e30a9e96b64c30:8e1BSN7gxmPWYCAKJgA9aH4yNuERpTvs4uiX
-https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
 #EXTINF:0 tvg-id="Discovery Kids.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids México
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -441,7 +435,15 @@ https://mdstrm.com/live-stream-playlist/69690d21fb30af150e58f11c.mpd
 #EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", CARACOL SD
 #EXTVLCOPT:network-caching=1000
 http://190.60.40.34:8001/play/a0dr
-
+#EXTINF:0 tvg-id="Caracol Internacional.cl" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol Internacional MPD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b605a3b3ae2ee3d49e92c1f6424b5ba9":"6687308c9c969315c7ec77f6a9c46afb"}
+https://cdn03051.cdn.agiletv.net/__cl/cg:lv-v4/__c/Caracol_TV_HD_A/__op/delay-dash-wv/__f/manifest.mpd
+#EXTINF:0 tvg-id="Caracol Internacional.cl" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol Internacional
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b605a3b3ae2ee3d49e92c1f6424b5ba9":"6687308c9c969315c7ec77f6a9c46afb"}
+https://cdn03051.cdn.agiletv.net/__cl/cg:lv-r2/__c/Caracol_TV_HD_A/__op/dash-wv/__f/manifest.mpd
 #EXTINF:-1 tvg-id="Teleantioquia.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Teleantioquia-icon.png", TELEANTIOQUIA HD (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"96506896c42acb5430b278c6d2d0e93d":"939b7eb40bd8b3d37252b5c692418094"}
@@ -950,15 +952,6 @@ https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CNN-HD/default.mpd
 #EXTINF:0 tvg-id="CNN.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/international/cnn-international-int.png", CNN INTERNATIONAL HD
 #EXTVLCOPT:network-caching=1000
 http://181.79.84.66:8000/play/a01d
-#EXTINF:-1 group-title="Películas y Series" tvg-logo="", CINE FAMILIAR HD
-#EXTVLCOPT:network-caching=1000
-http://181.78.12.164:9000/play/ch52
-#EXTINF:-1 group-title="Películas y Series" tvg-logo="", CINE HISPANO HD
-#EXTVLCOPT:network-caching=1000
-http://181.78.12.164:9000/play/ch51
-#EXTINF:-1 group-title="Películas y Series" tvg-logo="", CINE PREMIUM HD
-#EXTVLCOPT:network-caching=1000
-http://181.78.12.164:9000/play/ch49
 #EXTINF:0 group-title="Películas y Series" tvg-logo="", AZ Cinema México
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1114,6 +1107,22 @@ https://mega.z5cable.com/bpk-tv/espn_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"52358519f886446d82834a803b36f796":"58b6ac8e07d354b178255e03b9d0f819"}
 https://mega.z5cable.com/bpk-tv/espn_2_hd/default/index.mpd
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 HD México
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"14dddf4374fa661decf61335eae20e24":"15267f80722e95c8c1e3840fb826ec2b"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
+https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/ESPN-2-HD/default.mpd
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png", ESPN 3 HD México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"314f86b7e1a656c0ebc701e24a1ce76b":"21a7bbe9b58dba67573b49f115040ae8"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
+https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/ESPN-3-HD/default.mpd
+#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png", ESPN 4 HD México
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fdd7e2800c14f11c9a0b2fbaab672757":"0d6f9367cebb4c7a34d6e63c7b719719"}
+https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/ESPN-4-HD/default.mpd
 #EXTINF:0 tvg-id="ESPN 7.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png", ESPN 7 (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://181.225.190.242:8000/play/a01r
