@@ -21,12 +21,12 @@ http://181.118.158.103:8000/play/a036
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network LA Astra
 #EXTVLCOPT:network-caching=1000
 http://190.60.41.107:8008/play/a0k2/index.m3u8
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network LA
+#EXTVLCOPT:network-caching=1000
+http://190.60.41.107:8008/play/a0k2
 #EXTINF:-1 tvg-id="CARTOON NETWORK.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network MX Astra
 #EXTVLCOPT:network-caching=1000
 http://45.189.151.7:8000/play/a05n
-#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Panregional
-#EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a009
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Panregional MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3a827f7fede44d8d973cbbaab0c089c0":"f91eeb3c7c12d9391434dc79a872c0b9"}
@@ -1025,6 +1025,9 @@ http://181.118.158.103:8000/play/a02p
 #EXTINF:0 tvg-id="Las Estrellas.co" group-title="Novelas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/las-estrellas-mx.png", Las Estrellas (Panregional ORIGEN)
 #EXTVLCOPT:network-caching=1000
 http://190.60.48.149:8000/play/LAS_ESTRELLAS
+#EXTINF:0 group-title="Entretenimiento", Food Network
+#EXTVLCOPT:network-caching=1000
+http://38.7.223.20:8000/play/a0k6
 #EXTINF:0 group-title="Entretenimiento", TL+ HD
 #EXTVLCOPT:network-caching=1000
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
