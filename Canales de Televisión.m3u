@@ -1028,6 +1028,26 @@ http://190.60.48.149:8000/play/LAS_ESTRELLAS
 #EXTINF:0 group-title="Entretenimiento", Food Network
 #EXTVLCOPT:network-caching=1000
 http://38.7.223.20:8000/play/a0k6
+#EXTINF:-1 group-title="Entretenimiento", CANAL+ Kuchnia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"10b88a020102359b81e97e3b0ff7d25e":"0b52c21f408aee0d8978dc3285e294a6"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://r.e.blueonline.tv
+https://r.e.blueonline.tv/l/tvsmart/live/eds/Canal_Kuchnia/D11/Manifest.mpd
+#EXTINF:-1 group-title="Entretenimiento", CANAL+ Domo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fe282996ac5e3d13b4785def30007a8e":"b4ead4843c59726251f9715722289674"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://r.e.blueonline.tv
+https://r.e.blueonline.tv/l/tvsmart/live/eds/Canal_Domo/D11/Manifest.mpd
+#EXTINF:-1 group-title="Entretenimiento", CANAL+ Sport 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0f0a4e26e0343021acf24e886af43092":"2e759f1a280b767b4cabe984952c5edd"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://r.e.blueonline.tv
+https://r.e.blueonline.tv/l/tvsmart/live/eds/Canal_Sport_5/D11/Manifest.mpd
+#EXTINF:-1 group-title="Entretenimiento", Ale kino+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"83450d4b2f4a399f9d37266f5ddb5ac1":"576180c7dee034b08a0be7e378f3868a"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://r.e.blueonline.tv
+https://r.e.blueonline.tv/l/tvsmart/live/eds/Ale_Kino/D11/Manifest.mpd
 #EXTINF:0 group-title="Entretenimiento", TL+ HD
 #EXTVLCOPT:network-caching=1000
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
