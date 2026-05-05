@@ -72,6 +72,9 @@ http://200.115.96.66:4000/play/a0dd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"98cb877e5398843d8a10cf31a0fbbf88":"255c9b5d26cb32c9f548e8d08120507f"}
 https://tvcdn.tv.telia.lt/live/eds/Cartoon_Network_HD/DASH_5_CPIX_NPVR/Cartoon_Network_HD.mpd
+#EXTINF:0 group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Japan
+#EXTVLCOPT:network-caching=1000
+https://nl.utako.moe/cartoon_network/index.m3u8
 #EXTINF:0 group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN Brazil Viejo
 #EXTVLCOPT:network-caching=1000
 http://15.235.9.200:14951/
