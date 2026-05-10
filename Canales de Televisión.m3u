@@ -56,9 +56,6 @@ https://mega.z5cable.com/bpk-tv/cartoon_network_hd/default/index.mpd
 http://nor1live.win/livehttpplay?channel_id=23045
 #EXTINF:0 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México SD
 http://45.189.62.33:8002/play/a0c0
-#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network SD
-#EXTVLCOPT:network-caching=1000
-http://190.60.40.34:8001/play/a049
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://190.83.9.222:8000/play/ca065
@@ -186,7 +183,7 @@ https://tvcdn.tv.telia.lt/live/eds/Disney_Channel/DASH_5_CPIX_NPVR/Disney_Channe
 http://45.189.62.33:8002/play/a0al
 #EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel (Panregional)
 #EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a00l
+
 #EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel (Panregional MPD)
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -333,9 +330,6 @@ https://mdstrm.com/live-stream-playlist/69690d0f662b3e30d33f69c8.mpd
 #KODIPROP:inputstream.adaptive.license_key={"ea39b9575f51b840a58bda829f20f38d":"9c200a2b120d45e60af506be1d7ad932"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/FORO-TV-HD/default.mpd
-#EXTINF:0 group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/DNews.png", DNews
-#EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a06z
 #EXTINF:0 group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/DNews.png", Fox News Radio
 #EXTVLCOPT:network-caching=1000
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
@@ -394,9 +388,6 @@ https://cffda8ff.wurl.com/master/f3CcijrCfZBuqDzBWp3qSrBEZCqBUfQVz4CWGHWF91iaEw/
 #EXTINF:0 group-title="Deportes", Claro Sports 2
 #EXTVLCOPT:network-caching=1000
 http://181.78.192.238:8000/play/a2dk
-#EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win + Fútbol
-#EXTVLCOPT:network-caching=1000
-http://190.60.40.34:8001/play/a02r
 #EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol HD
 #EXTVLCOPT:network-caching=1000
 http://190.61.40.187:45000/play/a024
@@ -406,9 +397,6 @@ http://181.78.20.77:18000/play/a03e
 #EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol HDMI
 #EXTVLCOPT:network-caching=1000
 http://191.97.6.30:8000/play/a0ic
-#EXTINF:0 tvg-id="Win Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports
-#EXTVLCOPT:network-caching=1000
-http://190.60.40.34:8001/play/a0ef
 #EXTINF:0 tvg-id="Win Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.146.131:8008/play/a00h
@@ -448,18 +436,9 @@ https://mdstrm.com/live-stream-playlist/69690cb8ff8e0631ea2047fb.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9eedb5acbf32419fa7a249f88ba2e7ad":"2e90ead40f078eaa97149a23f22fc4d4"}
 https://mdstrm.com/live-stream-playlist/69690d21fb30af150e58f11c.mpd
-#EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", CARACOL SD
+#EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", CARACOL HD
 #EXTVLCOPT:network-caching=1000
-http://190.60.40.34:8001/play/a0dr
-#EXTINF:0 tvg-id="Caracol Internacional.cl" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol Internacional MPD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b605a3b3ae2ee3d49e92c1f6424b5ba9":"6687308c9c969315c7ec77f6a9c46afb"}
-https://cdn03051.cdn.agiletv.net/__cl/cg:lv-v4/__c/Caracol_TV_HD_A/__op/delay-dash-wv/__f/manifest.mpd
-#EXTINF:0 tvg-id="Caracol Internacional.cl" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", Caracol Internacional
-#EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b605a3b3ae2ee3d49e92c1f6424b5ba9":"6687308c9c969315c7ec77f6a9c46afb"}
-https://cdn03051.cdn.agiletv.net/__cl/cg:lv-r2/__c/Caracol_TV_HD_A/__op/dash-wv/__f/manifest.mpd
+http://astra.fibernetisp.com.co/play/a03r
 #EXTINF:-1 tvg-id="Teleantioquia.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Teleantioquia-icon.png", TELEANTIOQUIA HD (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"96506896c42acb5430b278c6d2d0e93d":"939b7eb40bd8b3d37252b5c692418094"}
@@ -530,9 +509,6 @@ http://181.225.190.242:8000/play/a00z
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2d032d9ab5f3ea56e93e7e26418af057":"041bd6b7c5f678981d70d5a2c2cc7c11"}
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CITY_TV_HD)/manifest.mpd
-#EXTINF:0 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv SD 
-#EXTVLCOPT:network-caching=1000
-http://190.60.40.34:8001/play/a0e6
 #EXTINF:0 tvg-id="City TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/city-tv-co.png", Citytv SD (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://181.78.85.59:2500/play/a01z
@@ -557,9 +533,6 @@ https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u
 #EXTINF:0 tvg-id="RCN HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", RCN HD
 #EXTVLCOPT:network-caching=1000
 http://181.225.190.242:8000/play/a02n
-#EXTINF:0 tvg-id="RCN HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", RCN SD
-#EXTVLCOPT:network-caching=1000
-http://190.60.40.34:8001/play/a0ds
 #EXTINF:0 tvg-id="RCN.HDTV.2.(RCNHD2).co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/RCNHD2-NewLogo2023.png/revision/latest/scale-to-width-down/220?cb=20230623165814", RCN HD2
 #EXTVLCOPT:network-caching=1000
 http://181.225.190.242:8000/play/a02o
@@ -597,7 +570,7 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 http://181.118.158.103:8000/play/a01h
 #EXTINF:0 tvg-id="Canal 13.cl" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/chile/canal13-cl.png", Canal 13 (Chile)
 #EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a006
+
 #EXTINF:0 tvg-id="Día TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/logo_redmas.png", RED+ COLOMBIA SD
 #EXTVLCOPT:network-caching=1000
 http://186.96.97.166:48001/play/a0al
@@ -1011,9 +984,6 @@ https://mega.z5cable.com/bpk-tv/syfy_hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0c39778fe8fb4f9f8574016b3d4ae2ed":"232b1f450f2e37f47fdd5b678a8a546d"}
 https://mega.z5cable.com/bpk-tv/antena_3_hd/default/index.mpd
-#EXTINF:0 group-title="Televisión Abierta", ANTENA 7
-#EXTVLCOPT:network-caching=1000
-http://190.60.40.34:8001/play/a05s
 #EXTINF:0 group-title="Televisión Abierta" tvg-logo="", TV5 Monde México
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1111,9 +1081,6 @@ http://38.156.13.106:8888/play/a00g
 #EXTINF:0 tvg-id="TNT Series.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/tnt-series-lam.png", TNT Series HD (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://38.156.13.106:8888/play/a00e
-#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Tigo_Sports_2025.png", Tigo Sports HD
-#EXTVLCOPT:network-caching=1000
-http://190.60.40.34:8001/play/a08z
 #EXTINF:0 group-title="Deportes" tvg-logo="", NFL México
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1134,10 +1101,10 @@ https://mega.z5cable.com/bpk-tv/espn_2_hd/default/index.mpd
 http://181.225.190.242:8000/play/a01r
 #EXTINF:0 tvg-id="ESPN 7.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png", ESPN 7 (Chile)
 #EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a00u
+
 #EXTINF:0 tvg-id="ESPN 6.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png", ESPN 6 (Chile)
 #EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a00v
+
 #EXTINF:0 tvg-id="ESPN 6.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png", ESPN 6 (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://181.225.190.242:8000/play/a01q
@@ -1149,7 +1116,7 @@ http://190.14.10.19:16000/play/a09s
 http://181.225.190.242:8000/play/a01p
 #EXTINF:0 tvg-id="ESPN 5.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-5-lam.png", ESPN 5 (Chile)
 #EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a081
+
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-5-lam.png", ESPN 5 (México)
 #EXTVLCOPT:network-caching=1000
 http://190.14.10.19:16000/play/a09e
@@ -1161,7 +1128,7 @@ http://181.225.190.242:8000/play/a01o
 http://190.14.10.19:16000/play/a09t
 #EXTINF:0 tvg-id="ESPN 3.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png", ESPN 3 (Chile)
 #EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a00o
+
 #EXTINF:0 tvg-id="ESPN 3.mx" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png", ESPN 3 (México)
 #EXTVLCOPT:network-caching=1000
 http://190.14.10.19:16000/play/a094
@@ -1176,7 +1143,7 @@ http://181.225.190.242:8000/play/a01n
 http://190.14.10.19:16000/play/a093
 #EXTINF:0 tvg-id="ESPN 2.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 (Chile)
 #EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a00n
+
 #EXTINF:0 tvg-id="ESPN 2.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 HD (Chile)
 #EXTVLCOPT:network-caching=1000
 http://cirrus.trapemn.tv:1935/cirrus-backup/ESPN2.stream/playlist.m3u8
@@ -1197,7 +1164,7 @@ http://181.225.190.242:8000/play/a01l
 https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd
 #EXTINF:0 tvg-id="ESPN.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (Chile)
 #EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a03e
+
 #EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://138.117.86.162:18000/play/a098
@@ -1259,7 +1226,7 @@ http://38.252.238.18:8000/play/a063
 http://181.118.150.27:8000/play/a01h
 #EXTINF:0 tvg-id="STAR CHANNEL HD.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel HD (Argentina)
 #EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a01h
+
 #EXTINF:0 tvg-id="Star Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel SD (México)
 #EXTVLCOPT:network-caching=1000
 http://45.189.62.33:8002/play/a08v
@@ -1341,18 +1308,9 @@ http://190.90.22.42:5280/play/a0d6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b0adc810ea2f34ec6904592c12ca5490":"05c77592b06e36644676bc93cec8b71f"}
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WARNER_HD)/manifest.mpd
-#EXTINF:0 tvg-id="WARNER.ve" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner HD (Honduras) Opción 2
-#EXTVLCOPT:network-caching=1000
-http://190.60.40.34:8001/play/a08w
-#EXTINF:0 tvg-id="WARNER.ve" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner (Honduras)
-#EXTVLCOPT:network-caching=1000
-http://190.60.40.34:8001/play/a08j
-#EXTINF:0 tvg-id="Warner Channel.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner (Chile)
-#EXTVLCOPT:network-caching=1000
-http://190.60.40.34:8001/play/a0cm
 #EXTINF:0 tvg-id="WARNER CHANNEL.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel Argentina
 #EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a01r
+
 #EXTINF:0 tvg-id="Warner Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner (México)
 #EXTVLCOPT:network-caching=1000
 http://45.189.62.33:8002/play/a0cf
@@ -1486,7 +1444,7 @@ http://181.118.158.103:8000/play/a02j
 http://181.118.150.27:8000/play/a02y
 #EXTINF:0 tvg-id="Discovery Home and Health.cl" group-title="Estilo de vida" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-home-and-health-lam.png", Discovery H&H (Chile y Perú)
 #EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a00g
+
 #EXTINF:0 tvg-id="Discovery Home and Health.cl" group-title="Estilo de vida" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-home-and-health-lam.png", Discovery H&H (México)
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1496,9 +1454,6 @@ https://hfc-tlx-live-atv-cdn.izzigo.tv/13/out/u/dash/DISCOVERY-HOME-AND-HEALTH-H
 #EXTINF:0 tvg-id="Adult Swim.ar" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png", Adult Swim HD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a034
-#EXTINF:0 tvg-id="Adult Swim.ar" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png", Adult Swim SAP (Panregional)
-#EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a01s
 #EXTINF:0 tvg-id="Adult Swim.ar" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png", Adult Swim SD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://181.78.12.119:16123/play/ch75
