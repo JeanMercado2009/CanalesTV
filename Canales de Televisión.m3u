@@ -577,7 +577,7 @@ http://186.96.97.166:48001/play/a0al
 #EXTINF:0 tvg-id="Día TV.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/logo_redmas.png", RED+ COLOMBIA HD
 #EXTVLCOPT:network-caching=1000
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-#EXTINF:-1, IBERO México
+#EXTINF:-1 group-title="Televisión Regional", IBERO México
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b37ac3ccfa8e06b07b742e25357088bf":"10c1738ea469544d2940e30152e36c91"}
 https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(IBERO)/manifest.mpd
