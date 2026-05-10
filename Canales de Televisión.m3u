@@ -353,6 +353,22 @@ http://38.250.127.17:9800/play/a05h
 #EXTINF:0 tvg-id=Zoom.co" group-title="Educación", Zoom TV
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a02p
+#EXTINF:-1 group-title="Canales Claro", Claro Música HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"10bbf092f35b418ea8722b0f7bf297c4":"5d789ffd8ef0ad56182f0f7e8a83df61"}
+https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CLAROMUSICATV_HD)/manifest.mpd
+#EXTINF:-1 group-title="Canales Claro", Claro Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0fd1ec82a75449d39e79ebc8a321007c":"905cefa7730eed2915f56b6b7b0f1373"}
+https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CLARO_CINEMA)/manifest.mpd
+#EXTINF:-1 group-title="Canales Claro", Canal Claro
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ae5d967526f90c80102fab021e3dd282":"226f3cfc4f00e03dbe39e2a88760293f"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CANAL_CLARO_HD)/manifest.mpd
+#EXTINF:-1 group-title="Canales Claro", Canal Claro HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"53435b9cdf6e477186b81aa09007cb0b":"e800e0d6eb497c84f0b0c2191df10632"}
+https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CANAL_CLARO_HD)/manifest.mpd
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Radio
 #EXTVLCOPT:network-caching=1000
 https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac
