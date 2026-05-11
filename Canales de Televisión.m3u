@@ -589,6 +589,11 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="NTN24.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/NTN24_logo.png", NTN24 SD
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a01h
+#EXTINF:0 tvg-id="NTN24.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/NTN24_logo.png", NTN24
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c565ff6eb0d547e1bc0daf064bb864cd":"f13d6e25683a25c2f4a03d7931942f51"}
+https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(NTN24)/manifest.mpd
 #EXTINF:0 tvg-id="Canal 13.cl" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/chile/canal13-cl.png", Canal 13 (Chile)
 #EXTVLCOPT:network-caching=1000
 
