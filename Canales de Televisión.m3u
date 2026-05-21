@@ -395,6 +395,13 @@ https://37b4c228.wurl.com/master/f3CcijrCfZBuqDzBWp3qSrBEZCqBUfQVz4CWGHWF91iaEw/
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/FIFA%2B_(2025).svg.png", FIFA+ Women
 #EXTVLCOPT:network-caching=1000
 https://cffda8ff.wurl.com/master/f3CcijrCfZBuqDzBWp3qSrBEZCqBUfQVz4CWGHWF91iaEw/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+#EXTINF:0 group-title="Deportes", Claro Sports Colombia
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"946a35e38a7b4ef5ba7bf7e25a050076":"d4a12523145427e88754d5fba73dee6d"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://nagracovoslive.lcdn.claro.net.co
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nagracovoslive.lcdn.claro.net.co
+https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CLARO_SPORTS_COL_HD)/manifest.mpd
 #EXTINF:0 group-title="Deportes", Claro Sports 2
 #EXTVLCOPT:network-caching=1000
 http://181.78.192.238:8000/play/a2dk
@@ -407,6 +414,13 @@ http://181.78.20.77:18000/play/a03e
 #EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol HDMI
 #EXTVLCOPT:network-caching=1000
 http://191.97.6.30:8000/play/a0ic
+#EXTINF:0 tvg-id="Win Sports HD.co" group-titl="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports MPD
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e9642526f018477cb5013ef5017913f9":"ee0c7d58101c59e8e895ed6bd011110d"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://nagracovoslive.lcdn.claro.net.co
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nagracovoslive.lcdn.claro.net.co
+https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(WINSPORTS_HD)/manifest.mpd
 #EXTINF:0 tvg-id="Win Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports HD
 #EXTVLCOPT:network-caching=1000
 http://45.238.146.131:8008/play/a00h
@@ -1149,7 +1163,13 @@ http://181.225.190.242:8000/play/a01l
 https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd
 #EXTINF:0 tvg-id="ESPN.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (Chile)
 #EXTVLCOPT:network-caching=1000
-
+#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN MPD COL
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4382bcad3d01459c90149699e0b5d94c":"f2ea295f6210b86f782f44c5d8dd2660"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://nagracovoslive.lcdn.claro.net.co
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nagracovoslive.lcdn.claro.net.co
+https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(ESPN_HD)/manifest.mpd
 #EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://138.117.86.162:18000/play/a098
