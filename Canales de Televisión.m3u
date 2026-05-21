@@ -402,6 +402,13 @@ https://cffda8ff.wurl.com/master/f3CcijrCfZBuqDzBWp3qSrBEZCqBUfQVz4CWGHWF91iaEw/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://nagracovoslive.lcdn.claro.net.co
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://nagracovoslive.lcdn.claro.net.co
 https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CLARO_SPORTS_COL_HD)/manifest.mpd
+#EXTINF:0 group-title="Deportes", Claro Sports Latam
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"04b558fdb899444a8f405fbd07fa8c73":"5129e2d20c58caafa03106d329ceaf82"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://nagracovoslive.lcdn.claro.net.co
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nagracovoslive.lcdn.claro.net.co
+https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
 #EXTINF:0 group-title="Deportes", Claro Sports 2
 #EXTVLCOPT:network-caching=1000
 http://181.78.192.238:8000/play/a2dk
@@ -1170,6 +1177,27 @@ https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://nagracovoslive.lcdn.claro.net.co
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://nagracovoslive.lcdn.claro.net.co
 https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(ESPN_HD)/manifest.mpd
+#EXTINF:0 tvg-id="ESPN 2.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png", ESPN 2 MPD COL
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ce6fd101983a41aca5d2d38e81505e28":"4932e0088bb66a51b519613e586517a5"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://nagracovoslive.lcdn.claro.net.co
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nagracovoslive.lcdn.claro.net.co
+https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(ESPN_2_HD)/manifest.mpd
+#EXTINF:0 tvg-id="ESPN 3.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png", ESPN 3 MPD COL
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"952d025a1b8c4d2f91be5d259a932f07":"8c9e5bb6d4f71c595e7b09ab1ae76ff5"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://nagracovoslive.lcdn.claro.net.co
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nagracovoslive.lcdn.claro.net.co
+https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(ESPN_3_HD)/manifest.mpd
+#EXTINF:0 tvg-id="ESPN 4.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png", ESPN 4 MPD COL
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"22bcf29ed5cd4e18ad776f60654e5f9f":"c75fea20e4e2889df8b1b9542b6ffd49"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://nagracovoslive.lcdn.claro.net.co
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nagracovoslive.lcdn.claro.net.co
+https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(ESPN_4_HD)/manifest.mpd
 #EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://138.117.86.162:18000/play/a098
