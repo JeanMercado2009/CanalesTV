@@ -381,6 +381,48 @@ https://mdstrm.com/live-stream-playlist/69690cfcce0dc031830e7c1a.mpd
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png", TUDN
 #EXTVLCOPT:network-caching=1000
 http://168.228.44.241:9997/play/a09f
+#EXTINF:-1 group-title="Deportes", Vix Mundial 2026 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"75074a0cbd83f5b72fb3e5c1495252a9":"a4a0df04b2d28f2160cead2ecdeb7203"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
+https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-90-HD/default.mpd
+#EXTINF:-1 group-title="Deportes", Vix Mundial 2 2026 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"11f486ca7df20d63ff3aaecf4d87d132":"9271506950313bab2ced7522891aa022"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
+https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-91-HD/default.mpd
+#EXTINF:-1 group-title="Deportes", Vix Mundial 3 2026 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"784d6b54efe3a13dc1fbcda17e5804db":"b4f4814e01943f910b62e6bfd0c23728"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
+https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/VIX-MUNDIAL-92-HD/default.mpd
+#EXTINF:-1 group-title="Deportes", Vix Mundial 4 2026 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7ee1a23e40b456ebfdaa40c51a24b857":"45ffaff5f3221a356c82c3d39bb327ac"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
+https://hfc-tlx-live-atv-cdn.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-93-HD/default.mpd
+#EXTINF:-1 group-title="Deportes", Vix Mundial 5 2026 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8b0dd1c5b5812460479ac94af4ff061d":"fc5a0c78cf2ad8bb3636e01150553427"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
+https://hfc-tlx-live-atv-cdn.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-94-HD/default.mpd
+#EXTINF:-1 group-title="Deportes", Vix Mundial 6 2026 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9696c2f12e487aafe1dc96d16d0db658":"159fd5dc3b0d9e0d75f856e95e225801"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
+https://hfc-tlx-live-atv-cdn.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-95-HD/default.mpd
+#EXTINF:-1 group-title="Deportes", Real Madrid TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"77e93f69c2d4c23e2cf8dc9e892f4ac7":"71a786d7774d6df4487494145db485a4"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
+https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/REAL-MADRID-HD/default.mpd
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/FIFA%2B_(2025).svg.png", FIFA+
 #EXTVLCOPT:network-caching=1000
 https://a62dad94.wurl.com/master/f3CcijrCfZBuqDzBWp3qSrBEZCqBUfQVz4CWGHWF91iaEw/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
