@@ -322,6 +322,12 @@ https://mdstrm.com/live-stream-playlist/6972d027a89c470e42e978a1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"25f0f3bd7717423eac1cb2840393f431":"fb519094851f2518d6550ebc6988dbbb"}
 https://mdstrm.com/live-stream-playlist/6972d235878fbf0e41e6d779.mpd
+#EXTINF:-1 group-title="Noticias", BBC NEWS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f254df8628d9aa549e8280df8e844817":"2f4d4f09cee314824fa702e5a59a43cf"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
+https://hfc-tlx-live-atv-cdn.izzigo.tv/15/out/u/dash/BBC-NEWS-HD/default.mpd
 #EXTINF:-1 tvg-id="NoticiasCaracol.co" group-title="Noticias" tvg-logo="https://image-registry.avscaracoltv.com/logos/caracolnoticias-lg.png", Noticias Caracol En Vivo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d3d2dd67a6144a998d72533854e19216":"4006aaf9701e2a748cd1069a6672e32c"}
