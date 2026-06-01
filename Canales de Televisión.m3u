@@ -416,18 +416,6 @@ https://hfc-tlx-live-atv-cdn.izzigo.tv/6/out/u/dash/MOSAICO-MUNDO-Y-APRENDIZAJE-
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
 https://hfc-tlx-live-atv-cdn.izzigo.tv/7/out/u/dash/MOSAICO-INTERES-GENERAL-HD/default.mpd
-#EXTINF:-1 group-title="Canales Izzigo", MOSAICO NFL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"cc8e9f97ebfc28d95573bfe07fb75a3a":"5b36bbcb859b79efc020b857d661c735"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/7/out/u/dash/MOSAICO-NFL-HD/default.mpd
-#EXTINF:-1 group-title="Canales Izzigo", MOSAICO MLB
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c2011437d904d19c149f27e876e15ee0":"031850fb393caae6affcf07d62d06fa8"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/7/out/u/dash/MOSAICO-MLB-HD/default.mpd
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Radio
 #EXTVLCOPT:network-caching=1000
 https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac
