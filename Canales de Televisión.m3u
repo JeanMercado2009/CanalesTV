@@ -276,10 +276,6 @@ https://tvcdn.tv.telia.lt/live/eds/JimJam/DASH_5_CPIX_NPVR/JimJam.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b44f59249eb8491d98683ac05e258615":"a6de9b1fe6163502b6d74193540800ca"}
 https://mdstrm.com/live-stream-playlist/6989f7ce3c84b1e5196fd8d2.mpd
-#EXTINF:-1 tvg-id="MujeresalLimite.co" group-title="Variedades" tvg-logo="https://image-registry.avscaracoltv.com/logos/mujeresallimite-lg.png", Mujeres al Limite
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"301BVTrB47erypG3tevi1U9Fv6BbNUBEiuiX":"e444c7c949d8a59cf065e4855d45463e"}
-https://mdstrm.com/live-stream-playlist/6972ceb2eed28f0e520dac4b.mpd
 #EXTINF:-1 tvg-id="Filmelier.co" group-title="Películas y Series" tvg-logo="https://image-registry.avscaracoltv.com/logos/pasionfilmeliertv-lg.png", Filmelier TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"afd504a3c45b410ca9b7b20b6a473795":"5acce8f7728627168dc31cacfc2df2ff"}
@@ -288,10 +284,6 @@ https://mdstrm.com/live-stream-playlist/69690c2879cd2809c0d2f39b.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a707f6e8acf34e7daa476edd66bdfb32":"bfd8a90f0cba0ab76af3efe7ef5487c5"}
 https://mdstrm.com/live-stream-playlist/69690c53fcb443efb63d4fd1.mpd
-#EXTINF:-1 tvg-id="NegociosDitu.co" group-title="Variedades" tvg-logo="https://image-registry.avscaracoltv.com/logos/negociosditu-lg.png", Negocios Ditu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8b86a869da9d41c09716b48e7cc63daa":"31BVTrB47erypG3tevi1U9Fv6BbNUBEiuiX"}
-https://mdstrm.com/live-stream-playlist/69690ca84be91a143f1c285d.mpd
 #EXTINF:-1 tvg-id="NovelasDitu.co" group-title="Variedades" tvg-logo="https://image-registry.avscaracoltv.com/logos/novelasditu-lg.png", Novelas Ditu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"dd4607e73e5f49cab1f05f5538526ed2":"ef6e5066ff4b27d020fc90295b068b58"}
