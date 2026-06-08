@@ -513,7 +513,7 @@ http://181.78.20.77:18000/play/a03e
 #EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol HDMI
 #EXTVLCOPT:network-caching=1000
 http://191.97.6.30:8000/play/a0ic
-#EXTINF:0 tvg-id="Win Sports HD.co" group-titl="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports MPD
+#EXTINF:0 tvg-id="Win Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports MPD
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e9642526f018477cb5013ef5017913f9":"ee0c7d58101c59e8e895ed6bd011110d"}
@@ -562,6 +562,9 @@ https://mdstrm.com/live-stream-playlist/69690d21fb30af150e58f11c.mpd
 #EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", CARACOL HD
 #EXTVLCOPT:network-caching=1000
 http://astra.fibernetisp.com.co/play/a03r
+#EXTINF:0 tvg-id="Caracol HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Caracol2025variantinstitutional.svg/revision/latest/scale-to-width-down/200?cb=20250112230704&path-prefix=es", CARACOL HD (Respaldo)
+#EXTVLCOPT:network-caching=1000
+http://179.60.51.134:8888/CARACOL/index.m3u8
 #EXTINF:-1 tvg-id="Teleantioquia.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Teleantioquia-icon.png", TELEANTIOQUIA HD (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"96506896c42acb5430b278c6d2d0e93d":"939b7eb40bd8b3d37252b5c692418094"}
