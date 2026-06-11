@@ -24,11 +24,11 @@ http://190.7.19.197:232/play/a09i/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", DSports 2 HD (Argentina)
 #EXTVLCOPT:network-caching=1000
 http://190.7.19.197:232/play/a09h/index.m3u8
+#EXTINF:-1 group-title="Copa del Mundo 2026",Caze TV Amazon TESTING
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"34475edab991ad5e92548aebd710410a":"501b209cccd323ac00bf5ac15b406cb4"}
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://a12aivottepl-a.akamaihd.net
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://a12aivottepl-a.akamaihd.net
-#EXTINF:-1 group-title="Entretenimiento",Caze TV Amazon TESTING
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 #EXTINF:-1 tvg-id="CaracolKids.co" group-title="Infantil" tvg-logo="https://image-registry.avscaracoltv.com/logos/caracolkids-lg.png", Caracol Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
