@@ -96,22 +96,13 @@ http://181.78.168.37:8000/play/a0d2
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Teleamazonas (Ecuador)
 #EXTVLCOPT:network-caching=1000
 http://181.79.87.132:8000/play/a0bw/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Canal 4 (El Salvador)
-#EXTVLCOPT:network-caching=1000
-http://138.118.107.243:8888/play/a03j/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (El Salvador)
 #EXTVLCOPT:network-caching=1000
 http://201.207.54.159:8000/play/a0av/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Canal 7 (Guatemala) OPT-1
-#EXTVLCOPT:network-caching=1000
-http://138.118.107.243:8888/play/a03h/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Canal 7 (Guatemala) OPT-2
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Canal 7 (Guatemala)
 #EXTVLCOPT:network-caching=1000
 http://201.207.54.159:8000/play/a04i/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Canal 11 TeleOnce (Guatemala) OPT-1
-#EXTVLCOPT:network-caching=1000
-http://138.118.107.243:8888/play/a02c/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Canal 11 TeleOnce (Guatemala) OPT-2
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Canal 11 TeleOnce (Guatemala)
 #EXTVLCOPT:network-caching=1000
 http://201.207.54.159:8000/play/a03c/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (Guatemala)
