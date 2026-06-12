@@ -63,6 +63,9 @@ http://190.92.82.246:8000/play/a0jc
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Tigo Sports
 #EXTVLCOPT:network-caching=1000
 http://179.60.224.196:8000/play/a0i0
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Tigo Sports (Guatemala)
+#EXTVLCOPT:network-caching=1000
+http://45.171.64.30:2000/play/a08e/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Telefe (Argentina)
 #EXTVLCOPT:network-caching=1000
 http://190.7.19.197:232/play/a059
@@ -108,9 +111,6 @@ http://201.207.54.159:8000/play/a03c/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (Guatemala)
 #EXTVLCOPT:network-caching=1000
 http://201.207.54.159:8000/play/a0au/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Tigo Sports (Guatemala)
-#EXTVLCOPT:network-caching=1000
-http://45.171.64.30:2000/play/a08e/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (Honduras)
 #EXTVLCOPT:network-caching=1000
 http://201.207.54.159:8000/play/a0ar/index.m3u8
