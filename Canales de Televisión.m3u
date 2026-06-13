@@ -21,6 +21,9 @@ http://201.207.54.159:8000/play/a0as/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX USA
 #EXTVLCOPT:network-caching=1000
 http://stream.cammonitorplus.net/1772/index.m3u8
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX 26 Houston
+#EXTVLCOPT:network-caching=1000
+http://134.195.157.227:1234/stream/controlhost/usavsparaguayfromfoxaffiliatekriv/master.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (Guatemala) Opción 2
 #EXTVLCOPT:network-caching=1000
 http://190.92.82.246:8000/play/a012
