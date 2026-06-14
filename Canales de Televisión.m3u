@@ -1200,7 +1200,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #EXTINF:0 tvg-id="Canal TRO.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/CanalTRO2020.webp", CANAL TRO SD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-http://181.118.158.103:8000/play/a00f
+http://181.118.158.103:8000/play/a00f/index.m3u8
 #EXTINF:0 tvg-id="CNN en Español.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cnn-en-espanol-ar.png", CNN EN ESPAÑOL HD
 #EXTVLCOPT:network-caching=1000
 http://181.79.84.66:8000/play/a01c
