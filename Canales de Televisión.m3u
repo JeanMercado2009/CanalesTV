@@ -246,7 +246,7 @@ https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.
 http://45.189.62.33:8002/play/a0c0
 #EXTINF:0 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México FHD
 http://38.194.226.190:8000/play/a00e/index.m3u8?hls
-#EXTINF:0 tvg-id="Cartoon Network.mx" group-title="México" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México FHD
+#EXTINF:0 tvg-id="Cartoon Network.mx" group-title="México" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network MX (GEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0a8e88e5b5b3eef72f2cb4aae4462f47":"8cf6200e54c309754ed4e99cab5874f6"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://dish.akamaized.net
@@ -508,9 +508,6 @@ https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:0 tvg-id="TN.ar" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/TN_todo_noticias_logo.svg.png", TN HD (Argentina)
 #EXTVLCOPT:network-caching=1000
 https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
-#EXTINF:0 group-title="Noticias", Chilevisión HD (Chile)
-#EXTVLCOPT:network-caching=1000
-http://38.250.127.17:9800/play/a05h
 #EXTINF:0 tvg-id=Zoom.co" group-title="Educación", Zoom TV
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a02p
@@ -669,10 +666,10 @@ http://45.238.146.131:8008/play/a00h
 http://181.118.150.27:8000/play/a011
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/tnt-sports-lam.png", TNT Sports
 #EXTVLCOPT:network-caching=1000
-http://179.1.95.167:18000/play/a0az
+
 #EXTINF:0 tvg-id="Cablenoticias.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Cable_Noticias_logo.svg.webp", CABLE NOTICIAS HD
 #EXTVLCOPT:network-caching=1000
-http://190.0.247.38:8000/play/a028
+
 #EXTINF:-1 tvg-id="BluRadio.co" group-title="Radio" tvg-logo="https://image-registry.avscaracoltv.com/logos/blu-lg.png", Blu Radio
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0843b67030934d8eba42bb0ee6eac7ac":"a943f55bcd776a8ef94b3149be86e652"}
