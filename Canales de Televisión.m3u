@@ -246,6 +246,13 @@ https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.
 http://45.189.62.33:8002/play/a0c0
 #EXTINF:0 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México FHD
 http://38.194.226.190:8000/play/a00e/index.m3u8?hls
+#EXTINF:0 tvg-id="Cartoon Network.mx" group-title="México" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0a8e88e5b5b3eef72f2cb4aae4462f47":"8cf6200e54c309754ed4e99cab5874f6"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://dish.akamaized.net
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://dish.akamaized.net
+https://dish.akamaized.net/Content/DASH/Live/channel(cartoonnetworks)/variant.mpd
+⚠Solo se puede ver este canal si resides del pais: México, en caso contrario puedes usar un servicio de VPN y selecciona ese pais.
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://190.83.9.222:8000/play/ca065
