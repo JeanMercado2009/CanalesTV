@@ -1123,9 +1123,6 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_ch
 #EXTINF:0 group-title="Música" tvg-logo="", TikTok Radio Latam
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
-#EXTINF:0 tvg-id="HTV.co" group-title="Música" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/htv-ar.png", HTV SD (Panregional)
-#EXTVLCOPT:network-caching=1000
-http://200.125.170.123:8000/play/a049
 #EXTINF:0 tvg-id="HTV.co" group-title="Música" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/htv-ar.png", HTV HD
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a039
