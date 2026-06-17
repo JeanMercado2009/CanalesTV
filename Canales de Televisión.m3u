@@ -3,6 +3,9 @@
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", DISNEY+ | ESPN MUNDIAL (EVENTOS)
 #EXTVLCOPT:network-caching=1000
 http://148.222.230.144:8000/play/a0f0/index.m3u8
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", LA 1 UHD
+#EXTVLCOPT:network-caching=1000
+http://176.65.146.93:8401/play/a09a/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", 𝐂𝐚𝐧𝐚𝐥 𝟏𝟑 𝐝𝐞 𝐒𝐚𝐧 𝐋𝐮𝐢𝐬 (𝐀𝐫𝐠𝐞𝐧𝐭𝐢𝐧𝐚)
 #EXTVLCOPT:network-caching=1000
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
