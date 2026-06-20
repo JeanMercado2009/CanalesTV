@@ -1642,6 +1642,13 @@ https://hfc-tlx-live-atv-cdn.izzigo.tv/15/out/u/dash/WARNER-HD/default.mpd
 #EXTINF:0 tvg-id="NUEVE.mx" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/mexico/nueve-mx.png", NUEVE México
 #EXTVLCOPT:network-caching=1000
 http://45.167.253.246:8010/play/a00f
+#EXTINF:0 tvg-id="Azteca 1.mx" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/mexico/azteca-uno-mx.png", Azteca 1 HD
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"158b196625b3fa3a6cbd45d081d28995":"b955044f81ed40faec97bee0d7a20aea"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
+https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/AZTECA-1-HD/default.mpd
 #EXTINF:0 tvg-id="Canal 5.mx" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png", Canal 5 MX
 #EXTVLCOPT:network-caching=1000
 http://45.167.253.246:8010/play/a00e
