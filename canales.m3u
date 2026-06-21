@@ -89,7 +89,7 @@ http://38.210.4.182:8000/play/a1bv
 http://186.5.77.99:8000/play/a0am
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Canal 4 TCS
 #EXTVLCOPT:network-caching=1000
-http://190.92.82.246:8000/play/a0jc
+http://132.255.210.69:9000/play/a033/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Tigo Sports
 #EXTVLCOPT:network-caching=1000
 http://179.60.224.196:8000/play/a0i0
