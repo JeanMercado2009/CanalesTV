@@ -30,10 +30,10 @@ http://176.65.146.93:8401/play/a09a/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", 𝐂𝐚𝐧𝐚𝐥 𝟏𝟑 𝐝𝐞 𝐒𝐚𝐧 𝐋𝐮𝐢𝐬 (𝐀𝐫𝐠𝐞𝐧𝐭𝐢𝐧𝐚)
 #EXTVLCOPT:network-caching=1000
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", 𝐓𝐕 𝐏𝐮𝐛𝐥𝐢𝐜𝐚 (𝐀𝐫𝐠𝐞𝐧𝐭𝐢𝐧𝐚) 𝐎𝐏𝐓-𝟏
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", TV Publica (Argentina) OPT-1
 #EXTVLCOPT:network-caching=1000
 http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/tvpublica.playlist.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", 𝐓𝐕 𝐏𝐮𝐛𝐥𝐢𝐜𝐚 (𝐀𝐫𝐠𝐞𝐧𝐭𝐢𝐧𝐚) 𝐎𝐏𝐓-𝟐
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", TV Publica (Argentina) OPT-2
 #EXTVLCOPT:network-caching=1000
 http://190.7.19.197:232/play/a03c/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (Guatemala)
@@ -168,13 +168,6 @@ http://201.207.54.159:8000/play/a0b1/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Telemundo (USA)
 #EXTVLCOPT:network-caching=1000
 https://i1.ut770.freelocaltv.org/hls/ktmw-20_hls/ktmw-20_master.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Telemundo (ESTADOS UNIDOS)
-#EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"00c15114e5acbfd69eb01d301268e527":"b238a0c6aaa985fbc7348d279053cdcf","5f6906f1638e49f4a4ff0437781ea9ac":"569bd57fed5e212ebfc1f723b3beb06c","220d87b5d893b55c839632c90ae02620":"a4e5b51300015d2f874379ee030069d5","0679b43be9f473caedce4cf5b11387e3":"818ddb8e693ae16f4cbbe876fc4ed502"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://dfwlive-v2-c0p6-os.akamaized.net
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://dfwlive-v2-c0p6-os.akamaized.net
-https://dfwlive-v2-c0p6-os.akamaized.net/Content/HLS.cps/Live/channel(TELe-405.dfw.1080)/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", TV Globo
 #EXTVLCOPT:network-caching=1000
 http://177.52.24.155:8000/play/a03x
