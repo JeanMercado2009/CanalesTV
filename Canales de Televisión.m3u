@@ -823,9 +823,6 @@ http://190.60.44.98:9000/play/a04f
 #EXTINF:0 tvg-id="EWTN.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/EWTN.png", EWTN
 #EXTVLCOPT:network-caching=1000
 http://190.66.23.210:9003/play/a0ec
-#EXTINF:0 tvg-id="EWTN.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/EWTN.png", EWTN HD
-#EXTVLCOPT:network-caching=1000
-http://45.177.21.6:9000/play/a036
 #EXTINF:0 group-title="Televisión Abierta" tvg-logo="", TL Más SV
 #EXTVLCOPT:network-caching=1000
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
