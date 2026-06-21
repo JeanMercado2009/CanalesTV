@@ -38,25 +38,19 @@ http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/tvpublica.playl
 http://190.7.19.197:232/play/a03c/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (Guatemala)
 #EXTVLCOPT:network-caching=1000
-http://190.92.82.246:8000/play/a013
+http://38.95.86.0:61400/play/a07u/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (Costa Rica)
 #EXTVLCOPT:network-caching=1000
 http://201.207.54.159:8000/play/a0as/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX USA
 #EXTVLCOPT:network-caching=1000
 http://stream.cammonitorplus.net/1772/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (Guatemala) Opción 2
-#EXTVLCOPT:network-caching=1000
-http://190.92.82.246:8000/play/a012
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (México)
 #EXTVLCOPT:network-caching=1000
 http://38.194.226.190:8000/play/a00o/index.m3u8?hls
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FS1 USA
 #EXTVLCOPT:network-caching=1000
 http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=858547&extension=ts&play_token=WHBIHGPXA1
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (Guatemala)
-#EXTVLCOPT:network-caching=1000
-http://201.207.54.159:8000/play/a0au/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (Honduras)
 #EXTVLCOPT:network-caching=1000
 http://201.207.54.159:8000/play/a0ar/index.m3u8
