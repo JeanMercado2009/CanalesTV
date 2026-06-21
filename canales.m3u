@@ -27,6 +27,9 @@ http://181.94.205.55:4022/udp/225.2.2.2:20024
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", LA 1 UHD
 #EXTVLCOPT:network-caching=1000
 http://176.65.146.93:8401/play/a09a/index.m3u8
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", UNITEL (Bolivia)
+#EXTVLCOPT:network-caching=1000
+http://200.59.191.177:8000/play/a0md
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", 𝐂𝐚𝐧𝐚𝐥 𝟏𝟑 𝐝𝐞 𝐒𝐚𝐧 𝐋𝐮𝐢𝐬 (𝐀𝐫𝐠𝐞𝐧𝐭𝐢𝐧𝐚)
 #EXTVLCOPT:network-caching=1000
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
@@ -324,6 +327,9 @@ https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/amp
 #EXTINF:0 group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network (Nigeria)
 #EXTVLCOPT:network-caching=1000
 http://185.228.163.146:8000/play/a026
+#EXTINF:0 group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network (Europa Oeste)
+#EXTVLCOPT:network-caching=1000
+http://86.152.19.137:5000/api/1u1/live/cartoon_network_de.m3u8?code=sTgYOw6NpN5nFstbePHUIqxS
 #EXTINF:0 group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Cartoons
 #EXTVLCOPT:network-caching=1000
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
