@@ -192,6 +192,9 @@ http://181.119.177.253:8000/play/a0da
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://a12aivottepl-a.akamaihd.net
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://a12aivottepl-a.akamaihd.net
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+#EXTINF:0 tvg-id="" group-title="Noticias" tvg-logo="", Meganoticias Ahora (Chile)
+#EXTVLCOPT:network-caching=1000
+http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 #EXTINF:-1 tvg-id="CaracolKids.co" group-title="Infantil" tvg-logo="https://image-registry.avscaracoltv.com/logos/caracolkids-lg.png", Caracol Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1702ab01579f458d905353a745ebaed3":"336381fb3049c8e6971d53f8a30bb0cc"}
