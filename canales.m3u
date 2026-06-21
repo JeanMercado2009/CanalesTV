@@ -24,9 +24,6 @@ http://181.94.205.55:4022/udp/225.2.2.2:20023
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Fox Sports 3 Argentina
 #EXTVLCOPT:network-caching=1000
 http://181.94.205.55:4022/udp/225.2.2.2:20024
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", LA 1 UHD
-#EXTVLCOPT:network-caching=1000
-http://176.65.146.93:8401/play/a09a/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", UNITEL (Bolivia)
 #EXTVLCOPT:network-caching=1000
 http://200.59.191.177:8000/play/a0md
