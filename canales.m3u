@@ -282,7 +282,6 @@ http://38.194.226.190:8000/play/a00e/index.m3u8?hls
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://dish.akamaized.net
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://dish.akamaized.net
 https://dish.akamaized.net/Content/DASH/Live/channel(cartoonnetworks)/variant.mpd
-⚠Solo se puede ver este canal si resides del pais: México, en caso contrario puedes usar un servicio de VPN y selecciona ese pais.
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://190.83.9.222:8000/play/ca065
