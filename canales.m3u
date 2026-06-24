@@ -406,6 +406,10 @@ http://181.209.96.155:10000/play/a12p
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"027e637afed7db11853ff1a19cc8e4db":"608f91f05536f5a6c93e70cdd95aba5c"}
 https://covoslivechannels2dash.clarovideo.com/content/DASH_DASH_FK/Live/Channel(DISNEY_HD)/manifest.mpd
+#EXTINF:-1 tvg-id="Disney Junior.es" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/2f171c01ee4257b03176054c9efec7e818756725/countries/spain/2022_Disney_Channel_logo.svg", Disney Channel (España)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"44875398e74743caabb7278f2b63433f":"a1e2ad6d895feb2a609683324dd0b93c"}
+https://cache07.zapitv.com/live/eds_c2/DISNEYJR/dash_live_ez/DISNEYJR.mpd
 #EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel (Israel)
 #EXTVLCOPT:network-caching=1000
 http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
@@ -426,10 +430,6 @@ http://190.60.42.86:8000/play/a00a
 #EXTINF:0 tvg-id="DISNEY JUNIOR.ar" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-jr-lam.png", Disney Jr. (Sur)
 #EXTVLCOPT:network-caching=1000
 http://38.7.101.90:8000/play/a1zp
-#EXTINF:-1 tvg-id="Disney Junior.es" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-jr-lam.png", Disney Jr. (España)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"44875398e74743caabb7278f2b63433f":"a1e2ad6d895feb2a609683324dd0b93c"}
-https://cache07.zapitv.com/live/eds_c2/DISNEYJR/dash_live_ez/DISNEYJR.mpd
 #EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon (Global)
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
