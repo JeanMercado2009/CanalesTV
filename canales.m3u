@@ -275,6 +275,135 @@ http://38.194.226.190:8000/play/a00e/index.m3u8?hls
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://dish.akamaized.net
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://dish.akamaized.net
 https://dish.akamaized.net/Content/DASH/Live/channel(cartoonnetworks)/variant.mpd
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDCUL.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="México", CARTOON NETWORK HD CUL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_cln_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDCOB.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(16).png" group-title="México",CARTOON NETWORK HD COB
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_cob_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDCOL.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500(1).png" group-title="México",CARTOON NETWORK HD COL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_col_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDDGO.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(3).png" group-title="México",CARTOON NETWORK HD DGO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_dgo_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDGDL.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="México",CARTOON NETWORK HD GDL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_gdl_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHD.mx" catchup="append" catchup-days="2" catchup-source="&begin={utc:YmdTHMS}&end={utcend:YmdTHMS}" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="México",CARTOON NETWORK HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDHMO.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="México",CARTOON NETWORK HD HMO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_hmo_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDLEON.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="México",CARTOON NETWORK HD LEON
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_len_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDLMM.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(1).png" group-title="México",CARTOON NETWORK HD LMM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_lmm_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKLPZHD.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(15).png" group-title="México",CARTOON NETWORK LPZ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_lpz_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDMOR.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="México",CARTOON NETWORK HD MOR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_mor_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDMZT.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(2).png" group-title="México",CARTOON NETWORK HD MZT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_mzt_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDNOG.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(14).png" group-title="México",CARTOON NETWORK HD NOG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_nog_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDPUE.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="México",CARTOON NETWORK HD PUE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_pue_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDQRO.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="México",CARTOON NETWORK HD QRO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_qro_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDSAL.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(7).png" group-title="México",CARTOON NETWORK HD SAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_sal_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDSMA.mx" catchup="append" catchup-days="2" catchup-source="&begin={utc:YmdTHMS}&end={utcend:YmdTHMS}" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(4).png" group-title="México",CARTOON NETWORK HD SMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_sma_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDTEP.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(8).png" group-title="México",CARTOON NETWORK HD TEP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_tep_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDTGZ.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(5).png" group-title="México",CARTOON NETWORK HD TGZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_tgz_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDTLN.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK.png" group-title="México",CARTOON NETWORK HD TLN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_tln_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDTOL.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="México",CARTOON NETWORK HD TOL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_tol_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDTOR.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="México",CARTOON NETWORK HD TOR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_tor_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDVER.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="México",CARTOON NETWORK HD VER
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_ver_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDXAL.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="México",CARTOON NETWORK HD XAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_xal_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDZAC.mx" catchup="append" catchup-days="2" catchup-source="&begin={utc:YmdTHMS}&end={utcend:YmdTHMS}" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(10).png" group-title="México",CARTOON NETWORK HD ZAC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_zac_hd.mpd
+
+#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDZRA.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(11).png" group-title="México",CARTOON NETWORK HD ZRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/cartoon_network_zra_hd.mpd
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://190.83.9.222:8000/play/ca065
@@ -4353,136 +4482,6 @@ http://147.78.1.28/xview/capital_21_tln_hd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2eb5e5ace2e945a09f333c7297158fc6:1df728fffefd542ebe2e55019c2d7336
 http://147.78.1.28/xview/capital_21_tln_sd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDCUL.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="INFANTILES • Xview",CARTOON NETWORK HD CUL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_cln_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDCOB.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(16).png" group-title="INFANTILES • Xview",CARTOON NETWORK HD COB
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_cob_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDCOL.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500(1).png" group-title="INFANTILES • Xview",CARTOON NETWORK HD COL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_col_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDDGO.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(3).png" group-title="INFANTILES • Xview",CARTOON NETWORK HD DGO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_dgo_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDGDL.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="INFANTILES • Xview",CARTOON NETWORK HD GDL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_gdl_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHD.mx" catchup="append" catchup-days="2" catchup-source="&begin={utc:YmdTHMS}&end={utcend:YmdTHMS}" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="INFANTILES • Xview",CARTOON NETWORK HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDHMO.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="INFANTILES • Xview",CARTOON NETWORK HD HMO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_hmo_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDLEON.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="INFANTILES • Xview",CARTOON NETWORK HD LEON
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_len_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDLMM.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(1).png" group-title="INFANTILES • Xview",CARTOON NETWORK HD LMM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_lmm_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKLPZHD.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(15).png" group-title="INFANTILES • Xview",CARTOON NETWORK LPZ HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_lpz_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDMOR.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="INFANTILES • Xview",CARTOON NETWORK HD MOR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_mor_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDMZT.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(2).png" group-title="INFANTILES • Xview",CARTOON NETWORK HD MZT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_mzt_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDNOG.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(14).png" group-title="INFANTILES • Xview",CARTOON NETWORK HD NOG
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_nog_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDPUE.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="INFANTILES • Xview",CARTOON NETWORK HD PUE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_pue_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDQRO.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="INFANTILES • Xview",CARTOON NETWORK HD QRO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_qro_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDSAL.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(7).png" group-title="INFANTILES • Xview",CARTOON NETWORK HD SAL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_sal_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDSMA.mx" catchup="append" catchup-days="2" catchup-source="&begin={utc:YmdTHMS}&end={utcend:YmdTHMS}" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(4).png" group-title="ENTRETENIMIENTO • Xview",CARTOON NETWORK HD SMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_sma_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDTEP.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(8).png" group-title="INFANTILES • Xview",CARTOON NETWORK HD TEP
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_tep_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDTGZ.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(5).png" group-title="INFANTILES • Xview",CARTOON NETWORK HD TGZ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_tgz_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDTLN.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK.png" group-title="INFANTILES • Xview",CARTOON NETWORK HD TLN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_tln_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDTOL.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="INFANTILES • Xview",CARTOON NETWORK HD TOL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_tol_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDTOR.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="INFANTILES • Xview",CARTOON NETWORK HD TOR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_tor_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDVER.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="INFANTILES • Xview",CARTOON NETWORK HD VER
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_ver_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDXAL.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="INFANTILES • Xview",CARTOON NETWORK HD XAL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_xal_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDZAC.mx" catchup="append" catchup-days="2" catchup-source="&begin={utc:YmdTHMS}&end={utcend:YmdTHMS}" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(10).png" group-title="LOCAL • Xview",CARTOON NETWORK HD ZAC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_zac_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDZRA.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(11).png" group-title="INFANTILES • Xview",CARTOON NETWORK HD ZRA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/cartoon_network_zra_hd.mpd
 
 #EXTINF:-1 tvg-id="xv-CBMEXICOMOR.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CB TELEVISION(1).png" group-title="LOCAL • Xview",CB MEXICO MOR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
