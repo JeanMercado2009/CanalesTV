@@ -200,13 +200,13 @@ https://mdstrm.com/live-stream-playlist/6972e1087faf95f01fc8cc30.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a255e1384db3e9ce7e0349e8aa9b9f77":"404cc4fb45f82c9a7dffd3d2496cca20"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/DREAM-WORKS-HD/default.mpd
+
 #EXTINF:0 tvg-id="Cartoonito.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito LA MPD
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3fc370ab08218da5dad9b9644f1df57b":"1ddc60916c0efd29990cb1d319e7710a"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/CARTOONITO-HD/default.mpd
+
 #EXTINF:0 tvg-id="Cartoonito.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito MPD
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -247,10 +247,6 @@ http://138.59.227.20:8000/play/a083
 #EXTINF:0 tvg-id="Cartoon Network.br" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Brazil HD
 #EXTVLCOPT:network-caching=1000
 http://138.117.81.96:8000/play/a0fc
-#EXTINF:0 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"85d06ba283f3b18bb14f9f8d59b8fb82":"6659fed472544289adee986c1d33fa79"}
-https://zap-live1-ott.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network PAN MPD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9ef7fcfc0c1345cb910bdc05edbc93bd":"81dd0ea1e029c65ae67bb1d7a6a8ea05"}
@@ -268,7 +264,7 @@ https://origin-fast.b-cdn.net/CARTOON_NETWORK_TK/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"85d06ba283f3b18bb14f9f8d59b8fb82":"6659fed472544289adee986c1d33fa79"}
-https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd
+
 #EXTINF:0 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México SD
 http://45.189.62.33:8002/play/a0c0
 #EXTINF:0 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México FHD
@@ -371,7 +367,7 @@ https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(DI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9201c07931b74c37c4e30a9e96b64c30:8e1ce4f1b1185f64e42f9974cbad1442
 #EXTINF:-1 ch-number="204" tvg-id="DISCOVERY KIDS.mx" tvg-logo="https://i.postimg.cc/WbSw-Jyxm/DKids.png" group-title="Infantil", Discovery Kids (México)
-https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
+
 #EXTINF:0 tvg-id="Discovery Kids.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a00o
@@ -416,7 +412,7 @@ http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
 #EXTINF:-1 tvg-id="DISNEY.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel HD (México)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f047ea1abdca6f03117454c4de0b6d5b":"b038c8c8f114c568956d428e80ae38d7"}
-https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
+
 #EXTINF:-1 tvg-id="DISNEY.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel HD (Canada)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"11111111111111118111000000000000":"a0508b287ec25e33222865bc87867cfe"}
@@ -450,7 +446,7 @@ http://45.189.62.33:8002/play/a0am
 #EXTINF:0 tvg-id="Nick.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nick LATAM (Ex-MEX)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"294848a1c20273b5546c204b117fd7fe":"47b4a3e3b2d5bbd54143a6af43268bbd"}
-https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/NICK-HD/default.mpd
+
 #EXTINF:0 tvg-id="Nick Jr..co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/nick-jr-ar.png", Nick Jr. HD
 #EXTVLCOPT:network-caching=1000
 http://38.87.224.21:2220/play/a031
@@ -515,7 +511,7 @@ https://mdstrm.com/live-stream-playlist/6972d235878fbf0e41e6d779.mpd
 #KODIPROP:inputstream.adaptive.license_key={"f254df8628d9aa549e8280df8e844817":"2f4d4f09cee314824fa702e5a59a43cf"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/15/out/u/dash/BBC-NEWS-HD/default.mpd
+
 #EXTINF:-1 tvg-id="NoticiasCaracol.co" group-title="Noticias" tvg-logo="https://image-registry.avscaracoltv.com/logos/caracolnoticias-lg.png", Noticias Caracol En Vivo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d3d2dd67a6144a998d72533854e19216":"4006aaf9701e2a748cd1069a6672e32c"}
@@ -524,7 +520,7 @@ https://mdstrm.com/live-stream-playlist/69690d0f662b3e30d33f69c8.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ea39b9575f51b840a58bda829f20f38d":"9c200a2b120d45e60af506be1d7ad932"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/FORO-TV-HD/default.mpd
+
 #EXTINF:0 group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/DNews.png", Fox News Radio
 #EXTVLCOPT:network-caching=1000
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
@@ -562,55 +558,55 @@ https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CA
 #KODIPROP:inputstream.adaptive.license_key={"45f879cb20daca4341c0e68604f641e1":"0e54c3f7dce1884a2f13307575e37151"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/6/out/u/dash/MOSAICO-DEPORTES-HD/default.mpd
+
 #EXTINF:-1 group-title="Canales Izzigo", MOSAICO HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2c2c9e3431b6ba6c84a46c4ec22e3bb9":"ddd890065343463f45cfc569584fec64"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/6/out/u/dash/MOSAICO-HBO-HD/default.mpd
+
 #EXTINF:-1 group-title="Canales Izzigo", MOSAICO UNIVERSAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"413b82975e80d337fad58d3acb55fdd1":"79d8722c558e79421ca635a437dc63bd"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/7/out/u/dash/MOSAICO-UNIVERSAL-PLUS-HD/default.mpd
+
 #EXTINF:-1 group-title="Canales Izzigo", MOSAICO PELICULAS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"fae7ec348ac9cb890ca49d534b7bba0a":"c7a780059db7addbc4b2b71eaebc05e0"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/6/out/u/dash/MOSAICO-PELICULAS-HD/default.mpd
+
 #EXTINF:-1 group-title="Canales Izzigo", MOSAICO INFANTIL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ff9be9b862c36ca6475f9afc46b1431b":"08910e67cae621fe6cb9d6745fc80b5c"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/6/out/u/dash/MOSAICO-INFANTIL-HD/default.mpd
+
 #EXTINF:-1 group-title="Canales Izzigo", MOSAICO ENTRETENIMIENTO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0bc92f162d7ece551a3b9e525a036891":"913404f13a4788ca43e3bd5c0a0b0d3e"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/6/out/u/dash/MOSAICO-ENTRETENIMIENTO-HD/default.mpd
+
 #EXTINF:-1 group-title="Canales Izzigo", MOSAICO NOTICIAS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ff75bb397c6e12828a9a948933ad69a2":"3103aecaef52aefaa0d2bbe080748487"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/7/out/u/dash/MOSAICO-NOTICIAS-HD/default.mpd
+
 #EXTINF:-1 group-title="Canales Izzigo", MOSAICO MUNDO Y APRENDIZAJE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"085c656853cb9f8ff7161cfccd9df5eb":"9ed158d6087ed688e0297602ea051c7b"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/6/out/u/dash/MOSAICO-MUNDO-Y-APRENDIZAJE-HD/default.mpd
+
 #EXTINF:-1 group-title="Canales Izzigo", MOSAICO INTERES GENERAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e2ab622ab94c6da1a0e120a7fc4ded9f":"428004f81587a3626329c18d58da9b06"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/7/out/u/dash/MOSAICO-INTERES-GENERAL-HD/default.mpd
+
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Radio
 #EXTVLCOPT:network-caching=1000
 https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac
@@ -626,7 +622,7 @@ http://168.228.44.241:9997/play/a09f
 #KODIPROP:inputstream.adaptive.license_key={"77e93f69c2d4c23e2cf8dc9e892f4ac7":"71a786d7774d6df4487494145db485a4"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/REAL-MADRID-HD/default.mpd
+
 #EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/FIFA%2B_(2025).svg.png", FIFA+
 #EXTVLCOPT:network-caching=1000
 https://a62dad94.wurl.com/master/f3CcijrCfZBuqDzBWp3qSrBEZCqBUfQVz4CWGHWF91iaEw/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
@@ -1237,7 +1233,7 @@ http://138.99.179.64:8800/play/a01d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f3a704793810e4848980bf8ebe11ba72":"8a761310bfa7436136729b23ea590185"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/13/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd
+
 #EXTINF:0 tvg-id="CNN Chile.cl" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/CNNCHILE2024.webp", CNN CHILE
 #EXTVLCOPT:network-caching=1000
 http://148.222.230.144:8000/play/a07m
@@ -1245,7 +1241,7 @@ http://148.222.230.144:8000/play/a07m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4514db2f0b4864f56dbf8b14bcdd4022":"6cc79244441f942839b867572702364e"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CNN-HD/default.mpd
+
 #EXTINF:0 tvg-id="CNN.co" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/international/cnn-international-int.png", CNN INTERNATIONAL HD
 #EXTVLCOPT:network-caching=1000
 http://181.79.84.66:8000/play/a01d
@@ -1262,7 +1258,7 @@ http://38.225.116.4:22000/play/a01b
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b3a2233cdcf6945c0ae5abceb872c5e8:3480df7a12dc18342b49dce0d55363d3
-https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/AMC-SERIES-HD/default.mpd
+
 #EXTINF:0 tvg-id="Más Chic.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/amc-series-lam.png", AMC Series México
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1293,7 +1289,7 @@ http://45.167.253.246:8010/play/a012
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62cc24eaedef1ab322a4d52fd6bf29ad:3f80b04b3e2bf3d8543956882da9dd00
-https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/CANAL-2-HD/default.mpd
+
 #EXTINF:0 tvg-id="Las Estrellas.co" group-title="Novelas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/las-estrellas-mx.png", Las Estrellas Panregional
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a02p
@@ -1347,12 +1343,12 @@ http://168.228.44.241:9998/play/a0a9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5f667f1e6db8de6ac2ce1b710866aeff":"c8ea6e60d50c6fe170e46da019d59910"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/15/out/u/dash/TCM-SD/default.mpd
+
 #EXTINF:0 group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-states/tnt-us.png", TNT México
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"638ce064444737debe896e87cd808108":"ac02e23ba559e49c7f021f722c855887"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/TNT-HD/default.mpd
+
 #EXTINF:0 tvg-id="TNT.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-states/tnt-us.png", TNT HD (Chile / Perú)
 #EXTVLCOPT:network-caching=1000
 http://200.4.244.29:8000/play/a00o
@@ -1498,7 +1494,7 @@ http://38.252.238.18:8000/play/a01c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"8ce1ec3e2402a170cbe13b79ce9bb30f":"82fdcfde32cc02673547e58b50e2b5ae"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/13/out/u/dash/FX-HD/default.mpd
+
 #EXTINF:0 group-title="Películas y Series" tvg-logo="", Cinemax México
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1549,7 +1545,7 @@ http://45.189.62.33:8002/play/a08v
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b482bd74b9fccb810bf94a3b3732c0f9":"9207af2617ac4df3ee6860719a53eb8b"}
-https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/STAR-CHANNEL-HD/default.mpd
+
 #EXTINF:0 group-title="Películas y Series" tvg-logo="", AXN México
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1612,7 +1608,7 @@ http://190.60.48.149:8000/play/SPACE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"02849e7ba3c2e527a9a8152ff111fc22":"87af284b8fc6be1cbf693f20175671a9"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/SPACE-HD/default.mpd
+
 #EXTINF:0 tvg-id="Warner Channel.pe" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel Perú
 #EXTVLCOPT:network-caching=1000
 http://168.228.44.241:9998/play/a0ag
@@ -1632,7 +1628,7 @@ http://45.189.62.33:8002/play/a0cf
 #EXTINF:-1 tvg-id="Warner Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel México
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a62d210f0f907a0ebfb84a790d42780b":"590779be25e38a41d817f6ad13f5b070"}
-https://hfc-tlx-live-atv-cdn.izzigo.tv/15/out/u/dash/WARNER-HD/default.mpd
+
 #EXTINF:0 group-title="Películas y Series" tvg-logo="", Pánico México
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1647,7 +1643,7 @@ http://45.167.253.246:8010/play/a00f
 #KODIPROP:inputstream.adaptive.license_key={"158b196625b3fa3a6cbd45d081d28995":"b955044f81ed40faec97bee0d7a20aea"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/AZTECA-1-HD/default.mpd
+
 #EXTINF:0 tvg-id="Canal 5.mx" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/mexico/canal-5-mx.png", Canal 5 MX
 #EXTVLCOPT:network-caching=1000
 http://45.167.253.246:8010/play/a00e
@@ -1704,7 +1700,7 @@ http://190.60.48.149:8000/play/AE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"baef272fb12886463f3b299ac6b4ffa6":"bc285ae166674480abb4966f4a306327"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/13/out/u/dash/AANDE-HD/default.mpd
+
 #EXTINF:0 tvg-id="HISTORY CHANNEL.co" group-title="Documentales", History Channel (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a00i
@@ -1767,7 +1763,7 @@ http://181.118.150.27:8000/play/a02y
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0765f676e30b1b98386230b52eed3518":"326266d16296e3bbe1dfcc274853dadb"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-https://hfc-tlx-live-atv-cdn.izzigo.tv/13/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
+
 #EXTINF:0 tvg-id="Adult Swim.ar" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png", Adult Swim HD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a034
@@ -1777,7 +1773,8 @@ http://181.78.12.119:16123/play/ch75
 #EXTINF:-1 tvg-id="ADULT SWIM.mx" group-title="Adultos" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/adult-swim-us.png", Adult Swim HD (México)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"694fa2e355b31ac2c52d0a56d3d8da59":"0d7eff2e4dc61d48489555068b0db46a"}
-https://hfc-tlx-live-atv-cdn.izzigo.tv/15/out/u/dash/ADULTSWIM-HD/default.mpd
+
+
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Candela_Estereo_logo.webp", Candela Estereo (Bogotá)
 https://26653.live.streamtheworld.com/CANDELAESTEREOAAC/HLS/22438031-45a9-4121-a140-afe3e058366d/0/playlist.m3u8
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Candela_Estereo_logo.webp", Candela Estereo (Cali)
