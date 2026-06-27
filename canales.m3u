@@ -24,9 +24,12 @@ http://181.94.205.55:4022/udp/225.2.2.2:20024
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", UNITEL (Bolivia)
 #EXTVLCOPT:network-caching=1000
 http://200.59.191.177:8000/play/a0md
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", 𝐂𝐚𝐧𝐚𝐥 𝟏𝟑 𝐝𝐞 𝐒𝐚𝐧 𝐋𝐮𝐢𝐬 (𝐀𝐫𝐠𝐞𝐧𝐭𝐢𝐧𝐚)
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Canal 13 de San Luis (Argentina)
 #EXTVLCOPT:network-caching=1000
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Telexitos
+#EXTVLCOPT:network-caching=1000
+http://190.197.41.183/TELEXITOS/playlist.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", TV Publica (Argentina) OPT-1
 #EXTVLCOPT:network-caching=1000
 http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/tvpublica.playlist.m3u8
@@ -41,7 +44,7 @@ http://38.95.86.0:61400/play/a07u/index.m3u8
 http://201.207.54.159:8000/play/a0as/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX USA
 #EXTVLCOPT:network-caching=1000
-http://stream.cammonitorplus.net/1772/index.m3u8
+http://stream.cammonitorplus.net/1833/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (México)
 #EXTVLCOPT:network-caching=1000
 http://38.194.226.190:8000/play/a00o/index.m3u8?hls
@@ -99,22 +102,22 @@ http://190.7.19.197:232/play/a04w
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", TyC Sports (Argentina)
 #EXTVLCOPT:network-caching=1000
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-tycsport.playlist.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", 𝐂𝐡𝐢𝐥𝐞𝐯𝐢𝐬𝐢ó𝐧 (𝐂𝐡𝐢𝐥𝐞) 𝐎𝐏𝐓-𝟏
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Chilevisión (Chile) OPT-1
 #EXTVLCOPT:network-caching=1000
 http://38.97.240.11:8000/play/a0fe/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", 𝐂𝐡𝐢𝐥𝐞𝐯𝐢𝐬𝐢ó𝐧 (𝐂𝐡𝐢𝐥𝐞) 𝐎𝐏𝐓-𝟐 
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Chilevisión (Chile) OPT-2 
 #EXTVLCOPT:network-caching=1000
 http://190.102.247.126:8000/play/a00f/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", 𝐂𝐡𝐢𝐥𝐞𝐯𝐢𝐬𝐢ó𝐧 (𝐂𝐡𝐢𝐥𝐞) 𝐎𝐏𝐓-𝟑 
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Chilevisión (Chile) OPT-3 
 #EXTVLCOPT:network-caching=1000
 http://181.79.87.132:8000/play/a0cy/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", 𝐂𝐚𝐫𝐚𝐜𝐨𝐥 (𝐂𝐨𝐥𝐨𝐦𝐛𝐢𝐚) 𝐎𝐏𝐓-𝟏 
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Caracol (Colombia) OPT-1
 #EXTVLCOPT:network-caching=1000
 http://181.78.168.37:8000/play/a0dn
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", 𝐂𝐚𝐫𝐚𝐜𝐨𝐥 (𝐂𝐨𝐥𝐨𝐦𝐛𝐢𝐚) 𝐎𝐏𝐓-𝟐 
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Caracol (Colombia) OPT-2
 #EXTVLCOPT:network-caching=1000
 http://181.78.168.37:8000/play/a0d3
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", 𝐑𝐂𝐍 (𝐂𝐨𝐥𝐨𝐦𝐛𝐢𝐚) 
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", RCN (Colombia) 
 #EXTVLCOPT:network-caching=1000
 http://181.78.168.37:8000/play/a0d2
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Teleamazonas (Ecuador)
@@ -171,9 +174,12 @@ http://45.233.58.154:8000/play/a00o
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Chilevisión
 #EXTVLCOPT:network-caching=1000
 http://190.95.11.223:8000/play/066
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", WIN (Colombia)
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Televen
 #EXTVLCOPT:network-caching=1000
-
+http://38.188.48.83:8000/play/a0lk
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Win Sports (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.118.151.218:8000/play/a02u
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Teletica
 #EXTVLCOPT:network-caching=1000
 http://181.119.177.253:8000/play/a0da
