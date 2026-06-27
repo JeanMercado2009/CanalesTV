@@ -42,6 +42,12 @@ http://38.95.86.0:61400/play/a07u/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (Costa Rica)
 #EXTVLCOPT:network-caching=1000
 http://201.207.54.159:8000/play/a0as/index.m3u8
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (Costa Rica)
+#EXTVLCOPT:network-caching=1000
+http://181.78.50.91:8000/play/a06m
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX+ (Costa Rica)
+#EXTVLCOPT:network-caching=1000
+http://45.5.116.228:8000/play/a07l
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX USA
 #EXTVLCOPT:network-caching=1000
 http://stream.cammonitorplus.net/1833/index.m3u8
@@ -117,9 +123,12 @@ http://181.78.168.37:8000/play/a0dn
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Caracol (Colombia) OPT-2
 #EXTVLCOPT:network-caching=1000
 http://181.78.168.37:8000/play/a0d3
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", RCN (Colombia) 
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", RCN SD (Colombia) 
 #EXTVLCOPT:network-caching=1000
 http://181.78.168.37:8000/play/a0d2
+#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", RCN (Colombia) 
+#EXTVLCOPT:network-caching=1000
+http://181.118.151.218:8000/play/a01c
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Teleamazonas (Ecuador)
 #EXTVLCOPT:network-caching=1000
 http://181.79.87.132:8000/play/a0bw/index.m3u8
@@ -968,6 +977,9 @@ https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u
 #EXTINF:0 tvg-id="RCN HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", RCN HD
 #EXTVLCOPT:network-caching=1000
 http://181.225.190.242:8000/play/a02n
+#EXTINF:0 tvg-id="RCN HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", RCN HD (Respaldo)
+#EXTVLCOPT:network-caching=1000
+http://181.118.151.218:8000/play/a01c
 #EXTINF:0 tvg-id="RCN HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", RCN
 #EXTVLCOPT:network-caching=1000
 http://190.14.238.117:8000/play/a01r/index.m3u8?hls
