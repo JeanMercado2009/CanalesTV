@@ -87,7 +87,7 @@ http://179.60.224.196:8000/play/a0i0
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Tigo Sports (Guatemala)
 #EXTVLCOPT:network-caching=1000
 http://45.171.64.30:2000/play/a08e/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Telefe (Argentina)
+#EXTINF:0 tvg-id="TELEFE.ar" group-title="Copa del Mundo 2026" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png", Telefe (Argentina)
 #EXTVLCOPT:network-caching=1000
 http://181.94.205.55:4022/udp/225.2.2.2:20012
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", TV Pública
@@ -953,9 +953,6 @@ http://138.117.110.151:8000/play/a0gf
 #EXTINF:0 tvg-id="El Tiempo Television.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/ElTiempoTelevision.webp", EL TIEMPO TELEVISIÓN HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.71.71:18000/play/a003
-#EXTINF:0 tvg-id="TELEFE.ar" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png", Telefe SD (Argentina)
-#EXTVLCOPT:network-caching=1000
-http://190.60.44.98:9000/play/a04f
 #EXTINF:0 tvg-id="EWTN.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/EWTN.png", EWTN
 #EXTVLCOPT:network-caching=1000
 http://190.66.23.210:9003/play/a0ec
