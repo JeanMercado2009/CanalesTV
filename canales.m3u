@@ -754,6 +754,9 @@ https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CA
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
 
+#EXTINF:0 group-title="Argentina" tvg-logo="", Canal 3 Formosa | AR
+#EXTVLCOPT:network-caching=1000
+http://200.85.51.158:64333/play/a06k/index.m3u8
 #EXTINF:0 group-title="Argentina" tvg-logo="", Canal 4 Posadas | AR
 #EXTVLCOPT:network-caching=1000
 http://200.85.51.158:64333/play/a06l/index.m3u8
