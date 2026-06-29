@@ -754,6 +754,72 @@ https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CA
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://hfc-tlx-live-atv-cdn.izzigo.tv
 
+#EXTINF:0 group-title="Paraguay" tvg-logo="", A24 Paraguay
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/759422980?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", America Paraguay
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/1000724184?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", C9N
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/1474701132?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", C9N_2
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/1022368405?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", E40 TV HD
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/732456068?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", LA TELE HD
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/1230937058?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", LA TELE MOVIL
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/2009054101?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", MONUMENTAL TV
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/646471194?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", Radio Nacional de Paraguay
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/1201362077?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", Radio Nacional de Paraguay (2)
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/594670628?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", Telefuturo
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/54187571?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", Telefuturo HD
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/1205239446?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", Noticias Paraguay
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/745705168?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", Noticias Paraguay SD
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/1283766803?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", PARAVISION HD
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/712009963?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", PARAVISION
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/586243228?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", RQP_TV
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/73124889?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", SNT
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/942731043?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", TRECE HD
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/654654402?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", TRECE
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/1856289741?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", UNICANAL HD
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/1283878177?profile=pass
+#EXTINF:0 group-title="Paraguay" tvg-logo="", URBANA TV
+#EXTVLCOPT:network-caching=1000
+http://37.230.57.142:9981/stream/channelid/1994765436?profile=pass
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Radio
 #EXTVLCOPT:network-caching=1000
 https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac
