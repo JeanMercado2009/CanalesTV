@@ -275,6 +275,9 @@ https://bpk.startvstream.com/bpk-tv/zu_cartoon/cdn_bpk/index.mpd|User-Agent=Mozi
 http://45.189.62.33:8002/play/a0c0
 #EXTINF:0 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México FHD
 http://38.194.226.190:8000/play/a00e/index.m3u8?hls
+#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Panregional FHD
+#EXTVLCOPT:network-caching=1000
+http://181.118.150.27:8000/play/a032
 #EXTINF:0 tvg-id="Cartoon Network.mx" group-title="México" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network MX (GEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0a8e88e5b5b3eef72f2cb4aae4462f47":"8cf6200e54c309754ed4e99cab5874f6"}
@@ -426,9 +429,6 @@ https://nl.utako.moe/cartoon_network/index.m3u8
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network SAP
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a037
-#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Colombia
-#EXTVLCOPT:network-caching=1000
-http://181.118.150.27:8000/play/a032
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a04b
