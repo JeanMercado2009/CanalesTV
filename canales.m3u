@@ -1154,6 +1154,9 @@ https://mdstrm.com/live-stream-playlist/698a2b858ce046e68628214c.mpd
 http://190.0.247.38:8000/play/a02o
 #EXTINF:-1 group-title="Televisión Abierta" tvg-id="CityTVCarlsbad.us@SD" tvg-logo="https://i.imgur.com/G6h8efT.png", Carlsbad City TV Channel (Carlsbad CA) (720p)
 https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8
+#EXTINF:0 tvg-id="Deportes RCN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Deportes_RCN_logo.png", Deportes RCN (AM)
+#EXTVLCOPT:network-caching=1000
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio/6271a4d5d206c3172f3c9a9c/6a46e1692f8da81f4f52e112/chunks.m3u8?CMCD=cid%3D%226a46e1692f8da81f4f52e112%22%2Cmtp%3D11600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22FVpQjJ0hh0RUzj6SSK1sE4hZJhau6vqn%22&aid=6271a4d5d206c3172f3c9a9c&cP=128000&dnt=true&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ext_pb=0&ot=D76i7mAMzyN0hBNpb3r89w&ote=1783433736103&pid=FVpQjJ0hh0RUzj6SSK1sE4hZJhau6vqn&proto=https&pz=us&ref=www.rcnradio.com&sid=FYdQ2DIZhZ6xOk1D3vG6Hg4BYl89egff&uid=9w9rU82a5UKoyigKWkoXQw6qL5qnxK9M
 #EXTINF:0 tvg-id="Deportes RCN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Deportes_RCN_logo.png", Deportes RCN (Radio)
 #EXTVLCOPT:network-caching=1000
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio/6271a4d5d206c3172f3c9a9c/69a9e92dcc2b7cec9dcad2c3/chunks.m3u8?CMCD=cid%3D%2269a9e92dcc2b7cec9dcad2c3%22%2Cmtp%3D3400%2Cot%3Dm%2Csf%3Dh%2Csid%3D%225QfvHAH8xI5AjjnoeRM1Y8QuuSYFfmTY%22&aid=6271a4d5d206c3172f3c9a9c&c=69384e5f6f09ec23fc00b12e&cP=128000&dnt=true&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ot=-6RMbA7phpjIXRyIc87HRQ&ote=1773540475557&pid=5QfvHAH8xI5AjjnoeRM1Y8QuuSYFfmTY&proto=https&pz=us&ref=www.rcnradio.com&sid=DSTBW4rNrXZPXMkswn6BTKaQzzYazH50&uid=FDMh3wtY2hsUGJh6RJi3yqySnVni5hch
