@@ -1358,6 +1358,9 @@ https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632ceace950b040853a940
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Olimpica_Stereo_2025.webp", OLIMPICA STEREO BOGOTÁ (Internet)
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BOGOTAAAC.aac?dist=oro_web
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Olimpica_Stereo_2025.webp", OLIMPICA STEREO MEDELLÍN (Internet)
+#EXTVLCOPT:network-caching=1000
+https://26683.live.streamtheworld.com/OLP_MEDELLINAAC.aac?dist=oro_web
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Olimpica_Stereo_2025.webp", OLIMPICA STEREO BARRANQUILLA (Internet)
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BARRANQUILLAAAC.aac?dist=oro_web
