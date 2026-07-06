@@ -1376,6 +1376,15 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CALIAAC.aa
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Olimpica_Stereo_2025.webp", OLIMPICA STEREO BUCARAMANGA (Internet)
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BUCARAMANGAAAC.aac?dist=oro_web
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Olimpica_Stereo_2025.webp", OLIMPICA STEREO VILLAVICENCIO (Internet)
+#EXTVLCOPT:network-caching=1000
+https://27423.live.streamtheworld.com/OLP_VILLAVICENCIOAAC.aac?dist=oro_web
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Olimpica_Stereo_2025.webp", OLIMPICA STEREO CÚCUTA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CUCUTAAAC.aac?dist=oro_web
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Olimpica_Stereo_2025.webp", OLIMPICA STEREO CARTAGENA (Internet)
+#EXTVLCOPT:network-caching=1000
+https://26573.live.streamtheworld.com/OLP_CARTAGENAAAC.aac?dist=oro_web
 #EXTINF:-1 tvg-id="LaKalle.co" group-title="Radio" tvg-logo="https://image-registry.avscaracoltv.com/logos/lakalle-lg.png", La Kalle (Ditu)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"70e7235679a24c2d8aa9c115d6e5b534":"e6e65c55b22c66836f2506fbeee85dba"}
