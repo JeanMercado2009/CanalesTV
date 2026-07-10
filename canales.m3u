@@ -1074,6 +1074,26 @@ https://cache01.zapitv.com/live/eds_c2/la1_4k/dash_live_ez/la1_4k.mpd
 #KODIPROP:inputstream.adaptive.license_key={"5b04f8cab6ec450ca1192ca2ebe401dd":"2cc27523867f8a70bf5f9a7bccdd08b7"}
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://cache01.zapitv.com
 https://cache01.zapitv.com/live/eds_c2/la_2/dash_live_ez/la_2.mpd
+#EXTINF:-1 tvg-logo="https://ver.zapitv.com/images/repository/783/2020783-LOGO-m.png" group-title="Televisión Abierta", Antena 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4b0df13e55ea4ea196c2da379ef34be5":"336eacb3a4ec3c35dca11c848b1630ea"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://cache01.zapitv.com
+https://cache01.zapitv.com/live/eds_c2/antena_3/dash_live_ez/antena_3.mpd
+#EXTINF:-1 tvg-logo="https://ver.zapitv.com/images/repository/013/13-LOGO-m.png" group-title="Televisión Abierta", Cuatro
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7d3e3f1b8198490ba7bfff0e123a619c":"6c55ac488ea2ea16826d02a2838b8ba6"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://cache01.zapitv.com
+https://cache01.zapitv.com/live/eds_c2/cuatro/dash_live_ez/cuatro.mpd
+#EXTINF:-1 tvg-logo="https://ver.zapitv.com/images/repository/014/14-LOGO-m.png" group-title="Televisión Abierta", Telecinco
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"25d236b2fd8a47a3b1e6eeca2e288a35":"4d18515ab83ebde113fe16eb885b9a85"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://cache01.zapitv.com
+https://cache06.zapitv.com/live/eds_c2/telecinco/dash_live_ez/telecinco.mpd
+#EXTINF:-1 tvg-logo="https://ver.zapitv.com/images/repository/180/1847180-LOGO-m.png" group-title="Televisión Abierta", La Sexta
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b18078e2d24a43c2bef2acf0ecf92962":"2fe3632c7074c7bbe49611ccc750a571"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://cache01.zapitv.com
+https://cache01.zapitv.com/live/eds_c2/la_sexta/dash_live_ez/la_sexta.mpd
 #EXTINF:0 group-title="Televisión Abierta" tvg-logo="", TL Más SV
 #EXTVLCOPT:network-caching=1000
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
