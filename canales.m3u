@@ -1078,7 +1078,7 @@ https://cache01.zapitv.com/live/eds_c2/la_2/dash_live_ez/la_2.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4b0df13e55ea4ea196c2da379ef34be5":"336eacb3a4ec3c35dca11c848b1630ea"}
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://cache01.zapitv.com
-https://cache01.zapitv.com/live/eds_c2/antena_3/dash_live_ez/antena_3.mpd
+https://cache01.zapitv.com/live/eds_c2/test/dash_live_ez/test.mpd
 #EXTINF:-1 tvg-logo="https://ver.zapitv.com/images/repository/013/13-LOGO-m.png" group-title="Televisión Abierta", Cuatro
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"7d3e3f1b8198490ba7bfff0e123a619c":"6c55ac488ea2ea16826d02a2838b8ba6"}
