@@ -1064,6 +1064,16 @@ http://181.78.71.71:18000/play/a003
 #EXTINF:0 tvg-id="EWTN.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/EWTN.png", EWTN
 #EXTVLCOPT:network-caching=1000
 http://190.66.23.210:9003/play/a0ec
+#EXTINF:-1 tvg-logo="https://ver.zapitv.com/images/repository/950/2295950-LOGO-m.png" group-title="Televisión Abierta", La 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"47cc7264dc314b589e687be2e4d3be59":"f61d992a078161b377909c8bf35c5910"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://cache01.zapitv.com
+https://cache01.zapitv.com/live/eds_c2/la1_4k/dash_live_ez/la1_4k.mpd
+#EXTINF:-1 tvg-logo="https://ver.zapitv.com/images/repository/951/2295951-LOGO-m.png" group-title="Televisión Abierta", La 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5b04f8cab6ec450ca1192ca2ebe401dd":"2cc27523867f8a70bf5f9a7bccdd08b7"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://cache01.zapitv.com
+https://cache01.zapitv.com/live/eds_c2/la_2/dash_live_ez/la_2.mpd
 #EXTINF:0 group-title="Televisión Abierta" tvg-logo="", TL Más SV
 #EXTVLCOPT:network-caching=1000
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
