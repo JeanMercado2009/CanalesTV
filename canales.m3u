@@ -1002,10 +1002,7 @@ http://181.225.190.242:8000/play/a032
 http://181.225.190.242:8000/play/a037
 #EXTINF:0 tvg-id="Telemedellín HD.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/telemedellin.png", TELEMEDELLÍN HD
 #EXTVLCOPT:network-caching=1000
-http://190.0.247.38:8000/play/a008
-#EXTINF:0 tvg-id="Telemedellín.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/telemedellin.png", TELEMEDELLÍN HD (60fps)
-#EXTVLCOPT:network-caching=1000
-http://181.79.84.66:8000/play/a01y
+
 #EXTINF:-1 tvg-id="Telecaribe.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TelecaribeCol2025white.webp", TELECARIBE HD (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0ee0b5203a8866b61e003cd69646385a":"aa36de9d7d5f398ec9c1abfed42cb0fc"}
@@ -1019,9 +1016,6 @@ http://190.66.23.210:9003/play/a0ev
 #EXTINF:0 tvg-id="Telecaribe.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TelecaribeCol2025white.webp", TELECARIBE FHD
 #EXTVLCOPT:network-caching=1000
 http://190.60.48.149:8000/play/TELECARIBE
-#EXTINF:0 group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TelecaribePlus2023.webp", TELECARIBE PLUS
-#EXTVLCOPT:network-caching=1000
-http://190.66.23.210:9003/play/a0ab
 #EXTINF:-1 tvg-id="Telecafe.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/telecafe-lam.png", TELECAFE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3b6f759448b8de6dbfbb76cd1af43f2b":"6c752fd914d25929660a8110b7305a62"}
@@ -1449,9 +1443,6 @@ http://181.118.158.103:8000/play/a01f
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/LaKalle-logotentativo.webp", LA KALLE (Internet)
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_KALLE_ADP.aac?dist= blu_web
-#EXTINF:0 tvg-id="Canal 1.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/CanalUnoColombia2025redslogan.svg/revision/latest/scale-to-width-down/160?cb=20250320234626&path-prefix=es", CANAL 1
-#EXTVLCOPT:network-caching=1000
-http://181.78.12.164:9000/play/a077
 #EXTINF:0 tvg-id="Canal 1.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/CanalUnoColombia2025redslogan.svg/revision/latest/scale-to-width-down/160?cb=20250320234626&path-prefix=es", CANAL 1 HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.48.149:8000/play/CANAL1
