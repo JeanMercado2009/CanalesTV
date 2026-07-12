@@ -275,6 +275,8 @@ https://bpk.startvstream.com/bpk-tv/zu_cartoon/cdn_bpk/index.mpd|User-Agent=Mozi
 http://45.189.62.33:8002/play/a0c0
 #EXTINF:0 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México FHD
 http://38.194.226.190:8000/play/a00e/index.m3u8?hls
+#EXTINF:0 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network FLUSONIC PAN
+http://186.0.248.62:9091/Cartoon_Network/index.m3u8
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Panregional FHD
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a032
@@ -458,6 +460,9 @@ http://86.152.19.137:5000/api/1u1/live/cartoon_network_de.m3u8?code=sTgYOw6NpN5n
 #EXTINF:0 group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Cartoons
 #EXTVLCOPT:network-caching=1000
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
+#EXTINF:24 tvg-id="Cartoon Network (East).us" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/misc/vod/cartoon-network-adult-swim-vod-us.png", CN / Adult Swim (USA)
+#EXTVLCOPT:network-caching=1000
+http://40.160.24.52/CARTOON_NETWORK_EAST/index.m3u8
 #EXTINF:24 tvg-id="Cartoon Network (East).us" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/misc/vod/cartoon-network-adult-swim-vod-us.png", CN / Adult Swim (USA)
 #EXTVLCOPT:network-caching=1000
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
