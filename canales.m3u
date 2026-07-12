@@ -1002,7 +1002,7 @@ http://181.225.190.242:8000/play/a032
 http://181.225.190.242:8000/play/a037
 #EXTINF:0 tvg-id="Telemedellín HD.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/telemedellin.png", TELEMEDELLÍN HD
 #EXTVLCOPT:network-caching=1000
-
+http://cablelibretv.freeddns.org/PlaySiloh/index/72
 #EXTINF:-1 tvg-id="Telecaribe.co" group-title="Televisión Regional" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/TelecaribeCol2025white.webp", TELECARIBE HD (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0ee0b5203a8866b61e003cd69646385a":"aa36de9d7d5f398ec9c1abfed42cb0fc"}
