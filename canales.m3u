@@ -1851,6 +1851,10 @@ http://45.189.62.33:8002/play/a08v
 #EXTINF:0 tvg-id="Sony.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel SD (México)
 #EXTVLCOPT:network-caching=1000
 http://45.189.62.33:8002/play/a0aj
+#EXTINF:-1 tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/SONYNGVPLUS500x500px(6).png" group-title="Películas y Series", Sony Channel (México)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+http://147.78.1.28/xview/sony_cln_hd.mpd
 #EXTINF:0 tvg-id="Sony.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel (Panregional)
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9081,11 +9085,6 @@ http://147.78.1.28/xview/smrtv_zpu_mor_hd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2eb5e5ace2e945a09f333c7297158fc6:1df728fffefd542ebe2e55019c2d7336
 http://147.78.1.28/xview/smrtv_zra_hd.mpd
-
-#EXTINF:-1 tvg-id="xv-SONYHDCUL.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/SONYNGVPLUS500x500px(6).png" group-title="SERIES Y PELICULAS • Xview",SONY HD CUL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-http://147.78.1.28/xview/sony_cln_hd.mpd
 
 #EXTINF:-1 tvg-id="xv-SONYHDCOB.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/SONYNGVPLUS500x500px(42).png" group-title="SERIES Y PELICULAS • Xview",SONY HD COB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
