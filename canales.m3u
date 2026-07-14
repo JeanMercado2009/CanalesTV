@@ -1851,12 +1851,11 @@ http://45.189.62.33:8002/play/a08v
 #EXTINF:0 tvg-id="Sony.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel SD (México)
 #EXTVLCOPT:network-caching=1000
 http://45.189.62.33:8002/play/a0aj
-#EXTINF:0 tvg-id="Sony.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel (Andes)
+#EXTINF:0 tvg-id="Sony.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel (Panregional)
 #EXTVLCOPT:network-caching=1000
-http://170.239.205.81:30000/play/a011
-#EXTINF:0 tvg-id="Sony.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel (Colombia)
-#EXTVLCOPT:network-caching=1000
-http://181.78.21.174:8015/play/a04j
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c8f127c030074b198c6563bb5ec68618":"a3d734fdc626cd7774b3cd4a9bef801e"}
+https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(SONY_HD)/manifest.mpd
 #EXTINF:0 tvg-id="HBO PLUS.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-plus-lam.png", HBO + HD
 #EXTVLCOPT:network-caching=1000
 http://38.252.238.18:8000/play/a056
