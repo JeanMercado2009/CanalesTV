@@ -1,0 +1,512 @@
+{
+  "CITY_TV_HD": {
+    "name": "CITY_TV_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CITY_TV_HD)/manifest.mpd",
+    "key": "d3a1209698e94fbca25e3da00f7b8658:830d263b15561347a8e728360b9cd0ea"
+  },
+  "TELEMUNDO_HD": {
+    "name": "TELEMUNDO_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TELEMUNDO_HD)/manifest.mpd",
+    "key": "d053f02c38104c07bc4b7941a70ed120:30ab3e381f7e398a447ac7346cdecd4d"
+  },
+  "ACTV": {
+    "name": "ACTV",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(ACTV)/manifest.mpd",
+    "key": "d2d5b1bc4c624b0cbc1b9bebe921709f:251ff22ea9a0288e449a5feee46581cd"
+  },
+  "UNIVERSAL_CHANNEL_HD": {
+    "name": "UNIVERSAL_CHANNEL_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(UNIVERSAL_CHANNEL_HD)/manifest.mpd",
+    "key": "d2ea1930f35644f1ae057014c544e8ef:6ae5cc6a362ce6759f83eb95ec9fe43b"
+  },
+  "ESPN_6_HD": {
+    "name": "ESPN_6_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(ESPN_6_HD)/manifest.mpd",
+    "key": "d60cf17ed86f4d6b97ba2a31ae69558e:b8bebf2f1d1deb99f449e6b818a8874a"
+  },
+  "CONCERT_CHANNEL_HD": {
+    "name": "CONCERT_CHANNEL_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CONCERT_CHANNEL_HD)/manifest.mpd",
+    "key": "da8927a56c58400f9d54fe5ed343b622:149f08f0d365340c87d469866a6d0e88"
+  },
+  "COSMOVISION": {
+    "name": "COSMOVISION",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(COSMOVISION)/manifest.mpd",
+    "key": "dc7f942d19694af3aa0683edfc2b5f35:fbee9bfc8596600a5b2bc9b12eacdafd"
+  },
+  "GOLDEN_HD": {
+    "name": "GOLDEN_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(GOLDEN_HD)/manifest.mpd",
+    "key": "dc7f0a2ab3cd490d96754417b5e933c3:ebd6c005da6237f8c153c5b6c68a1fd1"
+  },
+  "GOURMET_HD": {
+    "name": "GOURMET_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(GOURMET_HD)/manifest.mpd",
+    "key": "dc838563daf144b8ac676a954a70c547:fd0c5e11b2d85c401e7b85f66d0e0d90"
+  },
+  "PARAMOUNT_HD": {
+    "name": "PARAMOUNT_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(PARAMOUNT_HD)/manifest.mpd",
+    "key": "e0294c4cf1c749308583e35c1de9e56b:c3ab16d00c0a15b32ea8cd284f033171"
+  },
+  "FX_HD": {
+    "name": "FX_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(FX_HD)/manifest.mpd",
+    "key": "e203288aaefe40ccb6ecca0cc615befc:467097a2bd1c52c7d1aa37c6ded9aef2"
+  },
+  "MASCHIC_HD": {
+    "name": "MASCHIC_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(MASCHIC_HD)/manifest.mpd",
+    "key": "e88d9947ea4f4f7fb87acef76c6bd050:2a20894563b749b8cedd1ee749bc2403"
+  },
+  "WINSPORTS_HD": {
+    "name": "WINSPORTS_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(WINSPORTS_HD)/manifest.mpd",
+    "key": "e9642526f018477cb5013ef5017913f9:ee0c7d58101c59e8e895ed6bd011110d"
+  },
+  "TIEMPO_TV": {
+    "name": "TIEMPO_TV",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TIEMPO_TV)/manifest.mpd",
+    "key": "efbd9e82eb0d4b2ea14ecd651af65038:15f324fbc3d26a6d0d747dafd8ceb7a6"
+  },
+  "CANALCAPITAL_HD": {
+    "name": "CANALCAPITAL_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CANALCAPITAL_HD)/manifest.mpd",
+    "key": "f792087a97684c4891d358ba116a5646:44ccc6f7c5bebfd2980dcac838d6525b"
+  },
+  "WARNER_HD": {
+    "name": "WARNER_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(WARNER_HD)/manifest.mpd",
+    "key": "f45e853a8cdf4de8844173f4e5d686b6:9677644cad491ad952d3b17c4d25fef1"
+  },
+  "DISCOVERY_KIDS_HD": {
+    "name": "DISCOVERY_KIDS_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(DISCOVERY_KIDS_HD)/manifest.mpd",
+    "key": "003546e26f6249fba9f29b051803ab8b:200c00fdc5af09bbafc85efae60e9c69"
+  },
+  "CLARO_SPORTS_LATAM_HD": {
+    "name": "CLARO_SPORTS_LATAM_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd",
+    "key": "04b558fdb899444a8f405fbd07fa8c73:5129e2d20c58caafa03106d329ceaf82"
+  },
+  "TOONCAST": {
+    "name": "TOONCAST",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TOONCAST)/manifest.mpd",
+    "key": "09c5e580f8254da4a05592c5635d6a84:fff2e9ed3e62de99a58421f07ff7b27b"
+  },
+  "CINEMAX_HD": {
+    "name": "CINEMAX_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CINEMAX_HD)/manifest.mpd",
+    "key": "0a3245f5efcb4109abf3861c71a66d84:5b8661c8c06fdc44c1d5d33201d42682"
+  },
+  "TELEISLASHD": {
+    "name": "TELEISLASHD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TELEISLASHD)/manifest.mpd",
+    "key": "0aa7e71bdc91449986eb5f8712cc53bb:6e1d1ad42516643e25ad144220913533"
+  },
+  "CLARO_CINEMA": {
+    "name": "CLARO_CINEMA",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CLARO_CINEMA)/manifest.mpd",
+    "key": "0fd1ec82a75449d39e79ebc8a321007c:905cefa7730eed2915f56b6b7b0f1373"
+  },
+  "CRISTOVISION": {
+    "name": "CRISTOVISION",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CRISTOVISION)/manifest.mpd",
+    "key": "13b2c02b0bef4cfeb00e1b0b09ffd060:00176d38131f82f9f1d0393fb2831f48"
+  },
+  "CLAROMUSICATV_HD": {
+    "name": "CLAROMUSICATV_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CLAROMUSICATV_HD)/manifest.mpd",
+    "key": "10bbf092f35b418ea8722b0f7bf297c4:5d789ffd8ef0ad56182f0f7e8a83df61"
+  },
+  "PASIONES_HD": {
+    "name": "PASIONES_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(PASIONES_HD)/manifest.mpd",
+    "key": "1bc74117432045f29ef6d23f3ae8632f:89b007c2959350d9a1f768d8f49ae558"
+  },
+  "REDMASHD": {
+    "name": "REDMASHD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(REDMASHD)/manifest.mpd",
+    "key": "188ebdccc0bb4c468d3054e882821410:c7f8e8e811466241a1a4713fe95a10f2"
+  },
+  "SENAL_INSTITUCIONAL_HD": {
+    "name": "SENAL_INSTITUCIONAL_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(SENAL_INSTITUCIONAL_HD)/manifest.mpd",
+    "key": "18e4abed994c4da783379bfe6dbc3664:2212dedc550923961a13e54b1fcf0b5f"
+  },
+  "NICKTOONS": {
+    "name": "NICKTOONS",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(NICKTOONS)/manifest.mpd",
+    "key": "1d7f49e62be74f7791c72d1dbc49bdb4:a1d579f584f4bc3b7cc7b4f2f51ab6d2"
+  },
+  "BOOMERANG_HD": {
+    "name": "BOOMERANG_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(BOOMERANG_HD)/manifest.mpd",
+    "key": "1eb4e06b93c8409cbbe44f3319bb0984:ea11715a6dd9d820e0e8ec2fe4c3b447"
+  },
+  "ESPN_4_HD": {
+    "name": "ESPN_4_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(ESPN_4_HD)/manifest.mpd",
+    "key": "22bcf29ed5cd4e18ad776f60654e5f9f:c75fea20e4e2889df8b1b9542b6ffd49"
+  },
+  "TELECAFE_HD": {
+    "name": "TELECAFE_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TELECAFE_HD)/manifest.mpd",
+    "key": "268c8381b28b4f4d90ac95b835545347:ec7bbe037969b1adc5c25e17a2bfe10a"
+  },
+  "EUREKA": {
+    "name": "EUREKA",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(EUREKA)/manifest.mpd",
+    "key": "32fd8fe94eea4a6d86cc3c97a1d33e41:69f08808d1ba829cac704cc30ce5d063"
+  },
+  "TRO_HD": {
+    "name": "TRO_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TRO_HD)/manifest.mpd",
+    "key": "3420c6c684cf4fda911dd2c925f4eaed:6bca8092be12f9191f408187efc2f365"
+  },
+  "DISNEYJR_HD": {
+    "name": "DISNEYJR_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(DISNEYJR_HD)/manifest.mpd",
+    "key": "35de7db4f98a4980939c90e9bfe4db1b:011b6945fd70112308e3ac389a208ea8"
+  },
+  "UNIFE": {
+    "name": "UNIFE",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(UNIFE)/manifest.mpd",
+    "key": "362144d50d08442281878224bbf4e694:ad79de99f71850c0d0460735344ade66"
+  },
+  "DISNEY_HD": {
+    "name": "DISNEY_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(DISNEY_HD)/manifest.mpd",
+    "key": "38e4ad1220ec4a1e8f5986b306cac4d6:e898838bbddae20e3a3af2d99f45e51e"
+  },
+  "ESPN_7_HD": {
+    "name": "ESPN_7_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(ESPN_7_HD)/manifest.mpd",
+    "key": "3c8982c620e041f182650d961d26f4cc:1982194c48776892a9712d205869ec61"
+  },
+  "ESPN_HD": {
+    "name": "ESPN_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(ESPN_HD)/manifest.mpd",
+    "key": "4382bcad3d01459c90149699e0b5d94c:f2ea295f6210b86f782f44c5d8dd2660"
+  },
+  "TV_AGRO_HD": {
+    "name": "TV_AGRO_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TV_AGRO_HD)/manifest.mpd",
+    "key": "43938635207b4110a89bf04da9aecaea:4a702fcd3e4298278b3f265fbf4077f6"
+  },
+  "VH1_HD": {
+    "name": "VH1_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(VH1_HD)/manifest.mpd",
+    "key": "4233fa243f26401fa071339742e5d272:7b6e63f7619081e6777eb55908c173eb"
+  },
+  "SENAL_COLOMBIA_HD": {
+    "name": "SENAL_COLOMBIA_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(SENAL_COLOMBIA_HD)/manifest.mpd",
+    "key": "426ca7bd8a6749a38ddbefc19b0f10d2:d950db868f754d993092deb7110dc92c"
+  },
+  "EWTN": {
+    "name": "EWTN",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(EWTN)/manifest.mpd",
+    "key": "45c4a17762a44cc7b30429f29193b07a:69a20545ecbcdc2eb7e8e5dfa5da1eb4"
+  },
+  "BABYTV": {
+    "name": "BABYTV",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(BABYTV)/manifest.mpd",
+    "key": "4b95d87648cc4878a252e85eba46d43f:dfe323431edf4380c5418db7cfda4ca9"
+  },
+  "HISTORY_CHANNEL_HD": {
+    "name": "HISTORY_CHANNEL_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(HISTORY_CHANNEL_HD)/manifest.mpd",
+    "key": "49984ab2d21744299d670367b7e8269b:5a95de03f49ba0f764a24730d68f7bfb"
+  },
+  "CABLENOTICIAS_HD": {
+    "name": "CABLENOTICIAS_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CABLENOTICIAS_HD)/manifest.mpd",
+    "key": "4a877410b0a549afb9a4d4215a066c8e:a0a156b9f7472fe23604c6c145151a6c"
+  },
+  "TVFAMILIA": {
+    "name": "TVFAMILIA",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TVFAMILIA)/manifest.mpd",
+    "key": "4f9a59a1b22e4d26b3c8ee505d9b49bd:4c9c8e6e695ab8095c3a189566c73d96"
+  },
+  "DATA_IFX": {
+    "name": "DATA_IFX",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(DATA_IFX)/manifest.mpd",
+    "key": "4e39e0031f374f4a9286326139268d8a:136bbff2624665306dd5f32fc93028b3"
+  },
+  "ZOOM": {
+    "name": "ZOOM",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(ZOOM)/manifest.mpd",
+    "key": "4f2a9247240644cb885067c50bc9321b:8be0c9adb8ebf7fe2280e27c21c4a009"
+  },
+  "CANAL_CLARO_HD": {
+    "name": "CANAL_CLARO_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CANAL_CLARO_HD)/manifest.mpd",
+    "key": "53435b9cdf6e477186b81aa09007cb0b:e800e0d6eb497c84f0b0c2191df10632"
+  },
+  "TNT_SERIES_HD": {
+    "name": "TNT_SERIES_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TNT_SERIES_HD)/manifest.mpd",
+    "key": "539022b840c5474ea52e441aaca724a9:004496c72ae76fe04ab4d090f17d11cd"
+  },
+  "EL_SEMBRADOR": {
+    "name": "EL_SEMBRADOR",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(EL_SEMBRADOR)/manifest.mpd",
+    "key": "5dea97f184734be98554bd41a037a06b:c6581822dd42c6dc002aa983e69b1b27"
+  },
+  "DISCOVERY_CHANNEL_HD": {
+    "name": "DISCOVERY_CHANNEL_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(DISCOVERY_CHANNEL_HD)/manifest.mpd",
+    "key": "603660e52ac44c36a29f28bf8a17fc4f:e7862ce5fdbc9f23c64a4e705baacdc6"
+  },
+  "SPACE_HD": {
+    "name": "SPACE_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(SPACE_HD)/manifest.mpd",
+    "key": "649dda2e30164c16b38cbc7f0d8388dc:17254cb0b04e5ff390dd5d5516be08dd"
+  },
+  "MTV_HITS": {
+    "name": "MTV_HITS",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(MTV_HITS)/manifest.mpd",
+    "key": "69cfa2970ed04934b9e1dafce4042326:2480a050711968254d57213ca836c422"
+  },
+  "AMC_HD": {
+    "name": "AMC_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(AMC_HD)/manifest.mpd",
+    "key": "69ee9cd00b5645f986de89a94d40c536:949386da92d9e9c49f81eb880bf071a0"
+  },
+  "MULTIPREMIER": {
+    "name": "MULTIPREMIER",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(MULTIPREMIER)/manifest.mpd",
+    "key": "6b08c4d054634b518d5173b3640d87eb:283d76b6b7f6996ef67ad42f6af2f2a6"
+  },
+  "CINELATINO": {
+    "name": "CINELATINO",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CINELATINO)/manifest.mpd",
+    "key": "7f952eaa4cb44f958adf25c731859728:a281722af7592c20978eb10b671605a3"
+  },
+  "VEPLUSTV_HD": {
+    "name": "VEPLUSTV_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(VEPLUSTV_HD)/manifest.mpd",
+    "key": "7dc773268a67418cb14428da9ee529e4:9bca0cf7160640eaf7d8a4b75c617f25"
+  },
+  "CINECANAL_HD": {
+    "name": "CINECANAL_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CINECANAL_HD)/manifest.mpd",
+    "key": "7e80dca942bd483da239110157d3ac60:3ba783feca2b71f279d2079d71ef7e7d"
+  },
+  "TELECARIBE_HD": {
+    "name": "TELECARIBE_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TELECARIBE_HD)/manifest.mpd",
+    "key": "82f50ae23d5d4677b014eba0ff744d7e:e46bb8c0e7c6fc6daa57a42adf76f3df"
+  },
+  "E_HD": {
+    "name": "E_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(E_HD)/manifest.mpd",
+    "key": "86953b9f210045fa8eb24a80a6e89f0b:6ba84f1d3ed8c88a4a0d252c067d1646"
+  },
+  "STUDIO_UNIVERSAL_HD": {
+    "name": "STUDIO_UNIVERSAL_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(STUDIO_UNIVERSAL_HD)/manifest.mpd",
+    "key": "922c37a657534d79ad72829089f30baa:7feafb1e3fe4b86a05455a40889b9a95"
+  },
+  "SALUD_HD": {
+    "name": "SALUD_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(SALUD_HD)/manifest.mpd",
+    "key": "924e9ca569644ca3a0d33cd405900717:487c5f88a9a83712aa43ca5642a2beee"
+  },
+  "CLARO_SPORTS_COL_HD": {
+    "name": "CLARO_SPORTS_COL_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CLARO_SPORTS_COL_HD)/manifest.mpd",
+    "key": "946a35e38a7b4ef5ba7bf7e25a050076:d4a12523145427e88754d5fba73dee6d"
+  },
+  "ESPN_3_HD": {
+    "name": "ESPN_3_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(ESPN_3_HD)/manifest.mpd",
+    "key": "952d025a1b8c4d2f91be5d259a932f07:8c9e5bb6d4f71c595e7b09ab1ae76ff5"
+  },
+  "RADIOLA_HD": {
+    "name": "RADIOLA_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(RADIOLA_HD)/manifest.mpd",
+    "key": "997172d5eff945b0a46aff96a1e58700:298402984bd4e269847ae522de0318f5"
+  },
+  "DISCOVERY_TURBO_HD": {
+    "name": "DISCOVERY_TURBO_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(DISCOVERY_TURBO_HD)/manifest.mpd",
+    "key": "9a6259fc5b534e4fba1d84671c3a91ab:7f4340b841bc3309b603959d75af408d"
+  },
+  "DISCOVERY_HOME_HEALTH_HD": {
+    "name": "DISCOVERY_HOME_HEALTH_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/manifest.mpd",
+    "key": "9d9827db2ddd4c2a9a037c65bd5dfc91:47a1d0640bd467ab74e6b493b6ceb371"
+  },
+  "TELEANTIOQUIA_HD": {
+    "name": "TELEANTIOQUIA_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TELEANTIOQUIA_HD)/manifest.mpd",
+    "key": "9e48579b5ae040af8579293dabc463ba:1d36a5c97586cdac54dfac8c00fbe851"
+  },
+  "CARTOON_NETWORK_HD": {
+    "name": "CARTOON_NETWORK_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CARTOON_NETWORK_HD)/manifest.mpd",
+    "key": "9ef7fcfc0c1345cb910bdc05edbc93bd:81dd0ea1e029c65ae67bb1d7a6a8ea05"
+  },
+  "TELEPACIFICO_HD": {
+    "name": "TELEPACIFICO_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TELEPACIFICO_HD)/manifest.mpd",
+    "key": "a5255a29cef64cf994ed68b3972bda89:507bc4fd3f9a237d7b0a938d7b9b62d2"
+  },
+  "NATGEO_HD": {
+    "name": "NATGEO_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(NATGEO_HD)/manifest.mpd",
+    "key": "a66568d47a0744f9971d0d184b220c47:5f67270437f32a3e3548021a637cd17f"
+  },
+  "ENLACE": {
+    "name": "ENLACE",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(ENLACE)/manifest.mpd",
+    "key": "a8102b91c8bb488198b6a6ad7fd4d6f5:d813a08f0df475815f6306d013f284d9"
+  },
+  "ID_HD": {
+    "name": "ID_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(ID_HD)/manifest.mpd",
+    "key": "aac477c2f8b34f63a7c4e8bebabee1ec:05da48b2f0b074df1f66798f0ba85382"
+  },
+  "CONGRESO_HD": {
+    "name": "CONGRESO_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CONGRESO_HD)/manifest.mpd",
+    "key": "af4fb2159ef44279bee349b3d30ba0b1:a51b0c1def3cd164f5a2b152670439a1"
+  },
+  "TRECE_HD": {
+    "name": "TRECE_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TRECE_HD)/manifest.mpd",
+    "key": "ac0a199ce1804b7aaea1eb11b6a97cf9:e82ec475f5b83df71a89cb786492e327"
+  },
+  "ESPN_5_HD": {
+    "name": "ESPN_5_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(ESPN_5_HD)/manifest.mpd",
+    "key": "addfbed7779c4755b85450f6bc58df7f:9355b7d6af3050400395a95310c49f3a"
+  },
+  "AZMUNDO_HD": {
+    "name": "AZMUNDO_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(AZMUNDO_HD)/manifest.mpd",
+    "key": "b29759cca1c84bae8d5fedf25dee4c83:38bda484b9763e670a529b14427645b7"
+  },
+  "K_MUSIC": {
+    "name": "K_MUSIC",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(K_MUSIC)/manifest.mpd",
+    "key": "b9eaffc8ff9b4186af26c241faa8cc43:a9aab1935f663e581626420b22180721"
+  },
+  "CANAL_UNO_HD": {
+    "name": "CANAL_UNO_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CANAL_UNO_HD)/manifest.mpd",
+    "key": "bf9322662bee4d95940c24782fa5b1a8:df85ab50899c7be56dc775d653eb44bc"
+  },
+  "TNT_HD": {
+    "name": "TNT_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TNT_HD)/manifest.mpd",
+    "key": "c46b19c384074e889aacb9ef6c9843c1:375fde001640865c96990dace5ac3ee5"
+  },
+  "NTN24": {
+    "name": "NTN24",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(NTN24)/manifest.mpd",
+    "key": "c565ff6eb0d547e1bc0daf064bb864cd:f13d6e25683a25c2f4a03d7931942f51"
+  },
+  "TLNOVELAS": {
+    "name": "TLNOVELAS",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TLNOVELAS)/manifest.mpd",
+    "key": "c5e0a3c20bd64d2a89cd98b7ef95a9f4:78985aba9c3a1de86e54cad9deeeb945"
+  },
+  "SONY_HD": {
+    "name": "SONY_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(SONY_HD)/manifest.mpd",
+    "key": "c8f127c030074b198c6563bb5ec68618:a3d734fdc626cd7774b3cd4a9bef801e"
+  },
+  "ESPN_2_HD": {
+    "name": "ESPN_2_HD",
+    "logo": "",
+    "playbackUrl": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(ESPN_2_HD)/manifest.mpd",
+    "key": "ce6fd101983a41aca5d2d38e81505e28:4932e0088bb66a51b519613e586517a5"
+  }
+}
