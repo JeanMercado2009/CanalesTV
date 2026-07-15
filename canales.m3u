@@ -241,15 +241,12 @@ http://190.60.41.107:8008/play/a0k2
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network LA Astra
 #EXTVLCOPT:network-caching=1000
 http://190.60.41.107:8008/play/a0k2/index.m3u8
-#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Panregional (EX-ARG)
-#EXTVLCOPT:network-caching=1000
-http://45.5.151.62:8000/play/a00v/index.m3u8
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Panregional
 #EXTVLCOPT:network-caching=1000
 http://8.243.126.131:8000/play/a0f2
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Panregional HD
 #EXTVLCOPT:network-caching=1000
-http://179.60.224.196:8000/play/a0hn
+http://179.60.224.196:8000/play/a0hn/index.m3u8
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Panregional HD2
 #EXTVLCOPT:network-caching=1000
 http://138.59.227.20:8000/play/a083
