@@ -1,26 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/JeanMercado2009/Grillas-de-Cartoon-Network/refs/heads/main/CNLA_PAN.xml,https://www.open-epg.com/files/bulgaria1.xml,https://www.open-epg.com/files/colombia1.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina5.xml,https://www.open-epg.com/files/argentina6.xml,https://www.open-epg.com/files/argentina7.xml,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/venezuela1.xml,https://www.open-epg.com/files/unitedstates1.xml,https://www.open-epg.com/files/unitedstates2.xml,https://www.open-epg.com/files/unitedstates3.xml,https://www.open-epg.com/files/unitedstates4.xml,https://www.open-epg.com/files/unitedstates6.xml,https://www.open-epg.com/files/unitedstates7.xml,https://www.open-epg.com/files/unitedstates8.xml,https://www.open-epg.com/files/unitedstates9.xml,https://www.open-epg.com/files/unitedstates10.xml,https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil2.xml,https://www.open-epg.com/files/brazil3.xml,https://www.open-epg.com/files/brazil4.xml,https://www.open-epg.com/files/brazil5.xml,https://www.open-epg.com/files/chile1.xml,https://www.open-epg.com/files/chile2.xml,https://www.open-epg.com/files/spain1.xml,https://www.open-epg.com/files/spain2.xml,https://www.open-epg.com/files/spain3.xml,https://www.open-epg.com/files/italy1.xml,https://www.open-epg.com/files/peru1.xml,https://www.open-epg.com/files/canada5.xml,https://raw.githubusercontent.com/JeanMercado2009/rcnradio-epg/refs/heads/main/rcnradiobogota_epg.xml"
 
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", ESPN Argentina
-#EXTVLCOPT:network-caching=1000
-http://181.94.205.55:4022/udp/225.2.2.2:20018
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", ESPN 2 Argentina
-#EXTVLCOPT:network-caching=1000
-http://181.94.205.55:4022/udp/225.2.2.1:10019
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", ESPN 3 Argentina
-#EXTVLCOPT:network-caching=1000
-http://181.94.205.55:4022/udp/225.2.2.2:20020
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", ESPN 4 Argentina
-#EXTVLCOPT:network-caching=1000
-http://181.94.205.55:4022/udp/225.2.2.2:20021
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Fox Sports Argentina
-#EXTVLCOPT:network-caching=1000
-http://181.94.205.55:4022/udp/225.2.2.2:20022
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Fox Sports 2 Argentina
-#EXTVLCOPT:network-caching=1000
-http://181.94.205.55:4022/udp/225.2.2.2:20023
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Fox Sports 3 Argentina
-#EXTVLCOPT:network-caching=1000
-http://181.94.205.55:4022/udp/225.2.2.2:20024
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", UNITEL (Bolivia)
 #EXTVLCOPT:network-caching=1000
 http://200.59.191.177:8000/play/a0md
@@ -98,7 +77,7 @@ http://179.60.224.196:8000/play/a0i0
 http://45.171.64.30:2000/play/a08e/index.m3u8
 #EXTINF:0 tvg-id="TELEFE.ar" group-title="Copa del Mundo 2026" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png", Telefe (Argentina)
 #EXTVLCOPT:network-caching=1000
-http://181.94.205.55:4022/udp/225.2.2.2:20012
+
 #EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", TV Pública
 #EXTVLCOPT:network-caching=1000
 http://190.7.19.197:232/play/a03c
