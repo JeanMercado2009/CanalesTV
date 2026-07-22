@@ -217,8 +217,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Latino
 #EXTVLCOPT:network-caching=1000
 http://138.59.227.20:8000/play/a083
-#EXTINF:0 tvg-id="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México FHD
-http://38.194.226.190:8000/play/a00e/index.m3u8?hls
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network LA
 #EXTVLCOPT:network-caching=1000
 http://190.60.41.107:8008/play/a0k2
