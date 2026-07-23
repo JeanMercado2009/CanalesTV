@@ -212,7 +212,7 @@ http://186.0.248.62:9091/Cartoon_Network/index.m3u8
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Panregional FHD
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a032
-#EXTINF:0 tvg-id="DiSNEY.mx" group-title="México" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/571/CH_LOGO/160/160/0/0/206471920719234.png", Disney Channel MX (GEO)
+#EXTINF:0 tvg-id="DiSNEY.mx" group-title="México" tvg-logo="https://spotlight-co.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F26%2F22261223_9FFF9808C0DC737C.png", Disney Channel MX (GEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4f4ee39dd29073dbefb37d604f1c6a9a":"5fa8a9df75dd5c7af69bb8c65052b8ae"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://dish.akamaized.net
