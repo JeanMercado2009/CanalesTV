@@ -861,13 +861,7 @@ https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CL
 http://181.78.192.238:8000/play/a2dk
 #EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol HD
 #EXTVLCOPT:network-caching=1000
-http://190.61.40.187:45000/play/a024
-#EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol H264
-#EXTVLCOPT:network-caching=1000
-http://181.78.20.77:18000/play/a03e
-#EXTINF:0 tvg-id="Win+Futbol.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-mas-futbol-2024.webp", Win+Fútbol HDMI
-#EXTVLCOPT:network-caching=1000
-http://191.97.6.30:8000/play/a0ic
+http://209.14.98.46:8000/play/a0vo/index.m3u8
 #EXTINF:0 tvg-id="Win Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports MPD
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
