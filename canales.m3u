@@ -509,10 +509,6 @@ http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f047ea1abdca6f03117454c4de0b6d5b":"b038c8c8f114c568956d428e80ae38d7"}
 
-#EXTINF:-1 tvg-id="DISNEY.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel HD (Canada)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11111111111111118111000000000000":"a0508b287ec25e33222865bc87867cfe"}
-https://lott2-web-opus.cdn.avp.telus.net/232006003116/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 #EXTINF:0 tvg-id="Disney Junior.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-jr-lam.png", Disney Jr. (Norte)
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a01l
@@ -591,7 +587,7 @@ https://mdstrm.com/live-stream-playlist/6972d06ca89c470e42e978bf.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://d2cse06nex8rlj.cloudfront.net
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://d2cse06nex8rlj.cloudfront.net
 #EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-69690ca84be91a143f1c285d.png?c=20260627" group-title="Variedades",Negocios Ditu
-https://d2cse06nex8rlj.cloudfront.net/live-stream-dai/69690ca84be91a143f1c285d/f5e1887d2f744936a7661cafc60c0aa7/d97743de3620a865848fff7a9de14dda1bf2409d/session/6eca71ad-a760-424a-baff-4eb842b9e23a/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=8SO6GTE3XrKire1EaHldxDSx92mMv8pWWw1gpGgIEHSCuKkGcCU3a0GZc1VNOxCEzkVBl08kH60&uid=58fTPf63bItMYKHOzUOZmGHNC8gCvVYN&sid=jtU49rWauZ5c9b6MpelQKpd6KdOWrWIG&pid=s8KpwL3nmi0aY4L0NMxtis3GYvdC4bHE&c=6a2186c877abe5e39e6d86e4&ref=ditu.caracoltv.com&ext_pb=0&es=d2cse06nex8rlj.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080
+https://d2cse06nex8rlj.cloudfront.net/live-stream-dai/69690ca84be91a143f1c285d/f5e1887d2f744936a7661cafc60c0aa7/d97743de3620a865848fff7a9de14dda1bf2409d/session/1c7a52ff-2463-4115-b9c1-43e49867573d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=YZX7ryei9ITWelxD9rFW8ZdnMpEFRgWNvvbIGwXNtWLCqurQeYDtONxoZK8Kap6DLuPzYbm2YJT&uid=9w9rU82a5UKoyigKWkoXQw6qL5qnxK9M&sid=Gtiyter0ydnfmNHIMcHduJ3rpZ39z5fa&pid=sJXxfdBk3lGk25jA7eNwN0JKJOiqkuYb&c=6a2186c877abe5e39e6d86e4&ref=ditu.caracoltv.com&ext_pb=0&es=d2cse06nex8rlj.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080
 #EXTINF:-1 tvg-id="TuVozEstereo.co" group-title="Variedades" tvg-logo="https://image-registry.avscaracoltv.com/logos/tuvozestereo-lg.png", Tu Voz Estéreo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2afc0da21ebb4e6f9a1574de811b1344":"59301dde60d92d0d074aa191eec3812b"}
