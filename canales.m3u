@@ -142,6 +142,10 @@ http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1702ab01579f458d905353a745ebaed3":"336381fb3049c8e6971d53f8a30bb0cc"}
 https://mdstrm.com/live-stream-playlist/6972e1087faf95f01fc8cc30.mpd
+#EXTINF:-1 group-title="Infantil" tvg-logo="", Eureka
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"32fd8fe94eea4a6d86cc3c97a1d33e41":"69f08808d1ba829cac704cc30ce5d063"}
+https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(EUREKA)/manifest.mpd
 #EXTINF:-1 group-title="Infantil", Dreamworks HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a255e1384db3e9ce7e0349e8aa9b9f77":"404cc4fb45f82c9a7dffd3d2496cca20"}
@@ -422,6 +426,11 @@ http://45.190.187.183:8080/play/a1db
 #EXTINF:0 tvg-id="Tooncast.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tooncast-lam.png", Tooncast (Latinoamérica)
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a035
+#EXTINF:0 tvg-id="Tooncast.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tooncast-lam.png", Tooncast LA
+#EXTVLCOPT:network-caching=100
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"09c5e580f8254da4a05592c5635d6a84":"fff2e9ed3e62de99a58421f07ff7b27b"}
+https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TOONCAST)/manifest.mpd
 #EXTINF:0 tvg-id="Boing.es" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/boing-es.png", Boing (España)
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1918,6 +1927,11 @@ http://190.60.48.149:8000/play/ANIMAL_PLANET
 #EXTINF:0 tvg-id="Discovery Turbo.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-turbo-lat.png", Discovery Turbo (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a022
+#EXTINF:0 tvg-id="Discovery Turbo.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-turbo-lat.png", Discovery Turbo MPD (Colombia)
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9a6259fc5b534e4fba1d84671c3a91ab":"7f4340b841bc3309b603959d75af408d"}
+https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(DISCOVERY_TURBO_HD)/manifest.mpd
 #EXTINF:0 tvg-id="Investigation Discovery HD.co" group-title="Documentales" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/discovery-id-lat.png", Discovery ID (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a02z
