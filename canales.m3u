@@ -235,6 +235,10 @@ https://dish.akamaized.net/Content/DASH/Live/channel(cartoonnetworks)/variant.mp
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://dish.akamaized.net
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://dish.akamaized.net
 https://dish.akamaized.net/Content/DASH/Live/channel(discoverykids)/variant.mpd
+#EXTINF:-1 tvg-id="NICKELODEON.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/286.png", Nickelodeon Latino MX (GEO)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ec274831caa80e1ec173dbd5b0d5e83:cc5fb77171900013b60e4ef49da9f1ac
+https://dish.akamaized.net/Content/DASH/Live/channel(Nickelodeon)/manifest.mpd
 #EXTINF:-1 tvg-id="ADN 40.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/adn_noticias.png" group-title="TV ABIERTA", ADN40
 https://dish.akamaized.net/Content/DASH/Live/channel(adn40hd)/variant.mpd
 #EXTINF:-1 tvg-id="Once.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/280.png" group-title="TV ABIERTA", ONCNI
@@ -337,8 +341,6 @@ https://dish.akamaized.net/Content/DASH/Live/channel(nbatvhd)/variant.mpd
 https://dish.akamaized.net/Content/DASH/Live/channel(tvcdeportes)/variant.mpd
 #EXTINF:-1 tvg-id="DISNEY JR.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/283.png" group-title="INFANTIL", DNY JR
 https://dish.akamaized.net/Content/DASH/Live/channel(disney_Junior)/variant.mpd
-#EXTINF:-1 tvg-id="NICKELODEON.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/286.png" group-title="INFANTIL", NICK
-https://dish.akamaized.net/Content/DASH/Live/channel(Nickelodeon)/manifest.mpd
 #EXTINF:-1 tvg-id="NICK JR.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/291.png" group-title="INFANTIL", NIKJR
 https://dish.akamaized.net/Content/DASH/Live/channel(nickjrhd)/manifest.mpd
 #EXTINF:-1 tvg-id="BABYFIRST.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/294.png" group-title="INFANTIL", BBFST
