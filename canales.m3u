@@ -223,6 +223,10 @@ http://181.118.150.27:8000/play/a032
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://dish.akamaized.net
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://dish.akamaized.net
 https://dish.akamaized.net/Content/DASH/Live/channel(disney_channel)/variant.mpd
+#EXTINF:-1 tvg-id="DISNEY JR.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/283.png", Disney Jr. MX (GEO)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a1dd77bf7714007f301a9a08364392e:6635f825f0f5b1cbceb55645b7c8d362
+https://dish.akamaized.net/Content/DASH/Live/channel(disney_Junior)/variant.mpd
 #EXTINF:0 tvg-id="Cartoon Network.mx" group-title="México" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network MX (GEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0a8e88e5b5b3eef72f2cb4aae4462f47":"8cf6200e54c309754ed4e99cab5874f6"}
@@ -239,175 +243,330 @@ https://dish.akamaized.net/Content/DASH/Live/channel(discoverykids)/variant.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ec274831caa80e1ec173dbd5b0d5e83:cc5fb77171900013b60e4ef49da9f1ac
 https://dish.akamaized.net/Content/DASH/Live/channel(Nickelodeon)/manifest.mpd
-#EXTINF:-1 tvg-id="ADN 40.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/adn_noticias.png" group-title="TV ABIERTA", ADN40
-https://dish.akamaized.net/Content/DASH/Live/channel(adn40hd)/variant.mpd
-#EXTINF:-1 tvg-id="Once.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/280.png" group-title="TV ABIERTA", ONCNI
-https://hfc-tlx-live-atv-cdn.izzigo.tv/13/out/u/dash/ONCE-NINAS-Y-NINOS-SD/default.mpd
-#EXTINF:-1 tvg-id="CANAL 6 +.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/606.png" group-title="TV ABIERTA HD", SEIS
-https://dish.akamaized.net/Content/DASH/Live/channel(multimediosplus)/variant.mpd
-#EXTINF:-1 tvg-id="AZTECA UNO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/1hd.png" group-title="TV ABIERTA HD", AZUNO
-https://dish.akamaized.net/Content/DASH/Live/channel(aztecaunohd)/variant.mpd
-#EXTINF:-1 tvg-id="AZ CORAZON.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/corazon.png" group-title="ENTRETENIMIENTO", ACRZN
-https://dish.akamaized.net/Content/DASH/Live/channel(aztecacorazon)/variant.mpd
-#EXTINF:-1 tvg-id="PASIONES.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/pasiones.png" group-title="ENTRETENIMIENTO", PASIO
-https://dish.akamaized.net/Content/DASH/Live/channel(pasioneshd)/variant.mpd
-#EXTINF:-1 tvg-id="TNT SERIES.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/214.png" group-title="ENTRETENIMIENTO", TNTSRS
-https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/variant.mpd
-#EXTINF:-1 tvg-id="ANTENA 3.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/218.png" group-title="ENTRETENIMIENTO", ANTN3
-https://dish.akamaized.net/Content/DASH/Live/channel(f20abae4-d469-344f-5bb4-4fc88c1d683b)/variant.mpd
-#EXTINF:-1 tvg-id="AZ CLIC.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/clip.png" group-title="ENTRETENIMIENTO", CLIC
-https://dish.akamaized.net/Content/DASH/Live/channel(aztecaclichd)/variant.mpd
-#EXTINF:-1 tvg-id="Azinter.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/azteca_int.png" group-title="ENTRETENIMIENTO", AZINT
-https://dish.akamaized.net/Content/DASH/Live/channel(aztecainternacionalhd)/variant.mpd
-#EXTINF:-1 tvg-id="mvs.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/704.png" group-title="ENTRETENIMIENTO", MVSHD
-https://dish.akamaized.net/Content/DASH/Live/channel(mvshd)/variant.mpd
-#EXTINF:-1 tvg-id="AMC.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/712.png" group-title="ENTRETENIMIENTO", AMC
-https://dish.akamaized.net/Content/DASH/Live/channel(amc)/variant.mpd
-#EXTINF:-1 tvg-id="DISCOVERY ID.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/734.png" group-title="ENTRETENIMIENTO", IDHD
-https://dish.akamaized.net/Content/DASH/Live/channel(investigationdiscoveryhd)/variant.mpd
-#EXTINF:-1 tvg-id="GRMET.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/741.png" group-title="ENTRETENIMIENTO", GOURM
-https://dish.akamaized.net/Content/DASH/Live/channel(e_gourment)/variant.mpd
-#EXTINF:-1 tvg-id="COMEDY CENTRAL.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/752.png" group-title="ENTRETENIMIENTO", COMHD
-https://dish.akamaized.net/Content/DASH/Live/channel(50dd60bc-94f1-a686-3a3f-a093154f9229)/variant.mpd
-#EXTINF:-1 tvg-id="USA NETWORK.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/usa.png" group-title="SERIES Y PELÍCULAS", USA
-https://dish.akamaized.net/Content/DASH/Live/channel(usamexico)/variant.mpd
-#EXTINF:-1 tvg-id="SONY.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/208.png" group-title="SERIES Y PELÍCULAS", SONY
-https://dish.akamaized.net/Content/DASH/Live/channel(sony)/variant.mpd
-#EXTINF:-1 tvg-id="ATS.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/216.png" group-title="SERIES Y PELÍCULAS", ATRES
-https://dish.akamaized.net/Content/DASH/Live/channel(a3series)/variant.mpd
-#EXTINF:-1 tvg-id="FX.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/224.png" group-title="SERIES Y PELÍCULAS", FX
-https://dish.akamaized.net/Content/DASH/Live/channel(fx)/variant.mpd
-#EXTINF:-1 tvg-id="ADULT SWIM.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/232.png" group-title="SERIES Y PELÍCULAS", ASWIM
-https://dish.akamaized.net/Content/DASH/Live/channel(adultswim)/variant.mpd
-#EXTINF:-1 tvg-id="CINECANAL.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/398.png" group-title="SERIES Y PELÍCULAS", CINECC
-https://dish.akamaized.net/Content/DASH/Live/channel(cinecanal)/variant.mpd
-#EXTINF:-1 tvg-id="AZ CINEMA.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/cinema.png" group-title="SERIES Y PELÍCULAS", ACINE
-https://dish.akamaized.net/Content/DASH/Live/channel(aztecacinemahd)/variant.mpd
-#EXTINF:-1 tvg-id="STAR CHANNEL.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/702.png" group-title="SERIES Y PELÍCULAS", STCHD
-https://dish.akamaized.net/Content/DASH/Live/channel(start_channel)/variant.mpd
-#EXTINF:-1 tvg-id="WARNER.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/710.png" group-title="SERIES Y PELÍCULAS", WARNR
-https://dish.akamaized.net/Content/DASH/Live/channel(warner_channel)/variant.mpd
-#EXTINF:-1 tvg-id="TNT NOVELAS.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/tnt_novelas.png" group-title="SERIES Y PELÍCULAS", TNOHD
-https://dish.akamaized.net/Content/DASH/Live/channel(tntnovelashd)/variant.mpd
-#EXTINF:-1 tvg-id="AXN.mx" group-title="México" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/722.png" group-title="SERIES Y PELÍCULAS", AXNHD
-https://dish.akamaized.net/Content/DASH/Live/channel(axnhd)/variant.mpd
-#EXTINF:-1 tvg-id="SPACE.mx" group-title="México" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/726.png" group-title="SERIES Y PELÍCULAS", SPAHD
-https://dish.akamaized.net/Content/DASH/Live/channel(space)/variant.mpd
-#EXTINF:-1 ch-number="730" tvg-id="AAndE MUNDO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/730.png" group-title="SERIES Y PELÍCULAS", A&EHD
-https://dish.akamaized.net/Content/DASH/Live/channel(aehd)/variant.mpd
-#EXTINF:-1 tvg-id="H2.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/320.png" group-title="CONOCIMIENTO", HIST2
-https://dish.akamaized.net/Content/DASH/Live/channel(history2hd)/variant.mpd
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/808.png" group-title="CONOCIMIENTO", DCHD
-https://dish.akamaized.net/Content/DASH/Live/channel(discoverychannelhd)/variant.mpd
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/812.png" group-title="CONOCIMIENTO", NTGHD
-https://dish.akamaized.net/Content/DASH/Live/channel(national_geographic)/variant.mpd
-#EXTINF:-1 tvg-id="ANIMAL PLANET.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/816.png" group-title="CONOCIMIENTO", ANIHD
-https://dish.akamaized.net/Content/DASH/Live/channel(animalplanethd)/variant.mpd
-#EXTINF:-1 tvg-id="HISTORY.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/818.png" group-title="CONOCIMIENTO", HISHD
-https://dish.akamaized.net/Content/DASH/Live/channel(history)/variant.mpd
-#EXTINF:-1 tvg-id="fgbox.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/324.png" group-title="DEPORTES", FGBOX
-https://dish.akamaized.net/Content/DASH/Live/channel(fightboxhd)/variant.mpd
-#EXTINF:-1 tvg-id="ginxsport.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/328.png" group-title="DEPORTES", GXSPS
-https://dish.akamaized.net/Content/DASH/Live/channel(ginxesportstvhd)/variant.mpd
-#EXTINF:-1 tvg-id="ESPN4.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/340.png" group-title="DEPORTES", ESP4
-https://dish.akamaized.net/Content/DASH/Live/channel(foxsportshd)/variant.mpd
-#EXTINF:-1 tvg-id="GOLF.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/343.png" group-title="DEPORTES", GOLF
-https://dish.akamaized.net/Content/DASH/Live/channel(golflatin)/variant.mpd
-#EXTINF:-1 tvg-id="ayms.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/349.png" group-title="DEPORTES", AYMS
-https://dish.akamaized.net/Content/DASH/Live/channel(aymsports)/variant.mpd
-#EXTINF:-1 tvg-id="AZTECA DEPORTES.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/azteca_deportes.png" group-title="DEPORTES", ADPTZ
-https://dish.akamaized.net/Content/DASH/Live/channel(aztecadeporteshd)/variant.mpd
-#EXTINF:-1 tvg-id="out.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/826.png" group-title="DEPORTES", OUTDR
-https://dish.akamaized.net/Content/DASH/Live/channel(outdoor)/variant.mpd
-#EXTINF:-1 tvg-id="PX.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/827.png" group-title="DEPORTES", PSPTS
-https://dish.akamaized.net/Content/DASH/Live/channel(pxsports)/variant.mpd
-#EXTINF:-1 tvg-id="TYC.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/831.png" group-title="DEPORTES", TYCSP
-https://dish.akamaized.net/Content/DASH/Live/channel(tycsports)/variant.mpd
-#EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/836.png" group-title="DEPORTES", CLAHD
-https://dish.akamaized.net/Content/DASH/Live/channel(clarosports)/variant.mpd
-#EXTINF:-1 tvg-id="ESPN.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/espn.png" group-title="DEPORTES", EPSHD
-https://dish.akamaized.net/Content/DASH/Live/channel(espn)/variant.mpd
-#EXTINF:-1 tvg-id="TRACE.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/841.png" group-title="DEPORTES", TRSPO
-https://dish.akamaized.net/Content/DASH/Live/channel(tracesports)/variant.mpd
-#EXTINF:-1 tvg-id="ESPN2.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/842.png" group-title="DEPORTES", ES2HD
-https://dish.akamaized.net/Content/DASH/Live/channel(espn_2)/variant.mpd
-#EXTINF:-1 tvg-id="ESPN3.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/844.png" group-title="DEPORTES", ES3HD
-https://dish.akamaized.net/Content/DASH/Live/channel(espn_3)/variant.mpd
-#EXTINF:-1 tvg-id="DISCOVERY TURBO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/845.png" group-title="DEPORTES", TURBO
-https://dish.akamaized.net/Content/DASH/Live/channel(discoveryturbohd)/variant.mpd
-#EXTINF:-1 tvg-id="nbatv.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/846.png" group-title="DEPORTES", NTVHD
-https://dish.akamaized.net/Content/DASH/Live/channel(nbatvhd)/variant.mpd
-#EXTINF:-1 tvg-id="tyc.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/848.png" group-title="DEPORTES", TYCDE
-https://dish.akamaized.net/Content/DASH/Live/channel(tvcdeportes)/variant.mpd
-#EXTINF:-1 tvg-id="DISNEY JR.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/283.png" group-title="INFANTIL", DNY JR
-https://dish.akamaized.net/Content/DASH/Live/channel(disney_Junior)/variant.mpd
-#EXTINF:-1 tvg-id="NICK JR.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/291.png" group-title="INFANTIL", NIKJR
+#EXTINF:-1 tvg-id="NICK JR.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/291.png", Nick JR. MX (GEO)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6678b21d11148fc9604268ddbe008d72:8ba320049c30a2df809a90679c49b63d
 https://dish.akamaized.net/Content/DASH/Live/channel(nickjrhd)/manifest.mpd
-#EXTINF:-1 tvg-id="BABYFIRST.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/294.png" group-title="INFANTIL", BBFST
+#EXTINF:-1 tvg-id="ADN 40.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/adn_noticias.png", ADN40
+https://dish.akamaized.net/Content/DASH/Live/channel(adn40hd)/variant.mpd
+#EXTINF:-1 tvg-id="Once.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/280.png", ONCNI
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=63f768ba20535fdc9716a6419724ff9f:f54e09a043130b1412beb558b4494118
+https://hfc-tlx-live-atv-cdn.izzigo.tv/13/out/u/dash/ONCE-NINAS-Y-NINOS-SD/default.mpd
+#EXTINF:-1 tvg-id="CANAL 6 +.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/606.png", SEIS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0894aab2cb5ca9a88c6d7ebbc60dc304:32e9d80c5808be99f4dda6ff5c0aa506
+https://dish.akamaized.net/Content/DASH/Live/channel(multimediosplus)/variant.mpd
+#EXTINF:-1 tvg-id="AZTECA UNO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/1hd.png", AZUNO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4b731bb5402a533d2fcacdd54363b79:ebc6a45a44642f2d6661c9470d09aced
+https://dish.akamaized.net/Content/DASH/Live/channel(aztecaunohd)/variant.mpd
+#EXTINF:-1 tvg-id="AZ CORAZON.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/corazon.png", ACRZN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d9ad184f8be4d6ed11ca4ee1ad11488:f0002b622065b6c1c4777d05fa859e99
+https://dish.akamaized.net/Content/DASH/Live/channel(aztecacorazon)/variant.mpd
+#EXTINF:-1 tvg-id="PASIONES.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/pasiones.png", PASIO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca0a4f1cc1d2740fbe0ba9af9745f10a:21c4b13e0c9ffbae8a269e569560cf45
+https://dish.akamaized.net/Content/DASH/Live/channel(pasioneshd)/variant.mpd
+#EXTINF:-1 tvg-id="TNT SERIES.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/214.png", TNT Series MX (GEO)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=af697afe95d1a333a845aee5ba676946:c57bdecf3169b78e51865403c6e723bd
+https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/variant.mpd
+#EXTINF:-1 tvg-id="ANTENA 3.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/218.png", ANTN3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1236cdf9b12eba6d4a4d1494f7a0dd30:3737ce9763b0816e3feab4624e1aa9a7
+https://dish.akamaized.net/Content/DASH/Live/channel(f20abae4-d469-344f-5bb4-4fc88c1d683b)/variant.mpd
+#EXTINF:-1 tvg-id="AZ CLIC.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/clip.png", CLIC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3feb186d198eb79eb71ee573dc69a207:a95015a94328221a82b199f412d81049
+https://dish.akamaized.net/Content/DASH/Live/channel(aztecaclichd)/variant.mpd
+#EXTINF:-1 tvg-id="Azinter.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/azteca_int.png", AZINT
+#KODIPROP:inputstream.adaptive.license_key=ba15afee205d1bfe69d6b9f3486ebf37:62570d9ef67f763174b4a8f4343855e2
+https://dish.akamaized.net/Content/DASH/Live/channel(aztecainternacionalhd)/variant.mpd
+#EXTINF:-1 tvg-id="mvs.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/704.png", MVSHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=03a6be34f620b1cbd96800a709346b23:0ed65893fb20d712602af499878596eb
+https://dish.akamaized.net/Content/DASH/Live/channel(mvshd)/variant.mpd
+#EXTINF:-1 tvg-id="AMC.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/712.png", AMC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6772d26ccb1dee07b3b8703520286e8e:e3836e151d5ff729fe237f29605f039b
+https://dish.akamaized.net/Content/DASH/Live/channel(amc)/variant.mpd
+#EXTINF:-1 tvg-id="DISCOVERY ID.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/734.png", IDHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efe8aa76c0e7c3aeefed0966453b5baf:fbccf5bf2a03a2cef118f92210fb75bd
+https://dish.akamaized.net/Content/DASH/Live/channel(investigationdiscoveryhd)/variant.mpd
+#EXTINF:-1 tvg-id="GRMET.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/741.png", GOURM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f3eebd14fc7f6fcbe4ba310dd654a6b:249312af2692abff48daa39c0dc8607d
+https://dish.akamaized.net/Content/DASH/Live/channel(e_gourment)/variant.mpd
+#EXTINF:-1 tvg-id="COMEDY CENTRAL.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/752.png", COMHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee3ad5fb53e7b4f65d732ce7f03d53a4:e4a1ef4d19cbac85da7f6a29da2c5135
+https://dish.akamaized.net/Content/DASH/Live/channel(50dd60bc-94f1-a686-3a3f-a093154f9229)/variant.mpd
+#EXTINF:-1 tvg-id="USA NETWORK.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/usa.png", USA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=39773b0d7b389430776142a2fa613ad9:bce74121a4884ec7d2ed9dd96442a775
+https://dish.akamaized.net/Content/DASH/Live/channel(usamexico)/variant.mpd
+#EXTINF:-1 tvg-id="SONY.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/208.png", SONY
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=896f730715176bb90484f8385512cba7:7372951666a6653c2dbff9f2646c1c5d
+https://dish.akamaized.net/Content/DASH/Live/channel(sony)/variant.mpd
+#EXTINF:-1 tvg-id="ATS.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/216.png", ATRES
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f41eb0f3367804d8fc48dec22c2c7d68:42983f2821aba0d2d17afc373a3c3dab
+https://dish.akamaized.net/Content/DASH/Live/channel(a3series)/variant.mpd
+#EXTINF:-1 tvg-id="FX.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/224.png" group-title="SERIES Y PELÍCULAS", FX MX (GEO)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef5157845628b5f3f07a40d2c6e851bc:0f416467760f72e2269abfbab2e3c564
+https://dish.akamaized.net/Content/DASH/Live/channel(fx)/variant.mpd
+#EXTINF:-1 tvg-id="ADULT SWIM.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/232.png", ASWIM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbd1db8e8d7cb678ecb49df1bada02c5:8d404c0e150855e4784ce016b3d0170c
+https://dish.akamaized.net/Content/DASH/Live/channel(adultswim)/variant.mpd
+#EXTINF:-1 tvg-id="CINECANAL.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/398.png", CINECC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5575c4cac7dd0aba98835c5b59a0c62:48cb36a63c1526132d4f969a10d6eec3
+https://dish.akamaized.net/Content/DASH/Live/channel(cinecanal)/variant.mpd
+#EXTINF:-1 tvg-id="AZ CINEMA.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/cinema.png", ACINE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbac4c7d3d0f47a319e638e65c985997:de8dd6acc1d3cdb1994720ee41f43417
+https://dish.akamaized.net/Content/DASH/Live/channel(aztecacinemahd)/variant.mpd
+#EXTINF:-1 tvg-id="STAR CHANNEL.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/702.png", STCHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6de957e2c8090588b2cc3b4cfe0470f4:52d97d7f43b204d2379b43ee7d3a2a21
+https://dish.akamaized.net/Content/DASH/Live/channel(start_channel)/variant.mpd
+#EXTINF:-1 tvg-id="WARNER.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/710.png", Warner Channel MX (GEO)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=79dc87836d93d0fb7c1bb10e301bab82:8b0e2a78cad3b2fe84b116adb0a9d9ef
+https://dish.akamaized.net/Content/DASH/Live/channel(warner_channel)/variant.mpd
+#EXTINF:-1 tvg-id="TNT NOVELAS.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/tnt_novelas.png", TNOHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdee0f86736487e4d0137d46eb7dc0fb:1751603a6aca9ffb044a4b60efd68fd1
+https://dish.akamaized.net/Content/DASH/Live/channel(tntnovelashd)/variant.mpd
+#EXTINF:-1 tvg-id="AXN.mx" group-title="México" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/722.png", AXNHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a100e0455dec1d27ea68eac2444a057:518d58d1998e35f07ae8aa7a7716613a
+https://dish.akamaized.net/Content/DASH/Live/channel(axnhd)/variant.mpd
+#EXTINF:-1 tvg-id="SPACE.mx" group-title="México" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/726.png", SPAHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6441ec9b4f7ddfbc4cac8801f4df9df:676229a75fdbc1a6b5f4a50c383490d9
+https://dish.akamaized.net/Content/DASH/Live/channel(space)/variant.mpd
+#EXTINF:-1 ch-number="730" tvg-id="AAndE MUNDO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/730.png", A&EHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5009add9e5b2cd627ac6ef8aa6db9123:3448834b1b496ed26e9727983c080844
+https://dish.akamaized.net/Content/DASH/Live/channel(aehd)/variant.mpd
+#EXTINF:-1 tvg-id="H2.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/320.png", HIST2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=35ac7c20bf38822bd1c9fb001c07ed23:10d14cdc8a18dfbc131bfbd123fde210
+https://dish.akamaized.net/Content/DASH/Live/channel(history2hd)/variant.mpd
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/808.png", DCHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8aba4faf1f6acb51cbde42de8c7add3d:c78da1bf648851714612ec36a187ab7a
+https://dish.akamaized.net/Content/DASH/Live/channel(discoverychannelhd)/variant.mpd
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/812.png", NTGHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14747c7e082ba58e7391e3712578ee0a:4bcbff3d553e8a8b755a19bb4e93208a
+https://dish.akamaized.net/Content/DASH/Live/channel(national_geographic)/variant.mpd
+#EXTINF:-1 tvg-id="ANIMAL PLANET.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/816.png", ANIHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=283ebc0dcc0ad5220cc9476fb2bd9b38:6c5120bd84de6233793e0ec556612e6d
+https://dish.akamaized.net/Content/DASH/Live/channel(animalplanethd)/variant.mpd
+#EXTINF:-1 tvg-id="HISTORY.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/818.png", HISHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c60825bef7f79a30696e835532e2c1e5:9917be8378ddcb8ff4aa26c554da639e
+https://dish.akamaized.net/Content/DASH/Live/channel(history)/variant.mpd
+#EXTINF:-1 tvg-id="fgbox.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/324.png", FGBOX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a2334b7bae13628eb27062e3b79f294:aff28dcb8ca6b51a3fe252bcabf7941c
+https://dish.akamaized.net/Content/DASH/Live/channel(fightboxhd)/variant.mpd
+#EXTINF:-1 tvg-id="ginxsport.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/328.png", GXSPS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fd24b691f5e5108a4b9bfaf70066463:9d54422436550ad2dbb979546a0caf71
+https://dish.akamaized.net/Content/DASH/Live/channel(ginxesportstvhd)/variant.mpd
+#EXTINF:-1 tvg-id="GOLF.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/343.png", GOLF
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ab02862fda94a3d1b56fe7d1f691583:684faca772cb75ad0b3574c3a84463f7
+https://dish.akamaized.net/Content/DASH/Live/channel(golflatin)/variant.mpd
+#EXTINF:-1 tvg-id="ayms.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/349.png", AYMS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4de3280b9e07e13d5fcd9cf5116b76d2:b9806c1b660b83e923a25cb805971117
+https://dish.akamaized.net/Content/DASH/Live/channel(aymsports)/variant.mpd
+#EXTINF:-1 tvg-id="AZTECA DEPORTES.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/azteca_deportes.png", ADPTZ
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e459142c426c37a16322969a5ddcbcab:62b00ab99444ae566b261de1a3472700
+https://dish.akamaized.net/Content/DASH/Live/channel(aztecadeporteshd)/variant.mpd
+#EXTINF:-1 tvg-id="out.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/826.png", OUTDR
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=06723e4db0084a4bd5a107cc2e60c273:05d239ff5f8735342942487773cb8131
+https://dish.akamaized.net/Content/DASH/Live/channel(outdoor)/variant.mpd
+#EXTINF:-1 tvg-id="PX.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/827.png", PSPTS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=06723e4db0084a4bd5a107cc2e60c273:05d239ff5f8735342942487773cb8131
+https://dish.akamaized.net/Content/DASH/Live/channel(pxsports)/variant.mpd
+#EXTINF:-1 tvg-id="TYC.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/831.png", TYCSP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=abb4405bf296d53b612b9124b6ff9b57:7dff5070b84e6890b35a88a86ce44f40
+https://dish.akamaized.net/Content/DASH/Live/channel(tycsports)/variant.mpd
+#EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/836.png", CLAHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21a7580dfcec81607492d5a2db40727e:20e15c193a68a6631b5d0d1f6e5c6204
+https://dish.akamaized.net/Content/DASH/Live/channel(clarosports)/variant.mpd
+#EXTINF:-1 tvg-id="ESPN.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/espn.png", EPSHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d1be59dc758ccbab3b567343d5d2915:4744fd0e2fb5aaae961f468925ac2b73
+https://dish.akamaized.net/Content/DASH/Live/channel(espn)/variant.mpd
+#EXTINF:-1 tvg-id="ESPN2.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/842.png", ES2HD
+https://dish.akamaized.net/Content/DASH/Live/channel(espn_2)/variant.mpd
+#EXTINF:-1 tvg-id="ESPN3.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/844.png", ES3HD
+https://dish.akamaized.net/Content/DASH/Live/channel(espn_3)/variant.mpd
+#EXTINF:-1 tvg-id="ESPN4.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/340.png", ESP4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5410bf674794451dd631a5b970b76a6:c7a174308083f0edc8be1908dc9cfa6c
+https://dish.akamaized.net/Content/DASH/Live/channel(foxsportshd)/variant.mpd
+#EXTINF:-1 tvg-id="TRACE.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/841.png", TRSPO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98bac57a85139ab4321a50beb774288c:f5b8cb9ca54c0dc4cd1d2296fcff70be
+https://dish.akamaized.net/Content/DASH/Live/channel(tracesports)/variant.mpd
+#EXTINF:-1 tvg-id="DISCOVERY TURBO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/845.png", Discovery Turbo MX (GEO)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db8878cba41b2ee282b624fb75977b26:f3e8cdd2586046c0cf087bbe6012ce97
+https://dish.akamaized.net/Content/DASH/Live/channel(discoveryturbohd)/variant.mpd
+#EXTINF:-1 tvg-id="nbatv.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/846.png", NTVHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d2cb6bc3297139893a7173b5a5cb08c:7f4e276cd0463e417cba51932a3fdc93
+https://dish.akamaized.net/Content/DASH/Live/channel(nbatvhd)/variant.mpd
+#EXTINF:-1 tvg-id="tyc.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/848.png", TYCDE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffdd8c79a09c11c5d42bc4f2d85bded7:72adc5405cee0fc1288bc75b8ef11759
+https://dish.akamaized.net/Content/DASH/Live/channel(tvcdeportes)/variant.mpd
+#EXTINF:-1 tvg-id="BABYFIRST.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/294.png", BBFST
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82d882f3aada7d99b71695d0cb418538:ce445596de9e7a97f62515559cd67bdb
 https://dish.akamaized.net/Content/DASH/Live/channel(648fabb8-962b-0e85-93d5-44d56a12851e)/variant.mpd
-#EXTINF:-1 tvg-id="BABY TV.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/296.png" group-title="INFANTIL", BABYT
+#EXTINF:-1 tvg-id="BABY TV.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/296.png", BABYT
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c716dca5a51693cacb4c0fdf5d58c93e:8a36d0baf248b73563fbe08929e6c889
 https://dish.akamaized.net/Content/DASH/Live/channel(babytv)/variant.mpd
-#EXTINF:-1 tvg-id="CARTOONITO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/298.png" group-title="INFANTIL", CNITO
+#EXTINF:-1 tvg-id="CARTOONITO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/298.png", Cartoonito MX (GEO)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd2c2f31defc5f22f031365d3333c880:f0597b0c74656c330dd6ccd50dfc5464
 https://dish.akamaized.net/Content/DASH/Live/channel(cartoonitohd)/variant.mpd
-#EXTINF:-1 tvg-id="DISNEY.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/782.png" group-title="INFANTIL", DSN
-https://dish.akamaized.net/Content/DASH/Live/channel(disney_channel)/variant.mpd
-#EXTINF:-1 tvg-id="Dream.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/dreamworks.png" group-title="INFANTIL", DWRKS
+#EXTINF:-1 tvg-id="Dream.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/dreamworks.png", DWRKS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6c7a488a73c9c780eaea5765ad29a00:08ffa90ee936cbacb10a59bb66aed57d
 https://dish.akamaized.net/Content/DASH/Live/channel(dreamworkshd)/variant.mpd
-#EXTINF:-1 tvg-id="fya.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/384.png" group-title="PELÍCULAS", F&ART
+#EXTINF:-1 tvg-id="fya.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/384.png", F&ART
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2aecc40a610b30b03f61e965942266e:89a83e6b4512fd9a9e1455ac0abbe975
 https://dish.akamaized.net/Content/DASH/Live/channel(film_and_arts)/variant.mpd
-#EXTINF:-1 tvg-id="stu.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/386.png" group-title="PELÍCULAS", STUNIV
+#EXTINF:-1 tvg-id="stu.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/386.png", STUNIV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff583851013fa7fb7abeaa8d0e762a41:ad289e896926729a4e7559bdaa04e537
 https://dish.akamaized.net/Content/DASH/Live/channel(studio_universal)/variant.mpd
-#EXTINF:-1 tvg-id="CINE LATINO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/382.png" group-title="PELÍCULAS", CINEL
+#EXTINF:-1 tvg-id="CINE LATINO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/382.png", CINEL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e28ec76b3e800ded41db58719ad8b8f4:4e40f2c54234fc211f471ed049b22649
 https://dish.akamaized.net/Content/DASH/Live/channel(b4540d49-0e51-9219-ced1-8624e83e6bf3)/variant.mpd
-#EXTINF:-1 tvg-id="TNT.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/870.png" group-title="PELÍCULAS", TNTHD
+#EXTINF:-1 tvg-id="TNT.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/870.png", TNT MX (GEO)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4139b9f4b9b13b81c2d1b53acd01e5e5:24f771215b927cd0961be8ab963bb8d2
 https://dish.akamaized.net/Content/DASH/Live/channel(tnt)/variant.mpd
-#EXTINF:-1 tvg-id="mc.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/872.png" group-title="PELÍCULAS", MCINE
+#EXTINF:-1 tvg-id="mc.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/872.png", MCINE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=077105b9c52693e7c1df39521ab65803:7189d75c1469f0bd11efa54d58d3499b
 https://dish.akamaized.net/Content/DASH/Live/channel(6f29f4bb-a84c-6924-9782-a5647d2146a0)/variant.mpd
-#EXTINF:-1 tvg-id="CINEMAX.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/874.png" group-title="PELÍCULAS", CMXHD
+#EXTINF:-1 tvg-id="CINEMAX.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/874.png", CMXHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=540b2a870d04b8b73d18788ad6519c2c:4badcf5feda55f3a727430d78f0ede84
 https://dish.akamaized.net/Content/DASH/Live/channel(cinemax)/variant.mpd
-#EXTINF:-1 tvg-id="mpre.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/876.png" group-title="PELÍCULAS", MPHD
+#EXTINF:-1 tvg-id="mpre.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/876.png, MPHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55122e37d92b6b4ab03c427cd4f471b9:0c2d5950edcafe9a2ea09098a155bdda
 https://dish.akamaized.net/Content/DASH/Live/channel(526dd1aa-3af4-bca0-f021-f48180f1974a)/variant.mpd
-#EXTINF:-1 tvg-id="TELEMUNDO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/telemundo_int.png" group-title="INFORMACIÓN", TMINT
+#EXTINF:-1 tvg-id="TELEMUNDO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/telemundo_int.png", TMINT
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=37c93f4babaaabc0da1d8b24828c3ff7:88e2ac75ce14cd5fbfb79083f37107dd
 https://dish.akamaized.net/Content/DASH/Live/channel(telemundohd)/variant.mpd
-#EXTINF:-1 tvg-id="CNN EN ESPAÑOL.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/350.png" group-title="INFORMACIÓN", CNNES
+#EXTINF:-1 tvg-id="CNN EN ESPAÑOL.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/350.png", CNNES
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb72c9e7401ffa4cc0ab3936cb869751:e45142790c822b02f6c2a77f5a40de66
 https://dish.akamaized.net/Content/DASH/Live/channel(cnn)/variant.mpd
-#EXTINF:-1 tvg-id="CNN INTERNACIONAL.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/352.png" group-title="INFORMACIÓN", CNNINT
+#EXTINF:-1 tvg-id="CNN INTERNACIONAL.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/352.png", CNNINT
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e9d634140a533d040fe7ec239d160:cfff5ccb4c18d2b6f9deb3be039da98c
 https://dish.akamaized.net/Content/DASH/Live/channel(cnninternacional)/variant.mpd
-#EXTINF:-1 tvg-id="TELEFORMULA.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/354.png" group-title="INFORMACIÓN", TELEF
+#EXTINF:-1 tvg-id="TELEFORMULA.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/354.png", TELEF
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=78e5edc6768e248bb933f4703a6cef27:5208e7e0187c9ef4cb79c957c4793194
 https://dish.akamaized.net/Content/DASH/Live/channel(teleformula)/variant.mpd
-#EXTINF:-1 tvg-id="MILENIO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/356.png" group-title="INFORMACIÓN", MLNIO
+#EXTINF:-1 tvg-id="MILENIO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/356.png", MLNIO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95693bf13a5faa3afb2c25624b021038:70aa363b9f8d9d553d62f8a139781a1b
 https://dish.akamaized.net/Content/DASH/Live/channel(mileniohd)/variant.mpd
-#EXTINF:-1 tvg-id="VIDEO ROLA.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/videorolla.png" group-title="MÚSICA", VROLA
+#EXTINF:-1 tvg-id="VIDEO ROLA.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/videorolla.png", VROLA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=74993bccb315a26ce9b4f06af6be21a9:58953c667626292458c3dcdcf8d8cb34
 https://dish.akamaized.net/Content/DASH/Live/channel(videorolahd)/variant.mpd
-#EXTINF:-1 tvg-id="EXA TV.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/272.png" group-title="MÚSICA", EXATV
+#EXTINF:-1 tvg-id="EXA TV.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/272.png", EXATV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3443518a438f72c299ecedd7a8a2ad28:36a6301c3d722a2305c99e3c938aac58
 https://dish.akamaized.net/Content/DASH/Live/channel(13c8fed2-46b8-3bfb-90ae-34f938ae4b98)/variant.mpd
-#EXTINF:-1 tvg-id="htv.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/274.png" group-title="MÚSICA", HTV
+#EXTINF:-1 tvg-id="htv.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/274.png", HTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f637de627548fda78b4258774cb96b86:5afcd3efb734e21f0f45fb2f784ee239
 https://dish.akamaized.net/Content/DASH/Live/channel(htv)/variant.mpd
-#EXTINF:-1 tvg-id="MTV.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/760.png" group-title="MÚSICA", MTVHD
+#EXTINF:-1 tvg-id="MTV.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/760.png", MTVHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb8a6b32e830d4c9c52606d93b852262:12ae020d159c4ef6c5a7a411a3d0aa51
 https://dish.akamaized.net/Content/DASH/Live/channel(83640aad-3943-f226-67b6-94086f915fd5)/variant.mpd
-#EXTINF:-1 tvg-id="LIFETIME.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/242.png" group-title="ESTILO DE VIDA", LIFET
+#EXTINF:-1 tvg-id="LIFETIME.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/242.png", LIFET
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c17e69d6e92861fc2ca18df9c23c9c6:09e1bda6f1a7edeb9fb9f40f54f84be8
 https://dish.akamaized.net/Content/DASH/Live/channel(lifetimehd)/variant.mpd
-#EXTINF:-1 tvg-id="HOLA TV.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/246.png" group-title="ESTILO DE VIDA", HOLHD
+#EXTINF:-1 tvg-id="HOLA TV.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/246.png", HOLHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2cea93a0a01e1218cf0a3d0d2d09f25:a06ac367319c8926249057a2eb2a78d9
 https://dish.akamaized.net/Content/DASH/Live/channel(93b5438f-d00d-3a75-e257-95bdb326e721)/variant.mpd
-#EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/736.png" group-title="ESTILO DE VIDA", DH&HD
+#EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/736.png", DH&HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=42e70e74d2d731b7053caaa0a2621ca2:1c77ee4a9bf25791b0f1b11c7118f39e
 https://dish.akamaized.net/Content/DASH/Live/channel(discoveryhomeandhealthhd)/variant.mpd
-#EXTINF:-1 tvg-id="DISCOVERY TLC.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/740.png" group-title="ESTILO DE VIDA", TLCHD
+#EXTINF:-1 tvg-id="DISCOVERY TLC.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/740.png", TLCHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6254689477110d794617a8b8da688570:a1126eaea3add2df3e27f3da40911ae2
 https://dish.akamaized.net/Content/DASH/Live/channel(tlchd)/variant.mpd
-#EXTINF:-1 tvg-id="ENTERTAINMENT.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/748.png" group-title="ESTILO DE VIDA", E!HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/748.png", E!HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=80fa37cfc97ec6425a03fdc6892eecd6:895c40f6e9d35f296e1554af8bbe590c
 https://dish.akamaized.net/Content/DASH/Live/channel(e_entertainment_hd)/variant.mpd
-#EXTINF:-1 tvg-id="HBO FAMILY.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/410.png" group-title="PELÍCULAS Y SERIES PREMIUM", HFAHD
+#EXTINF:-1 tvg-id="HBO FAMILY.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/410.png", HFAHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=23d5d6a7be1238a89b59cb79ed2ab349:596508e11a62a8ebb20f67da8852e8f1
 https://dish.akamaized.net/Content/DASH/Live/channel(462e4822-6eac-91a1-f974-311a8ed1b829)/manifest.mpd
-#EXTINF:-1 tvg-id="HBO SIGNATURE.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/416.png" group-title="PELÍCULAS Y SERIES PREMIUM", HSGHD
+#EXTINF:-1 tvg-id="HBO SIGNATURE.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/416.png", HSGHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7aeefc391f09edf06ba2b039e8e8c439:e322483381692e91ff8927e518a75ea0
 https://dish.akamaized.net/Content/DASH/Live/channel(fdde0576-5d28-3fd0-68f9-71719e2cccfe)/manifest.mpd
-#EXTINF:-1 tvg-id="HBO MUNDI.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/417.png" group-title="PELÍCULAS Y SERIES PREMIUM", HMNHD
+#EXTINF:-1 tvg-id="HBO MUNDI.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/417.png", HMNHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e53c5914737e3287fe737a8875f7044:73a5e41a4c611ee26e7998cb4ebdfb67
 https://dish.akamaized.net/Content/DASH/Live/channel(8bd5b62b-fad1-7abc-2cec-cb781f5f5f20)/manifest.mpd
-#EXTINF:-1 tvg-id="HBO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/902.png" group-title="PELÍCULAS Y SERIES PREMIUM", HBOHD
+#EXTINF:-1 tvg-id="HBO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/902.png", HBOHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cec01f73570fd6820a31d386b39b731d:86e27a11d47e800fb903dc07d1f02b7e
 https://dish.akamaized.net/Content/DASH/Live/channel(a4bb2449-4f30-142f-1e65-d757b3d53b78)/manifest.mpd
-#EXTINF:-1 tvg-id="HBO 2.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/906.png" group-title="PELÍCULAS Y SERIES PREMIUM", HB2HD
+#EXTINF:-1 tvg-id="HBO 2.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/906.png", HB2HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9aaf6aa38c694e24b60787618a0f3793:4cee5d8856488e593964a082562db4ff
 https://dish.akamaized.net/Content/DASH/Live/channel(59866a3c-83ad-17d1-3025-d9f794babca9)/manifest.mpd
-#EXTINF:-1 tvg-id="HBOps.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/914.png" group-title="PELÍCULAS Y SERIES PREMIUM", HPLHD
+#EXTINF:-1 tvg-id="HBOps.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/914.png", HPLHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=54c5643771d1eb28857f6d6cb7947aa8:caa44ad81c2175a711fd4f3c646a9950
 https://dish.akamaized.net/Content/DASH/Live/channel(e8dd8035-5c7e-f820-eec5-65a93cc4b912)/manifest.mpd
-#EXTINF:-1 tvg-id="HBOxtre.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/922.png" group-title="PELÍCULAS Y SERIES PREMIUM", HXTHD
+#EXTINF:-1 tvg-id="HBOxtre.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/922.png", HXTHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=761160036506af26092b33aa78cf320c:f4e90d977d91cd5be891c2a50a11f979
 https://dish.akamaized.net/Content/DASH/Live/channel(c0d08eba-2d62-97ad-fbc6-821201567186)/manifest.mpd
 #EXTINF:-1 tvg-id="xv-Cartoon Network.mx" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png" group-title="México",Cartoon Network México SAP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
