@@ -229,6 +229,12 @@ https://dish.akamaized.net/Content/DASH/Live/channel(disney_channel)/variant.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://dish.akamaized.net
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://dish.akamaized.net
 https://dish.akamaized.net/Content/DASH/Live/channel(cartoonnetworks)/variant.mpd
+#EXTINF:-1 tvg-id="DISCOVERY KIDS.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/792.png", Discovery Kids MX (GEO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4f4ee39dd29073dbefb37d604f1c6a9a":"5fa8a9df75dd5c7af69bb8c65052b8ae"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://dish.akamaized.net
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://dish.akamaized.net
+https://dish.akamaized.net/Content/DASH/Live/channel(discoverykids)/variant.mpd
 #EXTINF:-1 tvg-id="ADN 40.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/adn_noticias.png" group-title="TV ABIERTA", ADN40
 https://dish.akamaized.net/Content/DASH/Live/channel(adn40hd)/variant.mpd
 #EXTINF:-1 tvg-id="Once.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/280.png" group-title="TV ABIERTA", ONCNI
@@ -345,8 +351,6 @@ https://dish.akamaized.net/Content/DASH/Live/channel(cartoonitohd)/variant.mpd
 https://dish.akamaized.net/Content/DASH/Live/channel(disney_channel)/variant.mpd
 #EXTINF:-1 tvg-id="Dream.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/dreamworks.png" group-title="INFANTIL", DWRKS
 https://dish.akamaized.net/Content/DASH/Live/channel(dreamworkshd)/variant.mpd
-#EXTINF:-1 tvg-id="DISCOVERY KIDS.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/792.png" group-title="INFANTIL", DKIHD
-https://dish.akamaized.net/Content/DASH/Live/channel(discoverykids)/variant.mpd
 #EXTINF:-1 tvg-id="fya.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/384.png" group-title="PELÍCULAS", F&ART
 https://dish.akamaized.net/Content/DASH/Live/channel(film_and_arts)/variant.mpd
 #EXTINF:-1 tvg-id="stu.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/386.png" group-title="PELÍCULAS", STUNIV
