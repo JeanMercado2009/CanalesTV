@@ -233,6 +233,10 @@ https://dish.akamaized.net/Content/DASH/Live/channel(disney_Junior)/variant.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://dish.akamaized.net
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://dish.akamaized.net
 https://dish.akamaized.net/Content/DASH/Live/channel(cartoonnetworks)/variant.mpd
+#EXTINF:-1 tvg-id="CARTOONITO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/298.png", Cartoonito MX (GEO)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd2c2f31defc5f22f031365d3333c880:f0597b0c74656c330dd6ccd50dfc5464
+https://dish.akamaized.net/Content/DASH/Live/channel(cartoonitohd)/variant.mpd
 #EXTINF:-1 tvg-id="DISCOVERY KIDS.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/792.png", Discovery Kids MX (GEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4f4ee39dd29073dbefb37d604f1c6a9a":"5fa8a9df75dd5c7af69bb8c65052b8ae"}
@@ -336,7 +340,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(aztecacinemahd)/variant.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6de957e2c8090588b2cc3b4cfe0470f4:52d97d7f43b204d2379b43ee7d3a2a21
 https://dish.akamaized.net/Content/DASH/Live/channel(start_channel)/variant.mpd
-#EXTINF:-1 tvg-id="WARNER.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/710.png", Warner Channel MX (GEO)
+#EXTINF:-1 tvg-id="WARNER.mx" group-title="México" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel MX (GEO)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=79dc87836d93d0fb7c1bb10e301bab82:8b0e2a78cad3b2fe84b116adb0a9d9ef
 https://dish.akamaized.net/Content/DASH/Live/channel(warner_channel)/variant.mpd
@@ -352,7 +356,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(axnhd)/variant.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6441ec9b4f7ddfbc4cac8801f4df9df:676229a75fdbc1a6b5f4a50c383490d9
 https://dish.akamaized.net/Content/DASH/Live/channel(space)/variant.mpd
-#EXTINF:-1 ch-number="730" tvg-id="AAndE MUNDO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/730.png", A&EHD
+#EXTINF:-1 tvg-id="AAndE MUNDO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/730.png", A&EHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5009add9e5b2cd627ac6ef8aa6db9123:3448834b1b496ed26e9727983c080844
 https://dish.akamaized.net/Content/DASH/Live/channel(aehd)/variant.mpd
@@ -448,10 +452,6 @@ https://dish.akamaized.net/Content/DASH/Live/channel(648fabb8-962b-0e85-93d5-44d
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c716dca5a51693cacb4c0fdf5d58c93e:8a36d0baf248b73563fbe08929e6c889
 https://dish.akamaized.net/Content/DASH/Live/channel(babytv)/variant.mpd
-#EXTINF:-1 tvg-id="CARTOONITO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/298.png", Cartoonito MX (GEO)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dd2c2f31defc5f22f031365d3333c880:f0597b0c74656c330dd6ccd50dfc5464
-https://dish.akamaized.net/Content/DASH/Live/channel(cartoonitohd)/variant.mpd
 #EXTINF:-1 tvg-id="Dream.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/dreamworks.png", DWRKS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6c7a488a73c9c780eaea5765ad29a00:08ffa90ee936cbacb10a59bb66aed57d
