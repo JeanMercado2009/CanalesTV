@@ -1,135 +1,134 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/JeanMercado2009/Grillas-de-Cartoon-Network/refs/heads/main/CNLA_EPG.xml,https://www.open-epg.com/files/bulgaria1.xml,https://www.open-epg.com/files/colombia1.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina5.xml,https://www.open-epg.com/files/argentina6.xml,https://www.open-epg.com/files/argentina7.xml,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/venezuela1.xml,https://www.open-epg.com/files/unitedstates1.xml,https://www.open-epg.com/files/unitedstates2.xml,https://www.open-epg.com/files/unitedstates3.xml,https://www.open-epg.com/files/unitedstates4.xml,https://www.open-epg.com/files/unitedstates6.xml,https://www.open-epg.com/files/unitedstates7.xml,https://www.open-epg.com/files/unitedstates8.xml,https://www.open-epg.com/files/unitedstates9.xml,https://www.open-epg.com/files/unitedstates10.xml,https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil2.xml,https://www.open-epg.com/files/brazil3.xml,https://www.open-epg.com/files/brazil4.xml,https://www.open-epg.com/files/brazil5.xml,https://www.open-epg.com/files/chile1.xml,https://www.open-epg.com/files/chile2.xml,https://www.open-epg.com/files/spain1.xml,https://www.open-epg.com/files/spain2.xml,https://www.open-epg.com/files/spain3.xml,https://www.open-epg.com/files/italy1.xml,https://www.open-epg.com/files/peru1.xml,https://www.open-epg.com/files/canada5.xml,https://raw.githubusercontent.com/JeanMercado2009/rcnradio-epg/refs/heads/main/rcnradiobogota_epg.xml"
 
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", UNITEL (Bolivia)
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", UNITEL (Bolivia)
 #EXTVLCOPT:network-caching=1000
 http://200.59.191.177:8000/play/a0md
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Canal 13 de San Luis (Argentina)
+#EXTINF:0 tvg-id="" group-title="Argentina" tvg-logo="", Canal 13 de San Luis (Argentina)
 #EXTVLCOPT:network-caching=1000
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Telexitos
+#EXTINF:0 tvg-id="" group-title="Películas y Series" tvg-logo="", Telexitos
 #EXTVLCOPT:network-caching=1000
 http://190.197.41.183/TELEXITOS/playlist.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", TV Publica (Argentina) OPT-1
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", TV Publica (Argentina) OPT-1
 #EXTVLCOPT:network-caching=1000
 http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/tvpublica.playlist.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", TV Publica (Argentina) OPT-2
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", TV Publica (Argentina) OPT-2
 #EXTVLCOPT:network-caching=1000
 http://190.7.19.197:232/play/a03c/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (Guatemala)
+#EXTINF:0 tvg-id="" group-title="Películas y Series" tvg-logo="", FOX (Guatemala)
 #EXTVLCOPT:network-caching=1000
 http://38.95.86.0:61400/play/a07u/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (Costa Rica)
+#EXTINF:0 tvg-id="" group-title="Películas y Series" tvg-logo="", FOX (Costa Rica)
 #EXTVLCOPT:network-caching=1000
 http://201.207.54.159:8000/play/a0as/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (Costa Rica)
+#EXTINF:0 tvg-id="" group-title="Películas y Series" tvg-logo="", FOX (Costa Rica)
 #EXTVLCOPT:network-caching=1000
 http://181.78.50.91:8000/play/a06m
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX+ (Costa Rica)
+#EXTINF:0 tvg-id="" group-title="Películas y Series" tvg-logo="", FOX+ (Costa Rica)
 #EXTVLCOPT:network-caching=1000
 http://45.5.116.228:8000/play/a07l
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX USA
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", FOX USA
 #EXTVLCOPT:network-caching=1000
 http://stream.cammonitorplus.net/1833/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FS1 USA
+#EXTINF:0 tvg-id="" group-title="Deportes" tvg-logo="", FS1 USA
 #EXTVLCOPT:network-caching=1000
 http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=858547&extension=ts&play_token=WHBIHGPXA1
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (Honduras)
+#EXTINF:0 tvg-id="" group-title="Películas y Series" tvg-logo="", FOX (Honduras)
 #EXTVLCOPT:network-caching=1000
 http://201.207.54.159:8000/play/a0ar/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", DSports HD (Argentina)
+#EXTINF:0 tvg-id="" group-title="Deportes" tvg-logo="", DSports HD (Argentina)
 #EXTVLCOPT:network-caching=1000
 http://190.7.19.197:232/play/a09i/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", DSports 2 HD (Argentina)
+#EXTINF:0 tvg-id="" group-title="Deportes" tvg-logo="", DSports 2 HD (Argentina)
 #EXTVLCOPT:network-caching=1000
 http://190.7.19.197:232/play/a09h/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", DSports
+#EXTINF:0 tvg-id="" group-title="Deportes" tvg-logo="", DSports
 #EXTVLCOPT:network-caching=1000
 http://190.119.176.186:8000/play/a098
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Teleamazonas
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Teleamazonas
 #EXTVLCOPT:network-caching=1000
 http://186.5.77.99:8000/play/a0am
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Canal 4 TCS
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Canal 4 TCS
 #EXTVLCOPT:network-caching=1000
 http://132.255.210.69:9000/play/a033/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (Región desc)
+#EXTINF:0 tvg-id="" group-title="Películas y Series" tvg-logo="", FOX (Región desc)
 #EXTVLCOPT:network-caching=1000
 http://179.60.224.196:8000/play/a0i0
-#EXTINF:0 tvg-id="TELEFE.ar" group-title="Copa del Mundo 2026" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png", Telefe (Argentina)
+#EXTINF:0 tvg-id="TELEFE.ar" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png", Telefe (Argentina)
 #EXTVLCOPT:network-caching=1000
-
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", TV Pública
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", TV Pública
 #EXTVLCOPT:network-caching=1000
 http://190.7.19.197:232/play/a03c
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", TyC Sports
+#EXTINF:0 tvg-id="" group-title="Deportes" tvg-logo="", TyC Sports
 #EXTVLCOPT:network-caching=1000
 http://190.7.19.197:232/play/a04w
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", TyC Sports (Argentina)
+#EXTINF:0 tvg-id="" group-title="Deportes" tvg-logo="", TyC Sports (Argentina)
 #EXTVLCOPT:network-caching=1000
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-tycsport.playlist.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Chilevisión (Chile) OPT-1
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Chilevisión (Chile) OPT-1
 #EXTVLCOPT:network-caching=1000
 http://38.97.240.11:8000/play/a0fe/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Chilevisión (Chile) OPT-3 
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Chilevisión (Chile) OPT-3 
 #EXTVLCOPT:network-caching=1000
 http://181.79.87.132:8000/play/a0cy/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Caracol (Colombia) OPT-1
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Caracol (Colombia) OPT-1
 #EXTVLCOPT:network-caching=1000
 http://181.78.168.37:8000/play/a0dn
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Caracol (Colombia) OPT-2
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Caracol (Colombia) OPT-2
 #EXTVLCOPT:network-caching=1000
 http://181.78.168.37:8000/play/a0d3
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", RCN SD (Colombia) 
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", RCN SD (Colombia) 
 #EXTVLCOPT:network-caching=1000
 http://181.78.168.37:8000/play/a0d2
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", RCN (Colombia) 
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", RCN (Colombia) 
 #EXTVLCOPT:network-caching=1000
 http://181.118.151.218:8000/play/a01c
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Teleamazonas (Ecuador)
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Teleamazonas (Ecuador)
 #EXTVLCOPT:network-caching=1000
 http://181.79.87.132:8000/play/a0bw/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", FOX (El Salvador)
+#EXTINF:0 tvg-id="" group-title="Películas y Series" tvg-logo="", FOX (El Salvador)
 #EXTVLCOPT:network-caching=1000
 http://201.207.54.159:8000/play/a0av/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Canal 7 (Guatemala)
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Canal 7 (Guatemala)
 #EXTVLCOPT:network-caching=1000
 http://201.207.54.159:8000/play/a04i/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Canal 11 TeleOnce (Guatemala)
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Canal 11 TeleOnce (Guatemala)
 #EXTVLCOPT:network-caching=1000
 http://201.207.54.159:8000/play/a03c/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Azteca 7 (México) OPT-1
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Azteca 7 (México) OPT-1
 #EXTVLCOPT:network-caching=1000
 http://45.171.64.30:2000/play/a00i/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Azteca 7 (México) OPT-2
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Azteca 7 (México) OPT-2
 #EXTVLCOPT:network-caching=1000
 http://38.194.226.190:8000/play/a017/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Canal 5 (México) OPT-1
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Canal 5 (México) OPT-1
 #EXTVLCOPT:network-caching=1000
 http://45.171.64.30:2000/play/a038/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Canal 5 (México) OPT-2
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Canal 5 (México) OPT-2
 #EXTVLCOPT:network-caching=1000
 http://38.194.226.190:8000/play/a02e/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", GEN (Paraguay)
+#EXTINF:0 tvg-id="" group-title="Paraguay" tvg-logo="", GEN (Paraguay)
 #EXTVLCOPT:network-caching=1000
 https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Popu TV (Paraguay) OPT-1
+#EXTINF:0 tvg-id="" group-title="Paraguay" tvg-logo="", Popu TV (Paraguay) OPT-1
 #EXTVLCOPT:network-caching=1000
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Popu TV (Paraguay) OPT-2
+#EXTINF:0 tvg-id="" group-title="Paraguay" tvg-logo="", Popu TV (Paraguay) OPT-2
 #EXTVLCOPT:network-caching=1000
 http://181.79.87.132:8000/play/a0ec/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Telemundo (USA)
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Telemundo (USA)
 #EXTVLCOPT:network-caching=1000
 https://i1.ut770.freelocaltv.org/hls/ktmw-20_hls/ktmw-20_master.m3u8
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Chilevisión
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Chilevisión
 #EXTVLCOPT:network-caching=1000
 http://190.95.11.223:8000/play/066
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Win Sports (Colombia)
+#EXTINF:0 tvg-id="" group-title="Deportes" tvg-logo="", Win Sports (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://181.118.151.218:8000/play/a02u
-#EXTINF:0 tvg-id="" group-title="Copa del Mundo 2026" tvg-logo="", Teletica
+#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Teletica
 #EXTVLCOPT:network-caching=1000
 http://181.119.177.253:8000/play/a0da
-#EXTINF:-1 group-title="Copa del Mundo 2026", Caze TV Amazon
+#EXTINF:-1 group-title="Deportes", CazéTV (Brasil)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"34475edab991ad5e92548aebd710410a":"501b209cccd323ac00bf5ac15b406cb4"}
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://a12aivottepl-a.akamaihd.net
