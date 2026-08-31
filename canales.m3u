@@ -2176,17 +2176,10 @@ http://190.60.48.149:8000/play/SPACE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"02849e7ba3c2e527a9a8152ff111fc22":"87af284b8fc6be1cbf693f20175671a9"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
-
-#EXTINF:0 tvg-id="Warner Channel.pe" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel Perú
-#EXTVLCOPT:network-caching=1000
-http://168.228.44.241:9998/play/a0ag
-#EXTINF:0 tvg-id="Warner Channel.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner English (Colombia)
-#EXTVLCOPT:network-caching=1000
-http://190.90.22.42:5280/play/a0d6
 #EXTINF:-1 tvg-id="Warner Channel.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel Colombia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b0adc810ea2f34ec6904592c12ca5490":"05c77592b06e36644676bc93cec8b71f"}
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WARNER_HD)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"f45e853a8cdf4de8844173f4e5d686b6":"9677644cad491ad952d3b17c4d25fef1"}
+https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(WARNER_HD)/manifest.mpd
 #EXTINF:0 tvg-id="WARNER CHANNEL.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel Argentina
 #EXTVLCOPT:network-caching=1000
 
