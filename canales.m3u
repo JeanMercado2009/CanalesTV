@@ -163,6 +163,9 @@ https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(EU
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://nagracovoslive.lcdn.claro.net.co
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://nagracovoslive.lcdn.claro.net.co
 https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(BOOMERANG_HD)/manifest.mpd
+#EXTINF:0 tvg-id="Cartoonito.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito Brasil
+#EXTVLCOPT:network-caching=1000
+http://srv.mypanel.life:8080/jju4420/NebeQ90Mp1/4763
 #EXTINF:0 tvg-id="Cartoonito.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito LA
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a036
