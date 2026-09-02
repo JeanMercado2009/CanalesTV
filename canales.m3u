@@ -232,7 +232,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(disney_channel)/variant.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a1dd77bf7714007f301a9a08364392e:6635f825f0f5b1cbceb55645b7c8d362
 https://dish.akamaized.net/Content/DASH/Live/channel(disney_Junior)/variant.mpd
-#EXTINF:0 tvg-id="Cartoon Network.mx" group-title="México" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network LA 🇲🇽 (GEO)
+#EXTINF:0 tvg-id="CNLA_PAN.co" group-title="México" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network LA 🇲🇽 (GEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0a8e88e5b5b3eef72f2cb4aae4462f47":"8cf6200e54c309754ed4e99cab5874f6"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://dish.akamaized.net
@@ -573,26 +573,26 @@ https://dish.akamaized.net/Content/DASH/Live/channel(e8dd8035-5c7e-f820-eec5-65a
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=761160036506af26092b33aa78cf320c:f4e90d977d91cd5be891c2a50a11f979
 https://dish.akamaized.net/Content/DASH/Live/channel(c0d08eba-2d62-97ad-fbc6-821201567186)/manifest.mpd
-#EXTINF:-1 tvg-id="xv-Cartoon Network.mx" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png" group-title="México",Cartoon Network México SAP
+#EXTINF:-1 tvg-id="xv-CNLA_PAN.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png" group-title="México",Cartoon Network México SAP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 http://147.78.1.28/xview/cartoon_network_dgo_hd.mpd
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDCUL.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="México", CARTOON NETWORK HD CUL
+#EXTINF:-1 tvg-id="xv-CNLA_PAN.co" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="México", CARTOON NETWORK HD CUL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 http://147.78.1.28/xview/cartoon_network_cln_hd.mpd
 
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDCOB.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(16).png" group-title="México",CARTOON NETWORK HD COB
+#EXTINF:-1 tvg-id="xv-CNLA_PAN.co" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/CARTOONNETWORK(16).png" group-title="México",CARTOON NETWORK HD COB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 http://147.78.1.28/xview/cartoon_network_cob_hd.mpd
 
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDCOL.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500(1).png" group-title="México",CARTOON NETWORK HD COL
+#EXTINF:-1 tvg-id="xv-CNLA_PAN.co" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500(1).png" group-title="México",CARTOON NETWORK HD COL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 http://147.78.1.28/xview/cartoon_network_col_hd.mpd
 
-#EXTINF:-1 tvg-id="xv-CARTOONNETWORKHDGDL.mx" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="México",CARTOON NETWORK HD GDL
+#EXTINF:-1 tvg-id="xv-CNLA_PAN.co" tvg-logo="https://xviewplus.com/RTEFacade/images/attachments/Cartoon Network HD White_C500.png" group-title="México",CARTOON NETWORK HD GDL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 http://147.78.1.28/xview/cartoon_network_gdl_hd.mpd
