@@ -206,6 +206,9 @@ https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3a827f7fede44d8d973cbbaab0c089c0":"f91eeb3c7c12d9391434dc79a872c0b9"}
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CARTOON_NETWORK_HD)/manifest.mpd
+#EXTINF:0 tvg-id="CNLA_BR.br" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Brazil HD
+#EXTVLCOPT:network-caching=1000
+https://944de8673b0f2d1603a6ff33b18b8192.s21-cloudfront-net.lat/embedtv/c8d7c6fbcd3f188e37765702cbf16ef8/file.txt
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network.mx" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network México
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -229,7 +232,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(disney_channel)/variant.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a1dd77bf7714007f301a9a08364392e:6635f825f0f5b1cbceb55645b7c8d362
 https://dish.akamaized.net/Content/DASH/Live/channel(disney_Junior)/variant.mpd
-#EXTINF:0 tvg-id="Cartoon Network.mx" group-title="México" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network MX (GEO)
+#EXTINF:0 tvg-id="Cartoon Network.mx" group-title="México" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network LA 🇲🇽 (GEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0a8e88e5b5b3eef72f2cb4aae4462f47":"8cf6200e54c309754ed4e99cab5874f6"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://dish.akamaized.net
