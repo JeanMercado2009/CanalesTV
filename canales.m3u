@@ -54,8 +54,13 @@ http://132.255.210.69:9000/play/a033/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Películas y Series" tvg-logo="", FOX (Región desc)
 #EXTVLCOPT:network-caching=1000
 http://179.60.224.196:8000/play/a0i0
-#EXTINF:0 tvg-id="TELEFE.ar" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png", Telefe (Argentina)
+#EXTINF:0 tvg-id="TELEFE.ar" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png", Telefe (Argentina)
 #EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9bb54fccffaddd38916e85c08de98cc9":"d06f509c418eb6f1b2fc2b766445328b"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
+https://smt-usr-edge05.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
 #EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", TV Pública
 #EXTVLCOPT:network-caching=1000
 http://190.7.19.197:232/play/a03c
