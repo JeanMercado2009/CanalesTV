@@ -227,7 +227,7 @@ http://186.0.248.62:9091/Cartoon_Network/index.m3u8
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Panregional FHD
 #EXTVLCOPT:network-caching=1000
 http://181.118.150.27:8000/play/a032
-#EXTINF:0 tvg-id="DiSNEY.mx" group-title="México" tvg-logo="https://spotlight-co.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F26%2F22261223_9FFF9808C0DC737C.png", Disney Channel MX (GEO)
+#EXTINF:0 tvg-id="DiSNEY.mx" group-title="México" tvg-logo="https://spotlight-co.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F26%2F22261223_9FFF9808C0DC737C.png", Disney Channel MX 🇲🇽 (GEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4f4ee39dd29073dbefb37d604f1c6a9a":"5fa8a9df75dd5c7af69bb8c65052b8ae"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://dish.akamaized.net
@@ -839,11 +839,18 @@ http://45.189.62.33:8002/play/a0al
 #EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://181.209.96.155:10000/play/a12p
-#EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel (Panregional MPD)
+#EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel LA 🇨🇴 (Panregional MPD)
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"027e637afed7db11853ff1a19cc8e4db":"608f91f05536f5a6c93e70cdd95aba5c"}
 https://covoslivechannels2dash.clarovideo.com/content/DASH_DASH_FK/Live/Channel(DISNEY_HD)/manifest.mpd
+#EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel LA 🇦🇷 (Panregional MPD)
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"70d91b14935a3599f02e5dab71ef21dc":"803e9152e9daf717b772399a97802076"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
+https://smt-usr-edge05.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd
 #EXTINF:-1 tvg-id="Disney Junior.es" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png", Disney Channel (España)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"44875398e74743caabb7278f2b63433f":"a1e2ad6d895feb2a609683324dd0b93c"}
