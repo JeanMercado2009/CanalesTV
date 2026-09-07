@@ -54,13 +54,6 @@ http://132.255.210.69:9000/play/a033/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Películas y Series" tvg-logo="", FOX (Región desc)
 #EXTVLCOPT:network-caching=1000
 http://179.60.224.196:8000/play/a0i0
-#EXTINF:0 tvg-id="TELEFE.ar" group-title="Argentina" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png", Telefe (Argentina)
-#EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9bb54fccffaddd38916e85c08de98cc9":"d06f509c418eb6f1b2fc2b766445328b"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
-https://smt-usr-edge05.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
 #EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", TV Pública
 #EXTVLCOPT:network-caching=1000
 http://190.7.19.197:232/play/a03c
@@ -777,11 +770,6 @@ http://181.118.158.103:8000/play/a035
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"09c5e580f8254da4a05592c5635d6a84":"fff2e9ed3e62de99a58421f07ff7b27b"}
 https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TOONCAST)/manifest.mpd
-#EXTINF:0 tvg-id="Boing.es" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/boing-es.png", Boing (España)
-#EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d67836bb61bc468292412db53f3e193d":"865826b7df4a6ce1493cde232531374e"}
-https://cache07.zapitv.com/live/eds_c2/boing/dash_live_ez/boing.mpd
 #EXTINF:0 tvg-id="Boing.it" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/boing-it.png", Boing HD (Italia)
 #EXTVLCOPT:network-caching=1000
 http://176.65.146.203:5003/play/a07t
@@ -844,17 +832,6 @@ http://181.209.96.155:10000/play/a12p
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"027e637afed7db11853ff1a19cc8e4db":"608f91f05536f5a6c93e70cdd95aba5c"}
 https://covoslivechannels2dash.clarovideo.com/content/DASH_DASH_FK/Live/Channel(DISNEY_HD)/manifest.mpd
-#EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel LA 🇦🇷 (Panregional MPD)
-#EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"70d91b14935a3599f02e5dab71ef21dc":"803e9152e9daf717b772399a97802076"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
-https://smt-usr-edge05.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd
-#EXTINF:-1 tvg-id="Disney Junior.es" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png", Disney Channel (España)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"44875398e74743caabb7278f2b63433f":"a1e2ad6d895feb2a609683324dd0b93c"}
-https://cache07.zapitv.com/live/eds_c2/DISNEYJR/dash_live_ez/DISNEYJR.mpd
 #EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel (Israel)
 #EXTVLCOPT:network-caching=1000
 http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
@@ -1359,36 +1336,6 @@ http://181.78.71.71:18000/play/a003
 #EXTINF:0 tvg-id="EWTN.co" group-title="Televisión Abierta" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/EWTN.png", EWTN
 #EXTVLCOPT:network-caching=1000
 http://190.66.23.210:9003/play/a0ec
-#EXTINF:-1 tvg-logo="https://ver.zapitv.com/images/repository/950/2295950-LOGO-m.png" group-title="Televisión Abierta", La 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"47cc7264dc314b589e687be2e4d3be59":"f61d992a078161b377909c8bf35c5910"}
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://cache01.zapitv.com
-https://cache01.zapitv.com/live/eds_c2/la1_4k/dash_live_ez/la1_4k.mpd
-#EXTINF:-1 tvg-logo="https://ver.zapitv.com/images/repository/951/2295951-LOGO-m.png" group-title="Televisión Abierta", La 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5b04f8cab6ec450ca1192ca2ebe401dd":"2cc27523867f8a70bf5f9a7bccdd08b7"}
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://cache01.zapitv.com
-https://cache01.zapitv.com/live/eds_c2/la_2/dash_live_ez/la_2.mpd
-#EXTINF:-1 tvg-logo="https://ver.zapitv.com/images/repository/783/2020783-LOGO-m.png" group-title="Televisión Abierta", Antena 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4b0df13e55ea4ea196c2da379ef34be5":"336eacb3a4ec3c35dca11c848b1630ea"}
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://cache01.zapitv.com
-https://cache01.zapitv.com/live/eds_c2/test/dash_live_ez/test.mpd
-#EXTINF:-1 tvg-logo="https://ver.zapitv.com/images/repository/013/13-LOGO-m.png" group-title="Televisión Abierta", Cuatro
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"7d3e3f1b8198490ba7bfff0e123a619c":"6c55ac488ea2ea16826d02a2838b8ba6"}
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://cache01.zapitv.com
-https://cache01.zapitv.com/live/eds_c2/cuatro/dash_live_ez/cuatro.mpd
-#EXTINF:-1 tvg-logo="https://ver.zapitv.com/images/repository/014/14-LOGO-m.png" group-title="Televisión Abierta", Telecinco
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"25d236b2fd8a47a3b1e6eeca2e288a35":"4d18515ab83ebde113fe16eb885b9a85"}
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://cache01.zapitv.com
-https://cache06.zapitv.com/live/eds_c2/telecinco/dash_live_ez/telecinco.mpd
-#EXTINF:-1 tvg-logo="https://ver.zapitv.com/images/repository/180/1847180-LOGO-m.png" group-title="Televisión Abierta", La Sexta
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b18078e2d24a43c2bef2acf0ecf92962":"2fe3632c7074c7bbe49611ccc750a571"}
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://cache01.zapitv.com
-https://cache01.zapitv.com/live/eds_c2/la_sexta/dash_live_ez/la_sexta.mpd
 #EXTINF:0 group-title="Televisión Abierta" tvg-logo="", TL Más SV
 #EXTVLCOPT:network-caching=1000
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
