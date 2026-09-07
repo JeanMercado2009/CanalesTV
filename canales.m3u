@@ -2115,12 +2115,15 @@ http://190.60.48.149:8000/play/SPACE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f45e853a8cdf4de8844173f4e5d686b6":"9677644cad491ad952d3b17c4d25fef1"}
 https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(WARNER_HD)/manifest.mpd
+#EXTINF:0 tvg-id="WARNER_VE.ve" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel Venezuela
+#EXTVLCOPT:network-caching=1000
+http://190.60.59.67:8000/play/a0g7
 #EXTINF:0 tvg-id="WARNER_AR.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel Argentina
 #EXTVLCOPT:network-caching=1000
-
-#EXTINF:0 tvg-id="WARNER_MX.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner (México)
+http://138.59.227.20:8000/play/a09d
+#EXTINF:0 tvg-id="WARNER_MX.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel SD (México)
 #EXTVLCOPT:network-caching=1000
-http://45.189.62.33:8002/play/a0cf
+http://200.71.111.190:8000/play/a0cf/index.m3u8??hls
 #EXTINF:-1 tvg-id="WARNER_MX.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel México
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a62d210f0f907a0ebfb84a790d42780b":"590779be25e38a41d817f6ad13f5b070"}
