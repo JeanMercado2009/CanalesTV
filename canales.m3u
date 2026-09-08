@@ -1110,6 +1110,9 @@ http://37.230.57.142:9981/stream/channelid/1994765436?profile=pass
 #EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Radio
 #EXTVLCOPT:network-caching=1000
 https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac
+#EXTINF:0 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports
+#EXTVLCOPT:network-caching=1000
+http://38.252.208.34:40000/play/a0at
 #EXTINF:-1 tvg-id="CaracolSports.co" group-title="Deportes" tvg-logo="https://image-registry.avscaracoltv.com/logos/caracolsports-lg.png", Caracol Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1c6bfd8d1cdd4df69ea5fc4dd2f025bb":"b6fd90027dac7a94a9461f8b2638cbb4"}
