@@ -2118,6 +2118,9 @@ http://190.60.48.149:8000/play/SPACE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f45e853a8cdf4de8844173f4e5d686b6":"9677644cad491ad952d3b17c4d25fef1"}
 https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(WARNER_HD)/manifest.mpd
+#EXTINF:0 tvg-id="WARNER_CL.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel Chile
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.100:8000/play/a1ym
 #EXTINF:0 tvg-id="WARNER_VE.ve" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel Venezuela
 #EXTVLCOPT:network-caching=1000
 http://190.60.59.67:8000/play/a0g7
