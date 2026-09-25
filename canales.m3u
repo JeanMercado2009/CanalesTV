@@ -218,7 +218,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(cartoonnetworks)/variant.mp
 https://dish.akamaized.net/Content/DASH/Live/channel(cartoonitohd)/variant.mpd
 #EXTINF:-1 tvg-id="DISCOVERY KIDS.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/792.png", Discovery Kids MX (GEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4f4ee39dd29073dbefb37d604f1c6a9a":"5fa8a9df75dd5c7af69bb8c65052b8ae"}
+#KODIPROP:inputstream.adaptive.license_key={"a57ec54090c0b450f2e2ef90de4013f9":"a49da89c878182c99b9d2e9282d5aa3a"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://dish.akamaized.net
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://dish.akamaized.net
 https://dish.akamaized.net/Content/DASH/Live/channel(discoverykids)/variant.mpd
