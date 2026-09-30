@@ -669,7 +669,7 @@ http://45.189.62.33:8002/play/a0al
 #EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://181.209.96.155:10000/play/a12p
-#EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel LA 🇨🇴 (Panregional MPD)
+#EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://spotlight-co.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F26%2F22261223_9FFF9808C0DC737C.png", Disney Channel LA 🇨🇴 (Panregional MPD)
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"027e637afed7db11853ff1a19cc8e4db":"608f91f05536f5a6c93e70cdd95aba5c"}
@@ -680,7 +680,6 @@ http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
 #EXTINF:-1 tvg-id="DISNEY.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel HD (México)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f047ea1abdca6f03117454c4de0b6d5b":"b038c8c8f114c568956d428e80ae38d7"}
-
 #EXTINF:0 tvg-id="Disney Junior.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-jr-lam.png", Disney Jr. (Norte)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2a54fcc9e39ebb71a0a91b0b7e1946b9":"0720f4901617bf3db3581d55110d7ef6"}
