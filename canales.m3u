@@ -312,7 +312,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(cinecanal)/variant.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbac4c7d3d0f47a319e638e65c985997:de8dd6acc1d3cdb1994720ee41f43417
 https://dish.akamaized.net/Content/DASH/Live/channel(aztecacinemahd)/variant.mpd
-#EXTINF:-1 tvg-id="STAR CHANNEL.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/702.png", STCHD
+#EXTINF:-1 tvg-id="STAR CHANNEL.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/702.png", Star Channel México (GEO)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6de957e2c8090588b2cc3b4cfe0470f4:52d97d7f43b204d2379b43ee7d3a2a21
 https://dish.akamaized.net/Content/DASH/Live/channel(start_channel)/variant.mpd
@@ -682,8 +682,9 @@ http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"f047ea1abdca6f03117454c4de0b6d5b":"b038c8c8f114c568956d428e80ae38d7"}
 
 #EXTINF:0 tvg-id="Disney Junior.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-jr-lam.png", Disney Jr. (Norte)
-#EXTVLCOPT:network-caching=1000
-http://181.118.150.27:8000/play/a01l
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2a54fcc9e39ebb71a0a91b0b7e1946b9":"0720f4901617bf3db3581d55110d7ef6"}
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISNEYJR_HD)/manifest.mpd
 #EXTINF:0 tvg-id="DISNEY JUNIOR.ar" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-jr-lam.png", Disney Jr. (Sur) SD
 #EXTVLCOPT:network-caching=1000
 http://190.60.42.86:8000/play/a00a
