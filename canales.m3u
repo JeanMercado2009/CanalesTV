@@ -1979,7 +1979,7 @@ http://186.33.57.100:8000/play/a1ym
 http://190.60.59.67:8000/play/a0g7
 #EXTINF:0 tvg-id="WARNER_AR.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel Argentina
 #EXTVLCOPT:network-caching=1000
-http://138.59.227.20:8000/play/a09d
+http://200.50.155.180:8000/play/a0h0t/index.m3u8
 #EXTINF:0 tvg-id="WARNER_MX.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel SD (México)
 #EXTVLCOPT:network-caching=1000
 http://200.71.111.190:8000/play/a0cf/index.m3u8??hls
