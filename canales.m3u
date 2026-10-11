@@ -1892,9 +1892,6 @@ http://190.0.247.38:8000/play/a017
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0c39778fe8fb4f9f8574016b3d4ae2ed":"232b1f450f2e37f47fdd5b678a8a546d"}
 
-#EXTINF:0 tvg-id="Star Channel HD.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel (Panregional)
-#EXTVLCOPT:network-caching=1000
-http://38.252.238.18:8000/play/a063
 #EXTINF:0 tvg-id="Star Channel HD.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel (Panregional) HD
 #EXTVLCOPT:network-caching=1000
 http://179.1.110.145:9000/play/a07t/index.m3u8
