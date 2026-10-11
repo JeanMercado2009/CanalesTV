@@ -1903,7 +1903,7 @@ http://181.118.150.27:8000/play/a01h
 http://200.50.155.180:8000/play/a0h0r/index.m3u8
 #EXTINF:0 tvg-id="Star Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel SD (México)
 #EXTVLCOPT:network-caching=1000
-http://45.189.62.33:8002/play/a08v
+http://200.71.111.190:8000/play/a08v/index.m3u8
 #EXTINF:0 tvg-id="Star Channel.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel HD (México)
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
