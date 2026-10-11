@@ -669,6 +669,9 @@ http://45.189.62.33:8002/play/a0al
 #EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://179.1.110.145:9000/play/a05y/index.m3u8
+#EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel (Panregional) AR
+#EXTVLCOPT:network-caching=1000
+http://200.50.155.180:8000/play/a0h0i/index.m3u8
 #EXTINF:0 tvg-id="Disney Channel.co" group-title="Infantil" tvg-logo="https://spotlight-co.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F26%2F22261223_9FFF9808C0DC737C.png", Disney Channel LA 🇨🇴 (Panregional MPD)
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
