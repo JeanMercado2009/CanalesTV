@@ -1,21 +1,30 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/JeanMercado2009/epg-skydance-la/refs/heads/main/CNLA_EPG.xml,https://raw.githubusercontent.com/JeanMercado2009/epg-skydance-la/refs/heads/main/WARNERLA_EPG.xml,https://raw.githubusercontent.com/JeanMercado2009/epg-skydance-la/refs/heads/main/nickelodeon/Nickelodeon_LA.xml,https://www.open-epg.com/files/bulgaria1.xml,https://www.open-epg.com/files/colombia1.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina5.xml,https://www.open-epg.com/files/argentina6.xml,https://www.open-epg.com/files/argentina7.xml,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/venezuela1.xml,https://www.open-epg.com/files/unitedstates1.xml,https://www.open-epg.com/files/unitedstates2.xml,https://www.open-epg.com/files/unitedstates3.xml,https://www.open-epg.com/files/unitedstates4.xml,https://www.open-epg.com/files/unitedstates6.xml,https://www.open-epg.com/files/unitedstates7.xml,https://www.open-epg.com/files/unitedstates8.xml,https://www.open-epg.com/files/unitedstates9.xml,https://www.open-epg.com/files/unitedstates10.xml,https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil2.xml,https://www.open-epg.com/files/brazil3.xml,https://www.open-epg.com/files/brazil4.xml,https://www.open-epg.com/files/brazil5.xml,https://www.open-epg.com/files/chile1.xml,https://www.open-epg.com/files/chile2.xml,https://www.open-epg.com/files/spain1.xml,https://www.open-epg.com/files/spain2.xml,https://www.open-epg.com/files/spain3.xml,https://www.open-epg.com/files/italy1.xml,https://www.open-epg.com/files/peru1.xml,https://www.open-epg.com/files/canada5.xml,https://raw.githubusercontent.com/JeanMercado2009/rcnradio-epg/refs/heads/main/rcnradiobogota_epg.xml"
+#EXTM3U url-tvg="https://api.40mediagroup.com/xmltv/programacion/todos/xmltv.xml,https://raw.githubusercontent.com/JeanMercado2009/epg-skydance-la/refs/heads/main/CNLA_EPG.xml,https://raw.githubusercontent.com/JeanMercado2009/epg-skydance-la/refs/heads/main/WARNERLA_EPG.xml,https://raw.githubusercontent.com/JeanMercado2009/epg-skydance-la/refs/heads/main/nickelodeon/Nickelodeon_LA.xml,https://www.open-epg.com/files/bulgaria1.xml,https://www.open-epg.com/files/colombia1.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina5.xml,https://www.open-epg.com/files/argentina6.xml,https://www.open-epg.com/files/argentina7.xml,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/venezuela1.xml,https://www.open-epg.com/files/unitedstates1.xml,https://www.open-epg.com/files/unitedstates2.xml,https://www.open-epg.com/files/unitedstates3.xml,https://www.open-epg.com/files/unitedstates4.xml,https://www.open-epg.com/files/unitedstates6.xml,https://www.open-epg.com/files/unitedstates7.xml,https://www.open-epg.com/files/unitedstates8.xml,https://www.open-epg.com/files/unitedstates9.xml,https://www.open-epg.com/files/unitedstates10.xml,https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil2.xml,https://www.open-epg.com/files/brazil3.xml,https://www.open-epg.com/files/brazil4.xml,https://www.open-epg.com/files/brazil5.xml,https://www.open-epg.com/files/chile1.xml,https://www.open-epg.com/files/chile2.xml,https://www.open-epg.com/files/spain1.xml,https://www.open-epg.com/files/spain2.xml,https://www.open-epg.com/files/spain3.xml,https://www.open-epg.com/files/italy1.xml,https://www.open-epg.com/files/peru1.xml,https://www.open-epg.com/files/canada5.xml,https://raw.githubusercontent.com/JeanMercado2009/rcnradio-epg/refs/heads/main/rcnradiobogota_epg.xml"
 
-#EXTINF:0 tvg-id="" group-title="ENT Pack" tvg-logo="", ENT Movies
+#EXTINF:0 tvg-id="ENT Channel" group-title="ENT Pack", ENT Channel
+#EXTVLCOPT:network-caching=1000
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:0 tvg-id="ENT Channel" group-title="ENT Pack", ENT Channel (Opción 2)
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:0 tvg-id="ENT Family" group-title="ENT Pack", ENT Family
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:0 tvg-id="ENT Movies" group-title="ENT Pack" tvg-logo="", ENT Movies
 #EXTVLCOPT:network-caching=1000
 https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8 
-#EXTINF:0 tvg-id="" group-title="ENT Pack" tvg-logo="", ENT Drama
+#EXTINF:0 tvg-id="ENT Drama" group-title="ENT Pack" tvg-logo="", ENT Drama
 #EXTVLCOPT:network-caching=1000
 https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:0 tvg-id="" group-title="ENT Pack" tvg-logo="", ENT Classics
+#EXTINF:0 tvg-id="ENT Classic" group-title="ENT Pack" tvg-logo="", ENT Classics
 #EXTVLCOPT:network-caching=1000
 https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:0 tvg-id="" group-title="ENT Pack" tvg-logo="", ENT Life
+#EXTINF:0 tvg-id="ENT Life" group-title="ENT Pack" tvg-logo="", ENT Life
 #EXTVLCOPT:network-caching=1000
 https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:0 tvg-id="" group-title="ENT Pack" tvg-logo="", Totalmusic Concerts/ENT Extreme
+#EXTINF:0 tvg-id="ENT Extreme" group-title="ENT Pack" tvg-logo="", Totalmusic Concerts/ENT Extreme
 #EXTVLCOPT:network-caching=1000
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:0 tvg-id="" group-title="ENT Pack" tvg-logo="", Totalmusic Dance/ENT Comedy
+#EXTINF:0 tvg-id="ENT Comedy" group-title="ENT Pack" tvg-logo="", Totalmusic Dance/ENT Comedy
 #EXTVLCOPT:network-caching=1000
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:0 tvg-id="" group-title="Argentina" tvg-logo="", Canal 13 de San Luis (Argentina)
@@ -1706,9 +1715,6 @@ https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u
 #EXTINF:0 group-title="Entretenimiento", TL+ Santa Ana
 #EXTVLCOPT:network-caching=1000
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:0 group-title="Entretenimiento", ENT Channel
-#EXTVLCOPT:network-caching=1000
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:0 tvg-id="Telemundo.co" group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/argentina/telemundo-international-ar.png", Telemundo (Nueva York)
 #EXTVLCOPT:network-caching=1000
 http://72.90.150.217:8000/play/a07a
