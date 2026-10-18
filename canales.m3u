@@ -577,9 +577,12 @@ http://190.83.9.222:8000/play/ca065
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network SD Panregional
 #EXTVLCOPT:network-caching=1000
 http://200.115.96.66:4000/play/a0dd
-#EXTINF:0 tvg-id="Cartoon Network (HD).hu" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network CEE
+#EXTINF:-1 tvg-id="Cartoon Network (HD).hu" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network CEE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"98cb877e5398843d8a10cf31a0fbbf88":"255c9b5d26cb32c9f548e8d08120507f"}
+#KODIPROP:inputstream.adaptive.license_key=98cb877e5398843d8a10cf31a0fbbf88:255c9b5d26cb32c9f548e8d08120507f
 https://tvcdn.tv.telia.lt/live/eds/Cartoon_Network_HD/DASH_5_CPIX_NPVR/Cartoon_Network_HD.mpd
 #EXTINF:0 group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Japan
 #EXTVLCOPT:network-caching=1000
