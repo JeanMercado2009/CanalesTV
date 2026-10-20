@@ -619,12 +619,12 @@ http://86.152.19.137:5000/api/1u1/live/cartoon_network_de.m3u8?code=sTgYOw6NpN5n
 #EXTINF:0 group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Cartoons
 #EXTVLCOPT:network-caching=1000
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
-#EXTINF:24 tvg-id="Cartoon Network (East).us" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/misc/vod/cartoon-network-adult-swim-vod-us.png", CN / Adult Swim (USA)
+#EXTINF:24 tvg-id="Cartoon Network (East).us" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/misc/vod/cartoon-network-adult-swim-vod-us.png", Cartoon Network (East) 🇺🇸 (GEO)
 #EXTVLCOPT:network-caching=1000
 https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:24 tvg-id="Cartoon Network (West).us" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/misc/vod/cartoon-network-adult-swim-vod-us.png", CN / Adult Swim (West)
+#EXTINF:24 tvg-id="Cartoon Network (West).us" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/misc/vod/cartoon-network-adult-swim-vod-us.png", Adult Swim (East) 🇺🇸 (GEO)
 #EXTVLCOPT:network-caching=1000
-http://iptv1.kavkom.tv:8000/live/soyk8qm9/svtyzw29he/15621.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CARTOON HD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://38.3.176.165:15002/play/a16r
