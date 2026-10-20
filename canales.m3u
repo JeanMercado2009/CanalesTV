@@ -621,16 +621,10 @@ http://86.152.19.137:5000/api/1u1/live/cartoon_network_de.m3u8?code=sTgYOw6NpN5n
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
 #EXTINF:24 tvg-id="Cartoon Network (East).us" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/misc/vod/cartoon-network-adult-swim-vod-us.png", CN / Adult Swim (USA)
 #EXTVLCOPT:network-caching=1000
-http://40.160.24.52/CARTOON_NETWORK_EAST/index.m3u8
-#EXTINF:24 tvg-id="Cartoon Network (East).us" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/misc/vod/cartoon-network-adult-swim-vod-us.png", CN / Adult Swim (USA)
-#EXTVLCOPT:network-caching=1000
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:24 tvg-id="Cartoon Network (East).us" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/misc/vod/cartoon-network-adult-swim-vod-us.png", CN / Adult Swim (USA)
-#EXTVLCOPT:network-caching=1000
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/mpegts
+https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:24 tvg-id="Cartoon Network (West).us" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/misc/vod/cartoon-network-adult-swim-vod-us.png", CN / Adult Swim (West)
 #EXTVLCOPT:network-caching=1000
-http://app.horizonpanel.net:80/TimmyBrown22/a8Sg1N94/868898
+http://iptv1.kavkom.tv:8000/live/soyk8qm9/svtyzw29he/15621.m3u8
 #EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CARTOON HD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://38.3.176.165:15002/play/a16r
