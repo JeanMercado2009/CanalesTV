@@ -240,13 +240,13 @@ https://dish.akamaized.net/Content/DASH/Live/channel(cartoonnetworks)/variant.mp
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd2c2f31defc5f22f031365d3333c880:f0597b0c74656c330dd6ccd50dfc5464
 https://dish.akamaized.net/Content/DASH/Live/channel(cartoonitohd)/variant.mpd
-#EXTINF:-1 tvg-id="DISCOVERY KIDS.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/792.png", Discovery Kids MX (GEO)
+#EXTINF:-1 tvg-id="DKLA_MX.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/792.png", Discovery Kids MX (GEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a57ec54090c0b450f2e2ef90de4013f9":"a49da89c878182c99b9d2e9282d5aa3a"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://dish.akamaized.net
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://dish.akamaized.net
 https://dish.akamaized.net/Content/DASH/Live/channel(discoverykids)/variant.mpd
-#EXTINF:-1 tvg-id="NICKELODEON.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/286.png", Nickelodeon Latino MX (GEO)
+#EXTINF:-1 tvg-id="Nickelodeon en Español" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/286.png", Nickelodeon Latino MX (GEO)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ec274831caa80e1ec173dbd5b0d5e83:cc5fb77171900013b60e4ef49da9f1ac
 https://dish.akamaized.net/Content/DASH/Live/channel(Nickelodeon)/manifest.mpd
@@ -343,7 +343,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(aztecacinemahd)/variant.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6de957e2c8090588b2cc3b4cfe0470f4:52d97d7f43b204d2379b43ee7d3a2a21
 https://dish.akamaized.net/Content/DASH/Live/channel(start_channel)/variant.mpd
-#EXTINF:-1 tvg-id="WARNER.mx" group-title="México" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel MX (GEO)
+#EXTINF:-1 tvg-id="WARNER_MX.mx" group-title="México" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner Channel MX (GEO)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=79dc87836d93d0fb7c1bb10e301bab82:8b0e2a78cad3b2fe84b116adb0a9d9ef
 https://dish.akamaized.net/Content/DASH/Live/channel(warner_channel)/variant.mpd
@@ -587,12 +587,6 @@ https://tvcdn.tv.telia.lt/live/eds/Cartoon_Network_HD/DASH_5_CPIX_NPVR/Cartoon_N
 #EXTINF:0 group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Japan
 #EXTVLCOPT:network-caching=1000
 https://nl.utako.moe/cartoon_network/index.m3u8
-#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network SAP
-#EXTVLCOPT:network-caching=1000
-http://181.118.158.103:8000/play/a037
-#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Colombia)
-#EXTVLCOPT:network-caching=1000
-http://181.118.150.27:8000/play/a04b
 #EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network (PAN)
 #EXTVLCOPT:network-caching=1000
 http://45.171.64.30:6060/play/a01h
@@ -625,10 +619,10 @@ https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_1_
 #EXTINF:24 tvg-id="Cartoon Network (West).us" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/misc/vod/cartoon-network-adult-swim-vod-us.png", Adult Swim (East) 🇺🇸 (GEO)
 #EXTVLCOPT:network-caching=1000
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CARTOON HD (Panregional)
+#EXTINF:0 tvg-id="CNLA_PAN.co" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CARTOON HD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://38.3.176.165:15002/play/a16r
-#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Panregional)
+#EXTINF:0 tvg-id="CNLA_PAN.co" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://45.190.187.183:8080/play/a1db
 #EXTINF:0 tvg-id="Tooncast.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tooncast-lam.png", Tooncast (Latinoamérica)
