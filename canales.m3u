@@ -593,9 +593,6 @@ http://38.3.176.165:15002/play/a16r
 #EXTINF:0 tvg-id="CNLA_PAN.co" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://45.190.187.183:8080/play/a1db
-#EXTINF:0 tvg-id="TOONLA_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tooncast-lam.png", Tooncast (Latinoamérica)
-#EXTVLCOPT:network-caching=1000
-http://181.118.158.103:8000/play/a035
 #EXTINF:0 tvg-id="TOONLA_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tooncast-lam.png", Tooncast LA
 #EXTVLCOPT:network-caching=100
 #EXTHTTP:{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
