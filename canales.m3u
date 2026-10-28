@@ -648,6 +648,9 @@ http://200.71.111.190:8000/play/a0an/index.m3u8?hls
 
 #EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel CEE
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ff8085fd9469913a6f11fb3a4dd3a1be":"2496ee469b2d1a19c22271a7b89c29e0"}
 https://tvcdn.tv.telia.lt/live/eds/Disney_Channel/DASH_5_CPIX_NPVR/Disney_Channel.mpd
