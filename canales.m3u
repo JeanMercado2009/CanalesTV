@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://api.40mediagroup.com/xmltv/programacion/todos/xmltv.xml,https://raw.githubusercontent.com/JeanMercado2009/epg-skydance-la/refs/heads/main/DKLA_EPG.xml,https://raw.githubusercontent.com/JeanMercado2009/epg-skydance-la/refs/heads/main/CNLA_EPG.xml,https://raw.githubusercontent.com/JeanMercado2009/epg-skydance-la/refs/heads/main/WARNERLA_EPG.xml,https://raw.githubusercontent.com/JeanMercado2009/epg-skydance-la/refs/heads/main/nickelodeon/Nickelodeon_LA.xml,https://www.open-epg.com/files/bulgaria1.xml,https://www.open-epg.com/files/colombia1.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina5.xml,https://www.open-epg.com/files/argentina6.xml,https://www.open-epg.com/files/argentina7.xml,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/venezuela1.xml,https://www.open-epg.com/files/unitedstates1.xml,https://www.open-epg.com/files/unitedstates2.xml,https://www.open-epg.com/files/unitedstates3.xml,https://www.open-epg.com/files/unitedstates4.xml,https://www.open-epg.com/files/unitedstates6.xml,https://www.open-epg.com/files/unitedstates7.xml,https://www.open-epg.com/files/unitedstates8.xml,https://www.open-epg.com/files/unitedstates9.xml,https://www.open-epg.com/files/unitedstates10.xml,https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil2.xml,https://www.open-epg.com/files/brazil3.xml,https://www.open-epg.com/files/brazil4.xml,https://www.open-epg.com/files/brazil5.xml,https://www.open-epg.com/files/chile1.xml,https://www.open-epg.com/files/chile2.xml,https://www.open-epg.com/files/spain1.xml,https://www.open-epg.com/files/spain2.xml,https://www.open-epg.com/files/spain3.xml,https://www.open-epg.com/files/italy1.xml,https://www.open-epg.com/files/peru1.xml,https://www.open-epg.com/files/canada5.xml,https://raw.githubusercontent.com/JeanMercado2009/rcnradio-epg/refs/heads/main/rcnradiobogota_epg.xml"
+#EXTM3U url-tvg="https://api.40mediagroup.com/xmltv/programacion/todos/xmltv.xml,https://raw.githubusercontent.com/JeanMercado2009/epg-skydance-la/refs/heads/main/CTOOLA_EPG.xml,https://github.com/JeanMercado2009/epg-skydance-la/blob/main/TNT_SPORTS.xml,https://github.com/JeanMercado2009/epg-skydance-la/blob/main/TOONCAST_EPG.xml,https://raw.githubusercontent.com/JeanMercado2009/epg-skydance-la/refs/heads/main/DKLA_EPG.xml,https://raw.githubusercontent.com/JeanMercado2009/epg-skydance-la/refs/heads/main/CNLA_EPG.xml,https://raw.githubusercontent.com/JeanMercado2009/epg-skydance-la/refs/heads/main/WARNERLA_EPG.xml,https://raw.githubusercontent.com/JeanMercado2009/epg-skydance-la/refs/heads/main/nickelodeon/Nickelodeon_LA.xml,https://www.open-epg.com/files/bulgaria1.xml,https://www.open-epg.com/files/colombia1.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina5.xml,https://www.open-epg.com/files/argentina6.xml,https://www.open-epg.com/files/argentina7.xml,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/venezuela1.xml,https://www.open-epg.com/files/unitedstates1.xml,https://www.open-epg.com/files/unitedstates2.xml,https://www.open-epg.com/files/unitedstates3.xml,https://www.open-epg.com/files/unitedstates4.xml,https://www.open-epg.com/files/unitedstates6.xml,https://www.open-epg.com/files/unitedstates7.xml,https://www.open-epg.com/files/unitedstates8.xml,https://www.open-epg.com/files/unitedstates9.xml,https://www.open-epg.com/files/unitedstates10.xml,https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil2.xml,https://www.open-epg.com/files/brazil3.xml,https://www.open-epg.com/files/brazil4.xml,https://www.open-epg.com/files/brazil5.xml,https://www.open-epg.com/files/chile1.xml,https://www.open-epg.com/files/chile2.xml,https://www.open-epg.com/files/spain1.xml,https://www.open-epg.com/files/spain2.xml,https://www.open-epg.com/files/spain3.xml,https://www.open-epg.com/files/italy1.xml,https://www.open-epg.com/files/peru1.xml,https://www.open-epg.com/files/canada5.xml,https://raw.githubusercontent.com/JeanMercado2009/rcnradio-epg/refs/heads/main/rcnradiobogota_epg.xml"
 
 #EXTINF:0 tvg-id="ENT Channel" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png", ENT Channel
 #EXTVLCOPT:network-caching=1000
@@ -154,25 +154,32 @@ https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(EU
 #KODIPROP:inputstream.adaptive.license_key={"a255e1384db3e9ce7e0349e8aa9b9f77":"404cc4fb45f82c9a7dffd3d2496cca20"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 
-#EXTINF:0 tvg-id="Cartoonito.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito LA MPD
+#EXTINF:0 tvg-id="CTOO_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito LA MPD
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3fc370ab08218da5dad9b9644f1df57b":"1ddc60916c0efd29990cb1d319e7710a"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://hfc-tlx-live-atv-cdn.izzigo.tv
 
-#EXTINF:0 tvg-id="Cartoonito.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito MPD
+#EXTINF:0 tvg-id="CTOO_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito MPD
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1eb4e06b93c8409cbbe44f3319bb0984":"ea11715a6dd9d820e0e8ec2fe4c3b447"}
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://nagracovoslive.lcdn.claro.net.co
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://nagracovoslive.lcdn.claro.net.co
 https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(BOOMERANG_HD)/manifest.mpd
-#EXTINF:0 tvg-id="Cartoonito.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito Brasil
+#EXTINF:0 tvg-id="CTOO_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito Brasil
 #EXTVLCOPT:network-caching=1000
 http://srv.mypanel.life:8080/jju4420/NebeQ90Mp1/4763
-#EXTINF:0 tvg-id="Cartoonito.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito LA
+#EXTINF:0 tvg-id="CTOO_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito LA
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a036
+#EXTINF:-1 tvg-id="CTOO_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/cartoonito-mx.png", Cartoonito (StarTV)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d333085508c4d9475898b1c076729026:c7337129f025bed8399b54ff78b0d019
+https://bpk.startvstream.com/bpk-tv/cartoonito/cdn_bpk/index.mpd|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/148.0.0.0%20Safari/537.36&Referer=https%3A//edgelb.stargroup.com.mx/
+
 #EXTINF:0 group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network (Asia)
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -236,7 +243,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(disney_Junior)/variant.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://dish.akamaized.net
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://dish.akamaized.net
 https://dish.akamaized.net/Content/DASH/Live/channel(cartoonnetworks)/variant.mpd
-#EXTINF:-1 tvg-id="CARTOONITO.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/298.png", Cartoonito MX (GEO)
+#EXTINF:-1 tvg-id="CTOO_PAN.co" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/298.png", Cartoonito MX (GEO)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd2c2f31defc5f22f031365d3333c880:f0597b0c74656c330dd6ccd50dfc5464
 https://dish.akamaized.net/Content/DASH/Live/channel(cartoonitohd)/variant.mpd
@@ -625,10 +632,10 @@ http://38.3.176.165:15002/play/a16r
 #EXTINF:0 tvg-id="CNLA_PAN.co" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://45.190.187.183:8080/play/a1db
-#EXTINF:0 tvg-id="Tooncast.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tooncast-lam.png", Tooncast (Latinoamérica)
+#EXTINF:0 tvg-id="TOONLA_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tooncast-lam.png", Tooncast (Latinoamérica)
 #EXTVLCOPT:network-caching=1000
 http://181.118.158.103:8000/play/a035
-#EXTINF:0 tvg-id="Tooncast.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tooncast-lam.png", Tooncast LA
+#EXTINF:0 tvg-id="TOONLA_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/tooncast-lam.png", Tooncast LA
 #EXTVLCOPT:network-caching=100
 #EXTHTTP:{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2317,13 +2324,6 @@ https://bpk.startvstream.com/bpk-tv/pop_latino/cdn_bpk/index.mpd|User-Agent=Mozi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d11b9412a8ff559b026bc3f82b96f7db:792ba0dd02ba877f31ce3a49782897f8
 https://bpk.startvstream.com/bpk-tv/mariavision/cdn_bpk/index.mpd|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/148.0.0.0%20Safari/537.36&Referer=https%3A//edgelb.stargroup.com.mx/
-
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" group-title="StarTV",Cartoonito
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d333085508c4d9475898b1c076729026:c7337129f025bed8399b54ff78b0d019
-https://bpk.startvstream.com/bpk-tv/cartoonito/cdn_bpk/index.mpd|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/148.0.0.0%20Safari/537.36&Referer=https%3A//edgelb.stargroup.com.mx/
 
 #EXTINF:-1 tvg-id="" tvg-name="E" group-title="StarTV",E
 #KODIPROP:inputstream=inputstream.adaptive
