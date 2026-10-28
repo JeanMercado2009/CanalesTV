@@ -57,12 +57,6 @@ http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=858547&exte
 #EXTINF:0 tvg-id="" group-title="Películas y Series" tvg-logo="", FOX (Honduras)
 #EXTVLCOPT:network-caching=1000
 http://201.207.54.159:8000/play/a0ar/index.m3u8
-#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports
-#EXTVLCOPT:network-caching=1000
-http://38.224.175.2:8000/play/a09o
-#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png", DSports Uruguay
-#EXTVLCOPT:network-caching=1000
-http://186.33.57.100:8000/play/a2o3
 #EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Teleamazonas
 #EXTVLCOPT:network-caching=1000
 http://186.5.77.99:8000/play/a0am
@@ -72,13 +66,7 @@ http://132.255.210.69:9000/play/a033/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Películas y Series" tvg-logo="", FOX (Región desc)
 #EXTVLCOPT:network-caching=1000
 http://179.60.224.196:8000/play/a0i0
-#EXTINF:0 tvg-id="" group-title="Deportes" tvg-logo="", TyC Sports (Argentina)
-#EXTVLCOPT:network-caching=1000
-http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-tycsport.playlist.m3u8
 #EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Chilevisión (Chile) OPT-1
-#EXTVLCOPT:network-caching=1000
-http://38.97.240.11:8000/play/a0fe/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Chilevisión (Chile) OPT-2
 #EXTVLCOPT:network-caching=1000
 http://181.79.87.132:8000/play/a0cy/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Caracol (Colombia) OPT-1
@@ -90,45 +78,24 @@ http://181.78.168.37:8000/play/a0d3
 #EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", RCN SD (Colombia) 
 #EXTVLCOPT:network-caching=1000
 http://181.78.168.37:8000/play/a0d2
-#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", RCN (Colombia) 
-#EXTVLCOPT:network-caching=1000
-http://181.118.151.218:8000/play/a01c
 #EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Teleamazonas (Ecuador)
 #EXTVLCOPT:network-caching=1000
 http://181.79.87.132:8000/play/a0bw/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Películas y Series" tvg-logo="", FOX (El Salvador)
-#EXTVLCOPT:network-caching=1000
-http://201.207.54.159:8000/play/a0av/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Canal 7 (Guatemala)
 #EXTVLCOPT:network-caching=1000
 http://201.207.54.159:8000/play/a04i/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Canal 11 TeleOnce (Guatemala)
-#EXTVLCOPT:network-caching=1000
-http://201.207.54.159:8000/play/a03c/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Azteca 7 (México) OPT-1
 #EXTVLCOPT:network-caching=1000
 http://45.171.64.30:2000/play/a00i/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Canal 5 (México) OPT-1
 #EXTVLCOPT:network-caching=1000
 http://45.171.64.30:2000/play/a038/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Paraguay" tvg-logo="", GEN (Paraguay)
-#EXTVLCOPT:network-caching=1000
-https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion
-#EXTINF:0 tvg-id="" group-title="Paraguay" tvg-logo="", Popu TV (Paraguay) OPT-1
-#EXTVLCOPT:network-caching=1000
-https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
-#EXTINF:0 tvg-id="" group-title="Paraguay" tvg-logo="", Popu TV (Paraguay) OPT-2
+#EXTINF:0 tvg-id="" group-title="Paraguay" tvg-logo="", Popu TV (Paraguay)
 #EXTVLCOPT:network-caching=1000
 http://181.79.87.132:8000/play/a0ec/index.m3u8
 #EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Telemundo (USA)
 #EXTVLCOPT:network-caching=1000
-https://i1.ut770.freelocaltv.org/hls/ktmw-20_hls/ktmw-20_master.m3u8
-#EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Chilevisión
-#EXTVLCOPT:network-caching=1000
-http://190.95.11.223:8000/play/066
-#EXTINF:0 tvg-id="" group-title="Deportes" tvg-logo="", Win Sports (Colombia)
-#EXTVLCOPT:network-caching=1000
-http://181.118.151.218:8000/play/a02u
+
 #EXTINF:0 tvg-id="" group-title="Televisión Abierta" tvg-logo="", Teletica
 #EXTVLCOPT:network-caching=1000
 http://181.119.177.253:8000/play/a0da
@@ -189,9 +156,6 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3c20166660a93a75ac77db81567389f7":"3cc1add43aecce3fe31c9c6a2a5b8c21"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
-#EXTINF:0 tvg-id="CNLA_PAN.co" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network LA
-#EXTVLCOPT:network-caching=1000
-http://190.60.41.107:8008/play/a0k2
 #EXTINF:0 tvg-id="CNLA_PAN.co" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network LA Astra
 #EXTVLCOPT:network-caching=1000
 http://38.156.13.106:8888/play/a00b/index.m3u8
@@ -578,12 +542,9 @@ https://dish.akamaized.net/Content/DASH/Live/channel(e8dd8035-5c7e-f820-eec5-65a
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=761160036506af26092b33aa78cf320c:f4e90d977d91cd5be891c2a50a11f979
 https://dish.akamaized.net/Content/DASH/Live/channel(c0d08eba-2d62-97ad-fbc6-821201567186)/manifest.mpd
-#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Panregional)
+#EXTINF:0 tvg-id="CNLA_PAN.co" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", CN SD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://190.83.9.222:8000/play/ca065
-#EXTINF:0 tvg-id="Cartoon Network.pe" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network SD Panregional
-#EXTVLCOPT:network-caching=1000
-http://200.115.96.66:4000/play/a0dd
 #EXTINF:-1 tvg-id="Cartoon Network (HD).hu" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network CEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
@@ -594,7 +555,7 @@ https://tvcdn.tv.telia.lt/live/eds/Cartoon_Network_HD/DASH_5_CPIX_NPVR/Cartoon_N
 #EXTINF:0 group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network Japan
 #EXTVLCOPT:network-caching=1000
 https://nl.utako.moe/cartoon_network/index.m3u8
-#EXTINF:0 tvg-id="Cartoon Network.cl" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network (PAN)
+#EXTINF:0 tvg-id="CNLA_PAN.co" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network (PAN)
 #EXTVLCOPT:network-caching=1000
 http://45.171.64.30:6060/play/a01h
 #EXTINF:0 tvg-id="Cartoon Network.bg" group-title="Infantil" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png", Cartoon Network (Bulgaria)
@@ -661,8 +622,11 @@ https://covoslivechannels2dash.clarovideo.com/content/DASH_DASH_FK/Live/Channel(
 https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(DISCOVERY_KIDS_HD)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9201c07931b74c37c4e30a9e96b64c30:8e1ce4f1b1185f64e42f9974cbad1442
-#EXTINF:-1 ch-number="204" tvg-id="DKLA_MX.mx" tvg-logo="https://i.postimg.cc/WbSw-Jyxm/DKids.png" group-title="Infantil", Discovery Kids (México)
-
+#EXTINF:-1 tvg-id="DKLA_MX.mx" tvg-logo="https://i.postimg.cc/WbSw-Jyxm/DKids.png" group-title="Infantil", Discovery Kids México HD (Izzigo)
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9201c07931b74c37c4e30a9e96b64c30:8e1ce4f1b1185f64e42f9974cbad1442
+https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
 #EXTINF:-1 tvg-id="DKLA_MX.mx" tvg-logo="https://i.postimg.cc/WbSw-Jyxm/DKids.png" group-title="Infantil", Discovery Kids México
 #EXTHTTP:{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream=inputstream.adaptive
@@ -670,21 +634,18 @@ https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(DI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7cae93bd734b0a3456369213fd54bf98:53d8db9b3cbad9c6ca4ab190f0b409ff
 https://bpk.startvstream.com/bpk-tv/kids/cdn_bpk/index.mpd|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/148.0.0.0%20Safari/537.36&Referer=https%3A//edgelb.stargroup.com.mx/
-#EXTINF:0 tvg-id="DKLA_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Colombia)
-#EXTVLCOPT:network-caching=1000
-http://181.118.158.103:8000/play/a00o
 #EXTINF:0 tvg-id="DKLA_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids HD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://200.4.244.29:8000/play/a03e
 #EXTINF:0 tvg-id="DKLA_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Subfeed Caribe)
 #EXTVLCOPT:network-caching=1000
-http://lunar.pm:8080/live/Mrpercel/wPmDRknOaL/120269.ts
-#EXTINF:0 tvg-id="DKLA_MX.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids SD (México)
+
+#EXTINF:0 tvg-id="DKLA_MX.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids México SD (Dish)
 #EXTVLCOPT:network-caching=1000
-http://45.189.62.33:8002/play/a0an
+http://200.71.111.190:8000/play/a0an/index.m3u8?hls
 #EXTINF:0 tvg-id="DKLA_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Panregional) SAP
 #EXTVLCOPT:network-caching=1000
-http://168.228.44.241:9998/play/a0c7
+
 #EXTINF:0 tvg-id="DKLA_BR.br" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Brasil)
 #EXTVLCOPT:network-caching=1000
 
@@ -750,12 +711,6 @@ http://38.87.224.21:2220/play/a031
 #EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-kingdom/nick-toons-uk.png", Nicktoons (Bulgaria)
 #EXTVLCOPT:network-caching=1000
 http://193.235.65.225:9983/stream/channelid/1253454710?profile=pass
-#EXTINF:0 tvg-id="GOLDEN HD.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/golden-lam.png", GOLDEN HD (Colombia)
-#EXTVLCOPT:network-caching=1000
-http://181.118.158.103:8000/play/a013
-#EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/golden-edge-lam.png", GOLDEN EDGE HD (Colombia)
-#EXTVLCOPT:network-caching=1000
-http://181.118.158.103:8000/play/a014
 #EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/golden-plus-lam.png", GOLDEN PLUS HD (Colombia)
 #EXTVLCOPT:network-caching=1000
 http://45.177.21.6:9000/play/a01w
