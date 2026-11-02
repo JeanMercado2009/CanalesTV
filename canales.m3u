@@ -642,7 +642,7 @@ http://200.71.111.190:8000/play/a0an/index.m3u8?hls
 
 #EXTINF:0 tvg-id="DKLA_BR.br" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Brasil)
 #EXTVLCOPT:network-caching=1000
-
+http://45.140.192.92:3000/stream/discovery-kids
 #EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-channel-lam.png", Disney Channel CEE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
