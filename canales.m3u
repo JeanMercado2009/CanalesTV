@@ -669,12 +669,12 @@ http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2a54fcc9e39ebb71a0a91b0b7e1946b9":"0720f4901617bf3db3581d55110d7ef6"}
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISNEYJR_HD)/manifest.mpd
-#EXTINF:0 tvg-id="DISNEY JUNIOR.ar" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-jr-lam.png", Disney Jr. (Sur) SD
-#EXTVLCOPT:network-caching=1000
-http://190.60.42.86:8000/play/a00a
 #EXTINF:0 tvg-id="DISNEY JUNIOR.ar" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-jr-lam.png", Disney Jr. (Sur)
 #EXTVLCOPT:network-caching=1000
-http://38.7.101.90:8000/play/a1zp
+https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:0 tvg-id="DISNEY JUNIOR.ar" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/disney-jr-lam.png", Disney Jr. (Sur) 2 SD
+#EXTVLCOPT:network-caching=1000
+http://190.60.42.86:8000/play/a00a
 #EXTINF:0 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon (Global)
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
