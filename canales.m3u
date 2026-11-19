@@ -602,13 +602,13 @@ https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(TO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"601f58d4b7094d2baf78c85d1d9cb6c9":"609e0cc03198455fa36fd2cc3e7f940d"}
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/main.mpd
-#EXTINF:0 tvg-id="DKLA_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Panregional MPD)
+#EXTINF:0 tvg-id="DK_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Panregional MPD)
 #EXTVLCOPT:network-caching=1000
 #EXTHTTP:{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"651f6dd6967f69266539faca5336fc79":"cab01b81a1dc7772fef494e5f898b50c"}
 https://covoslivechannels2dash.clarovideo.com/content/DASH_DASH_FK/Live/Channel(DISCOVERY_KIDS_HD)/manifest.mpd
-#EXTINF:0 tvg-id="DKLA_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Panregional)
+#EXTINF:0 tvg-id="DK_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Panregional)
 #EXTVLCOPT:network-caching=1000
 #EXTHTTP:{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -616,31 +616,31 @@ https://covoslivechannels2dash.clarovideo.com/content/DASH_DASH_FK/Live/Channel(
 https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(DISCOVERY_KIDS_HD)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9201c07931b74c37c4e30a9e96b64c30:8e1ce4f1b1185f64e42f9974cbad1442
-#EXTINF:-1 tvg-id="DKLA_MX.mx" tvg-logo="https://i.postimg.cc/WbSw-Jyxm/DKids.png" group-title="Infantil", Discovery Kids México HD (Izzigo)
+#EXTINF:-1 tvg-id="DK_MX.mx" tvg-logo="https://i.postimg.cc/WbSw-Jyxm/DKids.png" group-title="Infantil", Discovery Kids México HD (Izzigo)
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9201c07931b74c37c4e30a9e96b64c30:8e1ce4f1b1185f64e42f9974cbad1442
 https://hfc-tlx-live-atv-cdn.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
-#EXTINF:-1 tvg-id="DKLA_MX.mx" tvg-logo="https://i.postimg.cc/WbSw-Jyxm/DKids.png" group-title="Infantil", Discovery Kids México
+#EXTINF:-1 tvg-id="DK_MX.mx" tvg-logo="https://i.postimg.cc/WbSw-Jyxm/DKids.png" group-title="Infantil", Discovery Kids México
 #EXTHTTP:{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7cae93bd734b0a3456369213fd54bf98:53d8db9b3cbad9c6ca4ab190f0b409ff
 https://bpk.startvstream.com/bpk-tv/kids/cdn_bpk/index.mpd|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/148.0.0.0%20Safari/537.36&Referer=https%3A//edgelb.stargroup.com.mx/
-#EXTINF:0 tvg-id="DKLA_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids HD (Panregional)
+#EXTINF:0 tvg-id="DK_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids HD (Panregional)
 #EXTVLCOPT:network-caching=1000
 http://200.4.244.29:8000/play/a03e
-#EXTINF:0 tvg-id="DKLA_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Subfeed Caribe)
+#EXTINF:0 tvg-id="DK_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Subfeed Caribe)
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:0 tvg-id="DKLA_MX.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids México SD (Dish)
+#EXTINF:0 tvg-id="DK_MX.mx" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids México SD (Dish)
 #EXTVLCOPT:network-caching=1000
 http://200.71.111.190:8000/play/a0an/index.m3u8?hls
-#EXTINF:0 tvg-id="DKLA_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Panregional) SAP
+#EXTINF:0 tvg-id="DK_PAN.co" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Panregional) SAP
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:0 tvg-id="DKLA_BR.br" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Brasil)
+#EXTINF:0 tvg-id="DK_BR.br" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-kids-lam.png", Discovery Kids (Brasil)
 #EXTVLCOPT:network-caching=1000
 #EXTHTTP:{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 http://srv.mypanel.life:8080/jju4420/NebeQ90Mp1/4002
