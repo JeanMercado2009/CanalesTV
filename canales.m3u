@@ -208,7 +208,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(cartoonnetworks)/variant.mp
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd2c2f31defc5f22f031365d3333c880:f0597b0c74656c330dd6ccd50dfc5464
 https://dish.akamaized.net/Content/DASH/Live/channel(cartoonitohd)/variant.mpd
-#EXTINF:-1 tvg-id="DKLA_MX.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/792.png", Discovery Kids MX (GEO)
+#EXTINF:-1 tvg-id="DK_MX.mx" group-title="México" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/792.png", Discovery Kids MX (GEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a57ec54090c0b450f2e2ef90de4013f9":"a49da89c878182c99b9d2e9282d5aa3a"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://dish.akamaized.net
