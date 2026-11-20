@@ -1164,7 +1164,15 @@ http://190.66.23.210:9003/play/a0ec
 #EXTINF:0 group-title="Televisión Abierta" tvg-logo="", TL Más SV
 #EXTVLCOPT:network-caching=1000
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:0 tvg-id="RCN HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", RCN HD OPT-2
+# === INICIO ECOSISTEMA RCN ===
+#EXTINF:0 tvg-id="CanalRCN.co" group-title="Ecosistema RCN" tvg-logo="", Canal RCN
+#EXTVLCOPT:network-caching=1000
+#EXTHTTP:{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"872c6b3fe17a3d81b0e670c9aa2a1f77":"531fc3d038a6e71649cdb0ba3e465a88","00000000000000000000000000000000":"c8f5f723c699bd7847e7ee863b19bf51","4258f7247ec041dbc47082819c857bab":"b2f5e8f073d02f0bdee08723f0e58a4d","764f6e84763f46029c56e7eb47367e87":"6a652aaeee3614985dadd047f4a611e0","5a943cad6ab15cb38be03142ec55b493":"1ccc5f5f9567fcf414fe9b31aa32245a"}
+https://362a33c2a385d7d1e52d89d18e7b847cb94bddad.cdn.broadpeak.io/out/v1/03d8d938b87b4b3981b7fdfa6a00a9b1/index.mpd
+# === FIN ECOSISTEMA RCN ===
+#EXTINF:0 tvg-id="RCN HD.co" group-title="Ecosistema RCN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", RCN HD OPT-2
 #EXTVLCOPT:network-caching=1000
 http://cablelibretv.freeddns.org/PlaySiloh/index/3
 #EXTINF:0 tvg-id="RCN HD.co" group-title="Televisión Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", RCN HD
