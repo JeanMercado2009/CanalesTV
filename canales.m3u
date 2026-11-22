@@ -1171,6 +1171,30 @@ https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"872c6b3fe17a3d81b0e670c9aa2a1f77":"531fc3d038a6e71649cdb0ba3e465a88","00000000000000000000000000000000":"c8f5f723c699bd7847e7ee863b19bf51","4258f7247ec041dbc47082819c857bab":"b2f5e8f073d02f0bdee08723f0e58a4d","764f6e84763f46029c56e7eb47367e87":"6a652aaeee3614985dadd047f4a611e0","5a943cad6ab15cb38be03142ec55b493":"1ccc5f5f9567fcf414fe9b31aa32245a"}
 https://362a33c2a385d7d1e52d89d18e7b847cb94bddad.cdn.broadpeak.io/out/v1/03d8d938b87b4b3981b7fdfa6a00a9b1/index.mpd
+#EXTINF:0 tvg-id="DeportesRCN.co" group-title="Ecosistema RCN" tvg-logo="", Deportes RCN
+#EXTVLCOPT:network-caching=1000
+#EXTHTTP:{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0","referer":"https://www.canalrcn.com/","origin":"https://www.canalrcn.com"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3b79379b888c30158c133398ab4ecf29":"b9186022ce76410a6956f35809e93b9d","00000000000000000000000000000000":"395bae46b4f6cf5b0f881a9599f30552","6aa6a74d5e1cfbfdf5356741a3a34563":"b38163690d42007f1d59361433077568","7b676de6f0454aa183f6f31b86da51a7":"fac865b328deb56ea8bcaa9cb2f286ec","5a943cad6ab15cb38be03142ec55b493":"4e68eefe53bd645c5af8d7d7c65f394c"}
+https://362a33c2a385d7d1e52d89d11a8bc5f4116ee141.cdn.broadpeak.io/bcdn_token=btsE9636hYYhBTicAzvy3e9DKvVvrL09C6pdrAbDAaQ&token_ignore_params=true&token_path=%2FContent%2FDASH_DASH%2FLive%2Fchannel(rcn-fastchanneldeportes)%2F&expires=1795372082/Content/DASH_DASH/Live/channel(rcn-fastchanneldeportes)/master.mpd
+#EXTINF:0 tvg-id="NoticiasRCN.co" group-title="Ecosistema RCN" tvg-logo="", Noticias RCN
+#EXTVLCOPT:network-caching=1000
+#EXTHTTP:{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0","referer":"https://www.canalrcn.com/","origin":"https://www.canalrcn.com"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"86a0e93a567d328eb740b5b1a1e788f5":"0359794329485ce3bf1d20b299d28a1b","0cb811bcb8d542cc71fd7d85913882f6":"dc65207488647bd0a148ec6d58e79ad5","00000000000000000000000000000000":"d546890e945b31a5fc0b3959d3d6c43c","b726ce0292372c930a27e119e898ab71":"0f0353941cbbb4cb8f107b147721649b","d688b3c983704359b9ee2e4077aa0ed4":"15e811e89fcee9ff18b98ebf3461acc7","5a943cad6ab15cb38be03142ec55b493":"f50fe3299d0048566fbfe2d68db64be6"}
+https://362a33c2a385d7d1e52d89d12f17acc1a2b50b0f.cdn.broadpeak.io/bcdn_token=yAW-mzFgHW2tXNKC5VacyVjvEDOiyzN0meAN74F3xk4&token_ignore_params=true&token_path=%2FContent%2FDASH_DASH%2FLive%2Fchannel(rcn-noticias)%2F&expires=1795372583/Content/DASH_DASH/Live/channel(rcn-noticias)/master.mpd
+#EXTINF:0 tvg-id="LaFMVideo.co" group-title="Ecosistema RCN" tvg-logo="", La FM (Video)
+#EXTVLCOPT:network-caching=1000
+#EXTHTTP:{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0","referer":"https://www.canalrcn.com/","origin":"https://www.canalrcn.com"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b19f1602ed0231d5a874d6df93ba0040":"3da1a00b1eb12385dfab6cab803fc5ba"}
+https://362a33c2a385d7d1e52d89d160b2e14921a2a694.cdn.broadpeak.io/bcdn_token=2QLiA7moSY6kqoLYkBNLlmUGZaugOXTCrs2Yy_UGz68&token_ignore_params=true&token_path=%2FContent%2FChannel%2Frcn-lafm%2FDASH%2F&expires=1795372654/Content/Channel/rcn-lafm/DASH/master.mpd
+#EXTINF:0 tvg-id="AlertaVideo.co" group-title="Ecosistema RCN" tvg-logo="", Alerta (Video)
+#EXTVLCOPT:network-caching=1000
+#EXTHTTP:{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36 Edg/158.0.0.0","referer":"https://www.canalrcn.com/","origin":"https://www.canalrcn.com"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1d820cf98d7d36ce825d592b122bb8a8":"49c9f188bd097b27a8f140a64536cd95"}
+https://362a33c2a385d7d1e52d89d1d05f655540b2e76a.cdn.broadpeak.io/bcdn_token=A-0B2QOFMhjOY9ItOrpycpyUb7BTIjoUMBU4g0KOtCg&token_ignore_params=true&token_path=%2FContent%2FChannel%2Frcn-alerta%2FDASH%2F&expires=1795372697/Content/Channel/rcn-alerta/DASH/master.mpd
 # === FIN ECOSISTEMA RCN ===
 #EXTINF:0 tvg-id="RCN HD.co" group-title="Ecosistema RCN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_RCN_2023_Verde_Claro.svg/revision/latest/scale-to-width-down/180?cb=20240410143702&path-prefix=es", RCN HD OPT-2
 #EXTVLCOPT:network-caching=1000
